@@ -93,3 +93,98 @@
 2020-09-19T19:47:43: Done.
 2020-09-19T19:47:43: 
 2020-09-19T19:47:43: Save...
+2020-09-19T19:51:27: 
+2020-09-19T19:51:27: > wells-web-crawler@1.0.0 start /home/volumio/crawler
+2020-09-19T19:51:27: > node ./service/schedule.js
+2020-09-19T19:51:27: 
+2020-09-19T19:51:34: Start crawler @ 7:51:34 PM
+2020-09-19T19:51:39: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
+2020-09-19T19:51:39:   'https://www.sierra.com/gregory~b~7155/',
+2020-09-19T19:51:39:   'https://www.steepandcheap.com/arcteryx',
+2020-09-19T19:51:39:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+2020-09-19T19:51:39:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
+2020-09-19T19:51:39: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+2020-09-19T19:51:39: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+2020-09-19T19:51:40: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+2020-09-19T19:51:56: 	Removed duplicated by id, found... 0
+2020-09-19T19:51:56: 	There are 13 items in the previous list.
+2020-09-19T19:51:56: 	There are 13 items in the latest list.
+2020-09-19T19:51:56: 	There are 0 items is removed
+2020-09-19T19:51:56: 	There are 0 items is added
+2020-09-19T19:51:56: 	There are 0 items price is changed
+2020-09-19T19:51:56: Done.
+2020-09-19T19:51:56: 
+2020-09-19T19:51:56: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+2020-09-19T19:51:56: Fetch... https://www.sierra.com/gregory~b~7155/
+2020-09-19T19:52:08: 	Removed duplicated by id, found... 0
+2020-09-19T19:52:08: 	There are 18 items in the previous list.
+2020-09-19T19:52:08: 	There are 18 items in the latest list.
+2020-09-19T19:52:08: 	There are 0 items is removed
+2020-09-19T19:52:08: 	There are 0 items is added
+2020-09-19T19:52:08: 	There are 0 items price is changed
+2020-09-19T19:52:08: Done.
+2020-09-19T19:52:08: 
+2020-09-19T19:52:08: Automatically add sort query paramter to make list stable
+2020-09-19T19:52:08: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+2020-09-19T19:52:08: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:52:13: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:52:17: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:52:20: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:52:24: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:52:27: Is equal? false
+2020-09-19T19:52:29: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:52:32: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:52:35: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:52:38: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:52:41: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:52:45: Is equal? true
+2020-09-19T19:52:45: done
+2020-09-19T19:52:45: 	Removed duplicated by id, found... 0
+2020-09-19T19:52:45: 	There are 198 items in the previous list.
+2020-09-19T19:52:45: 	There are 198 items in the latest list.
+2020-09-19T19:52:45: 	There are 0 items is removed
+2020-09-19T19:52:45: 	There are 0 items is added
+2020-09-19T19:52:45: 	There are 0 items price is changed
+2020-09-19T19:52:45: Done.
+2020-09-19T19:52:45: 
+2020-09-19T19:52:45: Automatically add sort query paramter to make list stable
+2020-09-19T19:52:45: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T19:52:45: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T19:52:47: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T19:52:50: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T19:52:53: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T19:52:54: Is equal? false
+2020-09-19T19:52:56: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T19:52:59: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T19:53:01: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T19:53:04: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T19:53:06: Is equal? true
+2020-09-19T19:53:06: done
+2020-09-19T19:53:06: 	Removed duplicated by id, found... 0
+2020-09-19T19:53:06: 	There are 144 items in the previous list.
+2020-09-19T19:53:06: 	There are 144 items in the latest list.
+2020-09-19T19:53:06: 	There are 0 items is removed
+2020-09-19T19:53:06: 	There are 0 items is added
+2020-09-19T19:53:06: 	There are 0 items price is changed
+2020-09-19T19:53:06: Done.
+2020-09-19T19:53:06: 
+2020-09-19T19:53:06: Automatically add sort query paramter to make list stable
+2020-09-19T19:53:06: Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T19:53:06: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T19:53:09: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T19:53:12: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T19:53:14: Is equal? false
+2020-09-19T19:53:16: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T19:53:19: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T19:53:21: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T19:53:24: Is equal? true
+2020-09-19T19:53:24: done
+2020-09-19T19:53:24: 	Removed duplicated by id, found... 0
+2020-09-19T19:53:24: 	There are 106 items in the previous list.
+2020-09-19T19:53:24: 	There are 106 items in the latest list.
+2020-09-19T19:53:24: 	There are 0 items is removed
+2020-09-19T19:53:24: 	There are 0 items is added
+2020-09-19T19:53:24: 	There are 0 items price is changed
+2020-09-19T19:53:24: Done.
+2020-09-19T19:53:24: 
+2020-09-19T19:53:24: Save...
