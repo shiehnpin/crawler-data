@@ -1,0 +1,27 @@
+[ './log/error_ci.log',
+  './log/error.log',
+  './log/error_ngrok.log' ]
+Watching for file changes on ./log/error_ci.log
+Watching for file changes on ./log/error.log
+Watching for file changes on ./log/error_ngrok.log
+Received a Push for crawler
+Upgrading..
+Your branch is up-to-date with 'origin/master'.
+Already up-to-date.
+audited 77 packages in 5.343s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[PM2] Applying action reloadProcessId on app [crawler-ci](ids: 0)
+[PM2] Applying action reloadProcessId on app [crawler-scheduler](ids: 1)
+[PM2] [crawler-scheduler](1) ✓
+Received SIGINT
+[ './log/error_ci.log',
+  './log/error.log',
+  './log/error_ngrok.log' ]
+Watching for file changes on ./log/error_ci.log
+Watching for file changes on ./log/error.log
+Watching for file changes on ./log/error_ngrok.log
