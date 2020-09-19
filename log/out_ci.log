@@ -25,3 +25,28 @@ Received SIGINT
 Watching for file changes on ./log/error_ci.log
 Watching for file changes on ./log/error.log
 Watching for file changes on ./log/error_ngrok.log
+Received a Push for crawler
+Upgrading..
+Your branch is up-to-date with 'origin/master'.
+Updating 21cf0a1..2702545
+Fast-forward
+ config.yml                             | 4 ++++
+ service/crawler/steepandcheap/index.js | 4 ++--
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+audited 77 packages in 6.06s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[PM2] Applying action reloadProcessId on app [crawler-ci](ids: 0)
+[PM2] Applying action reloadProcessId on app [crawler-scheduler](ids: 1)
+[PM2] [crawler-scheduler](1) ✓
+Received SIGINT
+[ './log/error_ci.log',
+  './log/error.log',
+  './log/error_ngrok.log' ]
+Watching for file changes on ./log/error_ci.log
+Watching for file changes on ./log/error.log
+Watching for file changes on ./log/error_ngrok.log
