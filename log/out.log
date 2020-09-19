@@ -1,0 +1,93 @@
+Start crawler @ 下午11:45:28
+Load sites [
+  'https://www.sierra.com/mystery-ranch~b~37083/',
+  'https://www.sierra.com/gregory~b~7155/',
+  'https://www.steepandcheap.com/arcteryx',
+  'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+  'https://www.steepandcheap.com/fjallraven?sort=%2Bprice'
+]
+Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+	Removed duplicated by id, found... 0
+	There are 13 items in the previous list.
+	There are 13 items in the latest list.
+	There are 0 items is removed
+	There are 0 items is added
+	There are 0 items price is changed
+Done.
+
+Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+Fetch... https://www.sierra.com/gregory~b~7155/
+	Removed duplicated by id, found... 0
+	There are 18 items in the previous list.
+	There are 18 items in the latest list.
+	There are 0 items is removed
+	There are 0 items is added
+	There are 0 items price is changed
+Done.
+
+Automatically add sort query paramter to make list stable
+Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+Is equal? false
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+Is equal? true
+done
+	Removed duplicated by id, found... 0
+	There are 196 items in the previous list.
+	There are 196 items in the latest list.
+	There are 0 items is removed
+	There are 0 items is added
+	There are 0 items price is changed
+Done.
+
+Automatically add sort query paramter to make list stable
+Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+Is equal? false
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+Is equal? true
+done
+	Removed duplicated by id, found... 0
+	There are 144 items in the previous list.
+	There are 144 items in the latest list.
+	There are 0 items is removed
+	There are 0 items is added
+	There are 0 items price is changed
+Done.
+
+Automatically add sort query paramter to make list stable
+Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+Is equal? false
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+Is equal? true
+done
+	Removed duplicated by id, found... 0
+	There are 106 items in the previous list.
+	There are 106 items in the latest list.
+	There are 0 items is removed
+	There are 0 items is added
+	There are 0 items price is changed
+Done.
+
+Save...
