@@ -229,3 +229,210 @@
 2020-09-19T19:53:12: Your branch is up-to-date with 'origin/master'.
 2020-09-19T19:53:13: HEAD is now at 924406c test ci
 2020-09-19T19:53:14: Already up-to-date.
+2020-09-19T19:53:27: npm
+2020-09-19T19:53:27:  WARN wells-web-crawler@1.0.0 No repository field.
+2020-09-19T19:53:27: 
+2020-09-19T19:53:27: audited 77 packages in 6.272s
+2020-09-19T19:53:27: 
+2020-09-19T19:53:27: 7 packages are looking for funding
+2020-09-19T19:53:27:   run `npm fund` for details
+2020-09-19T19:53:27: 
+2020-09-19T19:53:27: found 0 vulnerabilities
+2020-09-19T19:53:27: 
+2020-09-19T19:53:30: [PM2] Applying action stopProcessId on app [crawler-scheduler](ids: 0)
+2020-09-19T19:53:30: [PM2] [crawler-scheduler](0) ✓
+2020-09-19T19:53:30: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-09-19T19:53:30: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-09-19T19:53:30: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-09-19T19:53:30: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-09-19T19:53:30: │ 1   │ crawler-ci           │ default     │ 0.35.3  │ fork    │ 1513     │ 2m     │ 0    │ online    │ 0%       │ 35.9mb   │ volumio  │ disabled │
+2020-09-19T19:53:30: │ 0   │ crawler-scheduler    │ default     │ 0.35.3  │ fork    │ 0        │ 0      │ 0    │ stopped   │ 0%       │ 0b       │ volumio  │ disabled │
+2020-09-19T19:53:30: │ 2   │ ngrok                │ default     │ 0.35.3  │ fork    │ 1514     │ 2m     │ 0    │ online    │ 0%       │ 40.1mb   │ volumio  │ disabled │
+2020-09-19T19:53:30: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-09-19T19:53:30: Installing:  done.
+2020-09-19T19:53:33: [PM2] Applying action deleteProcessId on app [crawler-scheduler](ids: 0)
+2020-09-19T19:53:33: [PM2] [crawler-scheduler](0) ✓
+2020-09-19T19:53:33: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-09-19T19:53:33: ┌─────┬───────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-09-19T19:53:33: │ id  │ name          │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-09-19T19:53:33: ├─────┼───────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-09-19T19:53:33: │ 1   │ crawler-ci    │ default     │ 0.35.3  │ fork    │ 1513     │ 2m     │ 0    │ online    │ 0%       │ 35.9mb   │ volumio  │ disabled │
+2020-09-19T19:53:33: │ 2   │ ngrok         │ default     │ 0.35.3  │ fork    │ 1514     │ 2m     │ 0    │ online    │ 0%       │ 40.1mb   │ volumio  │ disabled │
+2020-09-19T19:53:33: └─────┴───────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-09-19T19:53:35: [PM2] Starting /home/volumio/.nvm/versions/node/v10.22.1/bin/npm in fork_mode (1 instance)
+2020-09-19T19:53:35: [PM2] Done.
+2020-09-19T19:53:35: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-09-19T19:53:35: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-09-19T19:53:35: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-09-19T19:53:35: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-09-19T19:53:35: │ 1   │ crawler-ci           │ default     │ 0.35.3  │ fork    │ 1513     │ 2m     │ 0    │ online    │ 0%       │ 36.2mb   │ volumio  │ disabled │
+2020-09-19T19:53:35: │ 3   │ crawler-scheduler    │ default     │ 0.35.3  │ fork    │ 2836     │ 0s     │ 0    │ online    │ 100%     │ 19.0mb   │ volumio  │ disabled │
+2020-09-19T19:53:35: │ 2   │ ngrok                │ default     │ 0.35.3  │ fork    │ 1514     │ 2m     │ 0    │ online    │ 0%       │ 40.3mb   │ volumio  │ disabled │
+2020-09-19T19:53:35: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-09-19T19:53:38: Use --update-env to update environment variables
+2020-09-19T19:53:38: [PM2] Applying action reloadProcessId on app [crawler-ci](ids: 1)
+2020-09-19T19:53:38: Received SIGINT
+2020-09-19T19:53:38: 
+2020-09-19T19:53:38: > wells-web-crawler@1.0.0 start /home/volumio/crawler
+2020-09-19T19:53:38: > node ./service/schedule.js
+2020-09-19T19:53:38: 
+2020-09-19T19:53:42: 
+2020-09-19T19:53:42: > wells-web-crawler@1.0.0 ci /home/volumio/crawler
+2020-09-19T19:53:42: > node ./index.js
+2020-09-19T19:53:42: 
+2020-09-19T19:53:42: Start crawler @ 7:53:42 PM
+2020-09-19T19:53:44: Watching for file changes on ./log/error.log
+2020-09-19T19:53:48: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
+2020-09-19T19:53:48:   'https://www.sierra.com/gregory~b~7155/',
+2020-09-19T19:53:48:   'https://www.steepandcheap.com/arcteryx',
+2020-09-19T19:53:48:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+2020-09-19T19:53:48:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
+2020-09-19T19:53:48: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+2020-09-19T19:53:48: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+2020-09-19T19:53:48: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+2020-09-19T19:54:04: 	Removed duplicated by id, found... 0
+2020-09-19T19:54:04: 	There are 13 items in the previous list.
+2020-09-19T19:54:04: 	There are 13 items in the latest list.
+2020-09-19T19:54:04: 	There are 0 items is removed
+2020-09-19T19:54:04: 	There are 0 items is added
+2020-09-19T19:54:04: 	There are 0 items price is changed
+2020-09-19T19:54:04: Done.
+2020-09-19T19:54:04: 
+2020-09-19T19:54:04: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+2020-09-19T19:54:04: Fetch... https://www.sierra.com/gregory~b~7155/
+2020-09-19T19:54:17: 	Removed duplicated by id, found... 0
+2020-09-19T19:54:17: 	There are 18 items in the previous list.
+2020-09-19T19:54:17: 	There are 18 items in the latest list.
+2020-09-19T19:54:17: 	There are 0 items is removed
+2020-09-19T19:54:17: 	There are 0 items is added
+2020-09-19T19:54:17: 	There are 0 items price is changed
+2020-09-19T19:54:17: Done.
+2020-09-19T19:54:17: 
+2020-09-19T19:54:17: Automatically add sort query paramter to make list stable
+2020-09-19T19:54:17: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+2020-09-19T19:54:17: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:54:20: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:54:23: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:54:26: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:54:29: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:54:32: Is equal? false
+2020-09-19T19:54:34: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:54:37: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:54:40: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:54:44: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:54:47: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:54:50: Is equal? true
+2020-09-19T19:54:50: done
+2020-09-19T19:54:50: 	Removed duplicated by id, found... 0
+2020-09-19T19:54:50: 	There are 198 items in the previous list.
+2020-09-19T19:54:50: 	There are 198 items in the latest list.
+2020-09-19T19:54:50: 	There are 0 items is removed
+2020-09-19T19:54:50: 	There are 0 items is added
+2020-09-19T19:54:50: 	There are 0 items price is changed
+2020-09-19T19:54:50: Done.
+2020-09-19T19:54:50: 
+2020-09-19T19:54:50: Automatically add sort query paramter to make list stable
+2020-09-19T19:54:50: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T19:54:50: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T19:54:53: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T19:54:55: Reloading...
+2020-09-19T19:54:56: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T19:54:57: Use --update-env to update environment variables
+2020-09-19T19:54:58: [PM2] Applying action reloadProcessId on app [crawler-scheduler](ids: 3)
+2020-09-19T19:54:58: [PM2] [crawler-scheduler](3) ✓
+2020-09-19T19:54:58: Restarted successfully!
+2020-09-19T19:55:01: 
+2020-09-19T19:55:01: > wells-web-crawler@1.0.0 start /home/volumio/crawler
+2020-09-19T19:55:01: > node ./service/schedule.js
+2020-09-19T19:55:01: 
+2020-09-19T19:55:04: Start crawler @ 7:55:04 PM
+2020-09-19T19:55:09: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
+2020-09-19T19:55:09:   'https://www.sierra.com/gregory~b~7155/',
+2020-09-19T19:55:09:   'https://www.steepandcheap.com/arcteryx',
+2020-09-19T19:55:09:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+2020-09-19T19:55:09:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
+2020-09-19T19:55:09: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+2020-09-19T19:55:09: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+2020-09-19T19:55:09: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+2020-09-19T19:55:22: 	Removed duplicated by id, found... 0
+2020-09-19T19:55:22: 	There are 13 items in the previous list.
+2020-09-19T19:55:22: 	There are 13 items in the latest list.
+2020-09-19T19:55:22: 	There are 0 items is removed
+2020-09-19T19:55:22: 	There are 0 items is added
+2020-09-19T19:55:22: 	There are 0 items price is changed
+2020-09-19T19:55:22: Done.
+2020-09-19T19:55:22: 
+2020-09-19T19:55:22: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+2020-09-19T19:55:22: Fetch... https://www.sierra.com/gregory~b~7155/
+2020-09-19T19:55:33: 	Removed duplicated by id, found... 0
+2020-09-19T19:55:33: 	There are 18 items in the previous list.
+2020-09-19T19:55:33: 	There are 18 items in the latest list.
+2020-09-19T19:55:33: 	There are 0 items is removed
+2020-09-19T19:55:33: 	There are 0 items is added
+2020-09-19T19:55:33: 	There are 0 items price is changed
+2020-09-19T19:55:33: Done.
+2020-09-19T19:55:33: 
+2020-09-19T19:55:33: Automatically add sort query paramter to make list stable
+2020-09-19T19:55:33: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+2020-09-19T19:55:33: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:55:37: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:55:41: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:55:44: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:55:47: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:55:50: Is equal? false
+2020-09-19T19:55:52: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T19:55:55: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T19:55:58: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T19:56:00: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T19:56:04: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T19:56:07: Is equal? true
+2020-09-19T19:56:07: done
+2020-09-19T19:56:07: 	Removed duplicated by id, found... 0
+2020-09-19T19:56:07: 	There are 198 items in the previous list.
+2020-09-19T19:56:07: 	There are 198 items in the latest list.
+2020-09-19T19:56:07: 	There are 0 items is removed
+2020-09-19T19:56:07: 	There are 0 items is added
+2020-09-19T19:56:07: 	There are 0 items price is changed
+2020-09-19T19:56:07: Done.
+2020-09-19T19:56:07: 
+2020-09-19T19:56:07: Automatically add sort query paramter to make list stable
+2020-09-19T19:56:07: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T19:56:07: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T19:56:10: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T19:56:13: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T19:56:17: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T19:56:19: Is equal? false
+2020-09-19T19:56:21: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T19:56:24: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T19:56:26: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T19:56:29: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T19:56:31: Is equal? true
+2020-09-19T19:56:31: done
+2020-09-19T19:56:31: 	Removed duplicated by id, found... 0
+2020-09-19T19:56:31: 	There are 144 items in the previous list.
+2020-09-19T19:56:31: 	There are 144 items in the latest list.
+2020-09-19T19:56:31: 	There are 0 items is removed
+2020-09-19T19:56:31: 	There are 0 items is added
+2020-09-19T19:56:31: 	There are 0 items price is changed
+2020-09-19T19:56:31: Done.
+2020-09-19T19:56:31: 
+2020-09-19T19:56:31: Automatically add sort query paramter to make list stable
+2020-09-19T19:56:31: Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T19:56:31: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T19:56:34: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T19:56:36: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T19:56:38: Is equal? false
+2020-09-19T19:56:40: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T19:56:43: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T19:56:46: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T19:56:49: Is equal? true
+2020-09-19T19:56:49: done
+2020-09-19T19:56:49: 	Removed duplicated by id, found... 0
+2020-09-19T19:56:49: 	There are 106 items in the previous list.
+2020-09-19T19:56:49: 	There are 106 items in the latest list.
+2020-09-19T19:56:49: 	There are 0 items is removed
+2020-09-19T19:56:49: 	There are 0 items is added
+2020-09-19T19:56:49: 	There are 0 items price is changed
+2020-09-19T19:56:49: Done.
+2020-09-19T19:56:49: 
+2020-09-19T19:56:49: Save...
