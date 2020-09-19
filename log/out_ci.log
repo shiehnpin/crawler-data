@@ -50,3 +50,28 @@ Received SIGINT
 Watching for file changes on ./log/error_ci.log
 Watching for file changes on ./log/error.log
 Watching for file changes on ./log/error_ngrok.log
+Received a Push for crawler
+Upgrading..
+Your branch is up-to-date with 'origin/master'.
+Updating 2702545..f04eae9
+Fast-forward
+ config.yml | 4 +++-
+ index.js   | 2 --
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+audited 77 packages in 5.475s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[PM2] Applying action reloadProcessId on app [crawler-ci](ids: 0)
+2020-09-20 01:09 +08:00: [PM2] Applying action reloadProcessId on app [crawler-scheduler](ids: 1)
+2020-09-20 01:09 +08:00: [PM2] [crawler-scheduler](1) ✓
+2020-09-20 01:09 +08:00: Received SIGINT
+2020-09-20 01:09 +08:00: [ './log/error_ci.log',
+2020-09-20 01:09 +08:00:   './log/error.log',
+2020-09-20 01:09 +08:00:   './log/error_ngrok.log' ]
+2020-09-20 01:09 +08:00: Watching for file changes on ./log/error_ci.log
+2020-09-20 01:09 +08:00: Watching for file changes on ./log/error.log
+2020-09-20 01:09 +08:00: Watching for file changes on ./log/error_ngrok.log
