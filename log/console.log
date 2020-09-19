@@ -1,779 +1,95 @@
-2020-09-19T14:11:39: 
-2020-09-19T14:11:39: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:11:39: > node ./service/schedule.js
-2020-09-19T14:11:39: 
-2020-09-19T14:11:40: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:11:40:       } catch {
-2020-09-19T14:11:40:               ^
-2020-09-19T14:11:40: 
-2020-09-19T14:11:40: SyntaxError: Unexpected token {
-2020-09-19T14:11:40:     at createScript (vm.js:80:10)
-2020-09-19T14:11:40:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:11:40:     at Module._compile (module.js:616:28)
-2020-09-19T14:11:40:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:11:40:     at Module.load (module.js:565:32)
-2020-09-19T14:11:40:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:11:40:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:11:40:     at Module.require (module.js:596:17)
-2020-09-19T14:11:40:     at require (internal/module.js:11:18)
-2020-09-19T14:11:40:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:11:40: npm
-2020-09-19T14:11:40:  ERR! code ELIFECYCLE
-2020-09-19T14:11:40: npm 
-2020-09-19T14:11:40: ERR! errno 1
-2020-09-19T14:11:40: npm
-2020-09-19T14:11:40:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:11:40:  Exit status 1
-2020-09-19T14:11:40: npm
-2020-09-19T14:11:40:  ERR!
-2020-09-19T14:11:40:  
-2020-09-19T14:11:40:  Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:11:40: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:11:42: 
-2020-09-19T14:11:42: npm
-2020-09-19T14:11:42:  ERR! A complete log of this run can be found in:
-2020-09-19T14:11:42: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_11_40_396Z-debug.log
-2020-09-19T14:11:45: 
-2020-09-19T14:11:45: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:11:45: > node ./service/schedule.js
-2020-09-19T14:11:45: 
-2020-09-19T14:11:46: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:11:46:       } catch {
-2020-09-19T14:11:46:               ^
-2020-09-19T14:11:46: 
-2020-09-19T14:11:46: SyntaxError: Unexpected token {
-2020-09-19T14:11:46:     at createScript (vm.js:80:10)
-2020-09-19T14:11:46:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:11:46:     at Module._compile (module.js:616:28)
-2020-09-19T14:11:46:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:11:46:     at Module.load (module.js:565:32)
-2020-09-19T14:11:46:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:11:46:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:11:46:     at Module.require (module.js:596:17)
-2020-09-19T14:11:46:     at require (internal/module.js:11:18)
-2020-09-19T14:11:46:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:11:46: npm
-2020-09-19T14:11:46:  ERR! code ELIFECYCLE
-2020-09-19T14:11:46: npm ERR! errno 1
-2020-09-19T14:11:46: ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:11:46: npm ERR! Exit status 1
-2020-09-19T14:11:46: npm ERR! 
-2020-09-19T14:11:46: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:11:46: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:11:46: 
-2020-09-19T14:11:46: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:11:46: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_11_46_926Z-debug.log
-2020-09-19T14:11:50: 
-2020-09-19T14:11:50: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:11:50: > node ./service/schedule.js
-2020-09-19T14:11:50: 
-2020-09-19T14:11:51: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:11:51:       } catch {
-2020-09-19T14:11:51:               ^
-2020-09-19T14:11:51: 
-2020-09-19T14:11:51: SyntaxError: Unexpected token {
-2020-09-19T14:11:51:     at createScript (vm.js:80:10)
-2020-09-19T14:11:51:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:11:51:     at Module._compile (module.js:616:28)
-2020-09-19T14:11:51:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:11:51:     at Module.load (module.js:565:32)
-2020-09-19T14:11:51:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:11:51:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:11:51:     at Module.require (module.js:596:17)
-2020-09-19T14:11:51:     at require (internal/module.js:11:18)
-2020-09-19T14:11:51:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:11:51: npm
-2020-09-19T14:11:51:  ERR! code ELIFECYCLE
-2020-09-19T14:11:51: npm ERR! errno 1
-2020-09-19T14:11:51: npm
-2020-09-19T14:11:51:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:11:51: npm ERR! Exit status 1
-2020-09-19T14:11:51: npm ERR! 
-2020-09-19T14:11:51: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:11:51: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:11:54: 
-2020-09-19T14:11:54: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:11:54: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_11_51_665Z-debug.log
-2020-09-19T14:11:56: 
-2020-09-19T14:11:56: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:11:56: > node ./service/schedule.js
-2020-09-19T14:11:56: 
-2020-09-19T14:11:57: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:11:57:       } catch {
-2020-09-19T14:11:57:               ^
-2020-09-19T14:11:57: 
-2020-09-19T14:11:57: SyntaxError: Unexpected token {
-2020-09-19T14:11:57:     at createScript (vm.js:80:10)
-2020-09-19T14:11:57:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:11:57:     at Module._compile (module.js:616:28)
-2020-09-19T14:11:57:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:11:57:     at Module.load (module.js:565:32)
-2020-09-19T14:11:57:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:11:57:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:11:57:     at Module.require (module.js:596:17)
-2020-09-19T14:11:57:     at require (internal/module.js:11:18)
-2020-09-19T14:11:57:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:11:57: npm
-2020-09-19T14:11:57:  ERR! code ELIFECYCLE
-2020-09-19T14:11:57: npm ERR! errno
-2020-09-19T14:11:57:  1
-2020-09-19T14:11:57: npm ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:11:57: npm ERR! Exit status 1
-2020-09-19T14:11:57: npm ERR! 
-2020-09-19T14:11:57:  Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:11:57: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:11:58: 
-2020-09-19T14:11:58: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:11:58: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_11_57_805Z-debug.log
-2020-09-19T14:12:01: 
-2020-09-19T14:12:01: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:01: > node ./service/schedule.js
-2020-09-19T14:12:01: 
-2020-09-19T14:12:02: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:02:       } catch {
-2020-09-19T14:12:02:               ^
-2020-09-19T14:12:02: 
-2020-09-19T14:12:02: SyntaxError: Unexpected token {
-2020-09-19T14:12:02:     at createScript (vm.js:80:10)
-2020-09-19T14:12:02:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:02:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:02:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:02:     at Module.load (module.js:565:32)
-2020-09-19T14:12:02:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:02:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:02:     at Module.require (module.js:596:17)
-2020-09-19T14:12:02:     at require (internal/module.js:11:18)
-2020-09-19T14:12:02:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:02: npm
-2020-09-19T14:12:02:  ERR! code ELIFECYCLE
-2020-09-19T14:12:02: npm ERR!
-2020-09-19T14:12:02:  errno 1
-2020-09-19T14:12:02: npm ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:02: npm ERR! Exit status 1
-2020-09-19T14:12:02:  ERR! 
-2020-09-19T14:12:02: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:02: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:05: 
-2020-09-19T14:12:05: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:05: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_02_793Z-debug.log
-2020-09-19T14:12:08: 
-2020-09-19T14:12:08: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:08: > node ./service/schedule.js
-2020-09-19T14:12:08: 
-2020-09-19T14:12:09: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:09:       } catch {
-2020-09-19T14:12:09:               ^
-2020-09-19T14:12:09: 
-2020-09-19T14:12:09: SyntaxError: Unexpected token {
-2020-09-19T14:12:09:     at createScript (vm.js:80:10)
-2020-09-19T14:12:09:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:09:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:09:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:09:     at Module.load (module.js:565:32)
-2020-09-19T14:12:09:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:09:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:09:     at Module.require (module.js:596:17)
-2020-09-19T14:12:09:     at require (internal/module.js:11:18)
-2020-09-19T14:12:09:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:09: npm ERR! code ELIFECYCLE
-2020-09-19T14:12:09: npm ERR! errno 1
-2020-09-19T14:12:09: npm
-2020-09-19T14:12:09:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:09: npm ERR! Exit status 1
-2020-09-19T14:12:09: npm ERR!
-2020-09-19T14:12:09:  
-2020-09-19T14:12:09: ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:09:  This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:09: 
-2020-09-19T14:12:09: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:09: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_09_551Z-debug.log
-2020-09-19T14:12:12: 
-2020-09-19T14:12:12: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:12: > node ./service/schedule.js
-2020-09-19T14:12:12: 
-2020-09-19T14:12:13: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:13:       } catch {
-2020-09-19T14:12:13:               ^
-2020-09-19T14:12:13: 
-2020-09-19T14:12:13: SyntaxError: Unexpected token {
-2020-09-19T14:12:13:     at createScript (vm.js:80:10)
-2020-09-19T14:12:13:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:13:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:13:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:13:     at Module.load (module.js:565:32)
-2020-09-19T14:12:13:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:13:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:13:     at Module.require (module.js:596:17)
-2020-09-19T14:12:13:     at require (internal/module.js:11:18)
-2020-09-19T14:12:13:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:13: npm
-2020-09-19T14:12:13:  ERR! code ELIFECYCLE
-2020-09-19T14:12:13: npm ERR! errno 1
-2020-09-19T14:12:13: npm
-2020-09-19T14:12:13:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:13: npm ERR! Exit status 1
-2020-09-19T14:12:13: npm ERR! 
-2020-09-19T14:12:13: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:13:  ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:13: 
-2020-09-19T14:12:13: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:13: ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_13_808Z-debug.log
-2020-09-19T14:12:16: 
-2020-09-19T14:12:16: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:16: > node ./service/schedule.js
-2020-09-19T14:12:16: 
-2020-09-19T14:12:17: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:17:       } catch {
-2020-09-19T14:12:17:               ^
-2020-09-19T14:12:17: 
-2020-09-19T14:12:17: SyntaxError: Unexpected token {
-2020-09-19T14:12:17:     at createScript (vm.js:80:10)
-2020-09-19T14:12:17:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:17:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:17:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:17:     at Module.load (module.js:565:32)
-2020-09-19T14:12:17:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:17:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:17:     at Module.require (module.js:596:17)
-2020-09-19T14:12:17:     at require (internal/module.js:11:18)
-2020-09-19T14:12:17:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:17: npm
-2020-09-19T14:12:17:  ERR! code ELIFECYCLE
-2020-09-19T14:12:17: npm ERR! 
-2020-09-19T14:12:17: errno 1
-2020-09-19T14:12:17: npm ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:17: npm ERR! Exit status 1
-2020-09-19T14:12:17:  ERR! 
-2020-09-19T14:12:17: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:17: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:18: 
-2020-09-19T14:12:18: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:18: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_17_998Z-debug.log
-2020-09-19T14:12:20: 
-2020-09-19T14:12:20: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:20: > node ./service/schedule.js
-2020-09-19T14:12:20: 
-2020-09-19T14:12:22: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:22:       } catch {
-2020-09-19T14:12:22:               ^
-2020-09-19T14:12:22: 
-2020-09-19T14:12:22: SyntaxError: Unexpected token {
-2020-09-19T14:12:22:     at createScript (vm.js:80:10)
-2020-09-19T14:12:22:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:22:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:22:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:22:     at Module.load (module.js:565:32)
-2020-09-19T14:12:22:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:22:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:22:     at Module.require (module.js:596:17)
-2020-09-19T14:12:22:     at require (internal/module.js:11:18)
-2020-09-19T14:12:22:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:22: npm ERR! code ELIFECYCLE
-2020-09-19T14:12:22: npm ERR! errno 1
-2020-09-19T14:12:22: npm ERR!
-2020-09-19T14:12:22:  wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:22: npm ERR! Exit status 1
-2020-09-19T14:12:22: npm ERR! 
-2020-09-19T14:12:22: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:22: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:22: 
-2020-09-19T14:12:22: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:22: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_22_138Z-debug.log
-2020-09-19T14:12:25: 
-2020-09-19T14:12:25: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:25: > node ./service/schedule.js
-2020-09-19T14:12:25: 
-2020-09-19T14:12:27: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:27:       } catch {
-2020-09-19T14:12:27:               ^
-2020-09-19T14:12:27: 
-2020-09-19T14:12:27: SyntaxError: Unexpected token {
-2020-09-19T14:12:27:     at createScript (vm.js:80:10)
-2020-09-19T14:12:27:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:27:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:27:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:27:     at Module.load (module.js:565:32)
-2020-09-19T14:12:27:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:27:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:27:     at Module.require (module.js:596:17)
-2020-09-19T14:12:27:     at require (internal/module.js:11:18)
-2020-09-19T14:12:27:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:27: npm
-2020-09-19T14:12:27:  ERR! code ELIFECYCLE
-2020-09-19T14:12:27:  errno 1
-2020-09-19T14:12:27: npm ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:27: npm ERR! Exit status 1
-2020-09-19T14:12:27: npm ERR! 
-2020-09-19T14:12:27: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:27: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:29: 
-2020-09-19T14:12:29: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:29: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_27_107Z-debug.log
-2020-09-19T14:12:32: 
-2020-09-19T14:12:32: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:32: > node ./service/schedule.js
-2020-09-19T14:12:32: 
-2020-09-19T14:12:33: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:33:       } catch {
-2020-09-19T14:12:33:               ^
-2020-09-19T14:12:33: 
-2020-09-19T14:12:33: SyntaxError: Unexpected token {
-2020-09-19T14:12:33:     at createScript (vm.js:80:10)
-2020-09-19T14:12:33:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:33:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:33:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:33:     at Module.load (module.js:565:32)
-2020-09-19T14:12:33:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:33:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:33:     at Module.require (module.js:596:17)
-2020-09-19T14:12:33:     at require (internal/module.js:11:18)
-2020-09-19T14:12:33:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:33: npm ERR!
-2020-09-19T14:12:33:  code ELIFECYCLE
-2020-09-19T14:12:33: errno 1
-2020-09-19T14:12:33: npm ERR!
-2020-09-19T14:12:33:  wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:33: npm ERR! Exit status 1
-2020-09-19T14:12:33: npm ERR! 
-2020-09-19T14:12:33: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:33: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:33: 
-2020-09-19T14:12:33: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:33: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_33_620Z-debug.log
-2020-09-19T14:12:37: 
-2020-09-19T14:12:37: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:37: > node ./service/schedule.js
-2020-09-19T14:12:37: 
-2020-09-19T14:12:37: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:37:       } catch {
-2020-09-19T14:12:37:               ^
-2020-09-19T14:12:37: 
-2020-09-19T14:12:37: SyntaxError: Unexpected token {
-2020-09-19T14:12:37:     at createScript (vm.js:80:10)
-2020-09-19T14:12:37:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:37:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:37:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:37:     at Module.load (module.js:565:32)
-2020-09-19T14:12:37:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:37:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:37:     at Module.require (module.js:596:17)
-2020-09-19T14:12:37:     at require (internal/module.js:11:18)
-2020-09-19T14:12:37:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:37: npm
-2020-09-19T14:12:37:  ERR! code ELIFECYCLE
-2020-09-19T14:12:37: npm ERR! errno 1
-2020-09-19T14:12:37: npm
-2020-09-19T14:12:37:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:37: npm ERR! Exit status 1
-2020-09-19T14:12:37: npm ERR! 
-2020-09-19T14:12:37: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:37: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:38: 
-2020-09-19T14:12:38: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:38: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_37_940Z-debug.log
-2020-09-19T14:12:41: 
-2020-09-19T14:12:41: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:41: > node ./service/schedule.js
-2020-09-19T14:12:41: 
-2020-09-19T14:12:42: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:42:       } catch {
-2020-09-19T14:12:42:               ^
-2020-09-19T14:12:42: 
-2020-09-19T14:12:42: SyntaxError: Unexpected token {
-2020-09-19T14:12:42:     at createScript (vm.js:80:10)
-2020-09-19T14:12:42:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:42:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:42:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:42:     at Module.load (module.js:565:32)
-2020-09-19T14:12:42:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:42:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:42:     at Module.require (module.js:596:17)
-2020-09-19T14:12:42:     at require (internal/module.js:11:18)
-2020-09-19T14:12:42:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:42: npm
-2020-09-19T14:12:42:  ERR! code ELIFECYCLE
-2020-09-19T14:12:42: npm ERR! errno 1
-2020-09-19T14:12:42: npm 
-2020-09-19T14:12:42: ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:42: npm ERR! Exit status 1
-2020-09-19T14:12:42: npm ERR! 
-2020-09-19T14:12:42:  Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:42: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:45: 
-2020-09-19T14:12:45: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:45: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_42_401Z-debug.log
-2020-09-19T14:12:48: 
-2020-09-19T14:12:48: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:48: > node ./service/schedule.js
-2020-09-19T14:12:48: 
-2020-09-19T14:12:49: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:49:       } catch {
-2020-09-19T14:12:49:               ^
-2020-09-19T14:12:49: 
-2020-09-19T14:12:49: SyntaxError: Unexpected token {
-2020-09-19T14:12:49:     at createScript (vm.js:80:10)
-2020-09-19T14:12:49:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:49:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:49:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:49:     at Module.load (module.js:565:32)
-2020-09-19T14:12:49:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:49:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:49:     at Module.require (module.js:596:17)
-2020-09-19T14:12:49:     at require (internal/module.js:11:18)
-2020-09-19T14:12:49:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:49: npm
-2020-09-19T14:12:49:  ERR! code ELIFECYCLE
-2020-09-19T14:12:49: npm ERR! errno 1
-2020-09-19T14:12:49: npm
-2020-09-19T14:12:49:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:49: ERR! Exit status 1
-2020-09-19T14:12:49: npm ERR! 
-2020-09-19T14:12:49: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:49:  This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:52: 
-2020-09-19T14:12:52: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:52: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_49_961Z-debug.log
-2020-09-19T14:12:55: 
-2020-09-19T14:12:55: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:12:55: > node ./service/schedule.js
-2020-09-19T14:12:55: 
-2020-09-19T14:12:56: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:12:56:       } catch {
-2020-09-19T14:12:56:               ^
-2020-09-19T14:12:56: 
-2020-09-19T14:12:56: SyntaxError: Unexpected token {
-2020-09-19T14:12:56:     at createScript (vm.js:80:10)
-2020-09-19T14:12:56:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:12:56:     at Module._compile (module.js:616:28)
-2020-09-19T14:12:56:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:12:56:     at Module.load (module.js:565:32)
-2020-09-19T14:12:56:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:12:56:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:12:56:     at Module.require (module.js:596:17)
-2020-09-19T14:12:56:     at require (internal/module.js:11:18)
-2020-09-19T14:12:56:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:12:56: npm
-2020-09-19T14:12:56:  ERR! code ELIFECYCLE
-2020-09-19T14:12:56: npm ERR! errno 1
-2020-09-19T14:12:56: npm
-2020-09-19T14:12:56:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:12:56: npm ERR! Exit status 1
-2020-09-19T14:12:56: npm ERR! 
-2020-09-19T14:12:56:  Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:12:56: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:12:59: 
-2020-09-19T14:12:59: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:12:59: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_12_56_744Z-debug.log
-2020-09-19T14:13:02: 
-2020-09-19T14:13:02: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:02: > node ./service/schedule.js
-2020-09-19T14:13:02: 
-2020-09-19T14:13:03: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:03:       } catch {
-2020-09-19T14:13:03:               ^
-2020-09-19T14:13:03: 
-2020-09-19T14:13:03: SyntaxError: Unexpected token {
-2020-09-19T14:13:03:     at createScript (vm.js:80:10)
-2020-09-19T14:13:03:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:03:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:03:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:03:     at Module.load (module.js:565:32)
-2020-09-19T14:13:03:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:03:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:03:     at Module.require (module.js:596:17)
-2020-09-19T14:13:03:     at require (internal/module.js:11:18)
-2020-09-19T14:13:03:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:03: npm
-2020-09-19T14:13:03:  ERR! code ELIFECYCLE
-2020-09-19T14:13:03: npm ERR! errno
-2020-09-19T14:13:03:  1
-2020-09-19T14:13:03: npm ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:03:  Exit status 1
-2020-09-19T14:13:03: ERR! 
-2020-09-19T14:13:03: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:03: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:06: 
-2020-09-19T14:13:06: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:06: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_04_006Z-debug.log
-2020-09-19T14:13:10: 
-2020-09-19T14:13:10: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:10: > node ./service/schedule.js
-2020-09-19T14:13:10: 
-2020-09-19T14:13:11: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:11:       } catch {
-2020-09-19T14:13:11:               ^
-2020-09-19T14:13:11: 
-2020-09-19T14:13:11: SyntaxError: Unexpected token {
-2020-09-19T14:13:11:     at createScript (vm.js:80:10)
-2020-09-19T14:13:11:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:11:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:11:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:11:     at Module.load (module.js:565:32)
-2020-09-19T14:13:11:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:11:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:11:     at Module.require (module.js:596:17)
-2020-09-19T14:13:11:     at require (internal/module.js:11:18)
-2020-09-19T14:13:11:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:11: npm
-2020-09-19T14:13:11:  ERR! code ELIFECYCLE
-2020-09-19T14:13:11:  1
-2020-09-19T14:13:11: npm ERR!
-2020-09-19T14:13:11:  wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:11: npm ERR! Exit status 1
-2020-09-19T14:13:11: npm ERR! 
-2020-09-19T14:13:11: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:11: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:13: 
-2020-09-19T14:13:13: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:13: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_11_264Z-debug.log
-2020-09-19T14:13:17: 
-2020-09-19T14:13:17: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:17: > node ./service/schedule.js
-2020-09-19T14:13:17: 
-2020-09-19T14:13:18: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:18:       } catch {
-2020-09-19T14:13:18:               ^
-2020-09-19T14:13:18: 
-2020-09-19T14:13:18: SyntaxError: Unexpected token {
-2020-09-19T14:13:18:     at createScript (vm.js:80:10)
-2020-09-19T14:13:18:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:18:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:18:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:18:     at Module.load (module.js:565:32)
-2020-09-19T14:13:18:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:18:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:18:     at Module.require (module.js:596:17)
-2020-09-19T14:13:18:     at require (internal/module.js:11:18)
-2020-09-19T14:13:18:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:18: npm
-2020-09-19T14:13:18:  ERR! code ELIFECYCLE
-2020-09-19T14:13:18: npm ERR! errno 1
-2020-09-19T14:13:18: npm
-2020-09-19T14:13:18:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:18: npm ERR! Exit status 1
-2020-09-19T14:13:18: npm ERR! 
-2020-09-19T14:13:18: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:18:  This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:21: 
-2020-09-19T14:13:21: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:21: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_18_235Z-debug.log
-2020-09-19T14:13:24: 
-2020-09-19T14:13:24: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:24: > node ./service/schedule.js
-2020-09-19T14:13:24: 
-2020-09-19T14:13:25: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:25:       } catch {
-2020-09-19T14:13:25:               ^
-2020-09-19T14:13:25: 
-2020-09-19T14:13:25: SyntaxError: Unexpected token {
-2020-09-19T14:13:25:     at createScript (vm.js:80:10)
-2020-09-19T14:13:25:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:25:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:25:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:25:     at Module.load (module.js:565:32)
-2020-09-19T14:13:25:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:25:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:25:     at Module.require (module.js:596:17)
-2020-09-19T14:13:25:     at require (internal/module.js:11:18)
-2020-09-19T14:13:25:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:25: npm
-2020-09-19T14:13:25:  ERR! code ELIFECYCLE
-2020-09-19T14:13:25:  1
-2020-09-19T14:13:25: npm ERR!
-2020-09-19T14:13:25:  wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:25: npm ERR! Exit status 1
-2020-09-19T14:13:25: npm ERR! 
-2020-09-19T14:13:25: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:25: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:28: 
-2020-09-19T14:13:28: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:28: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_25_663Z-debug.log
-2020-09-19T14:13:31: 
-2020-09-19T14:13:31: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:31: > node ./service/schedule.js
-2020-09-19T14:13:31: 
-2020-09-19T14:13:32: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:32:       } catch {
-2020-09-19T14:13:32:               ^
-2020-09-19T14:13:32: 
-2020-09-19T14:13:32: SyntaxError: Unexpected token {
-2020-09-19T14:13:32:     at createScript (vm.js:80:10)
-2020-09-19T14:13:32:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:32:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:32:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:32:     at Module.load (module.js:565:32)
-2020-09-19T14:13:32:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:32:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:32:     at Module.require (module.js:596:17)
-2020-09-19T14:13:32:     at require (internal/module.js:11:18)
-2020-09-19T14:13:32:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:32: npm
-2020-09-19T14:13:32:  ERR! code ELIFECYCLE
-2020-09-19T14:13:32: npm ERR! errno 1
-2020-09-19T14:13:32: npm
-2020-09-19T14:13:32:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:32: npm ERR! Exit status 1
-2020-09-19T14:13:32: npm ERR! 
-2020-09-19T14:13:32: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:32: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:32: 
-2020-09-19T14:13:32: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:32: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_32_234Z-debug.log
-2020-09-19T14:13:35: 
-2020-09-19T14:13:35: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:35: > node ./service/schedule.js
-2020-09-19T14:13:35: 
-2020-09-19T14:13:36: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:36:       } catch {
-2020-09-19T14:13:36:               ^
-2020-09-19T14:13:36: 
-2020-09-19T14:13:36: SyntaxError: Unexpected token {
-2020-09-19T14:13:36:     at createScript (vm.js:80:10)
-2020-09-19T14:13:36:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:36:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:36:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:36:     at Module.load (module.js:565:32)
-2020-09-19T14:13:36:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:36:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:36:     at Module.require (module.js:596:17)
-2020-09-19T14:13:36:     at require (internal/module.js:11:18)
-2020-09-19T14:13:36:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:36: npm
-2020-09-19T14:13:36:  ERR! code ELIFECYCLE
-2020-09-19T14:13:36: npm ERR! errno
-2020-09-19T14:13:36:  1
-2020-09-19T14:13:36: npm
-2020-09-19T14:13:36:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:36: npm ERR! Exit status 1
-2020-09-19T14:13:36: npm ERR! 
-2020-09-19T14:13:36:  Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:36: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:39: 
-2020-09-19T14:13:39: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:39: npm ERR!     /home/volumio/.npm/_logs/2020-09-19T06_13_36_323Z-debug.log
-2020-09-19T14:13:41: 
-2020-09-19T14:13:41: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:13:41: > node ./service/schedule.js
-2020-09-19T14:13:41: 
-2020-09-19T14:13:42: /home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/make-dir.js:85
-2020-09-19T14:13:42:       } catch {
-2020-09-19T14:13:42:               ^
-2020-09-19T14:13:42: 
-2020-09-19T14:13:42: SyntaxError: Unexpected token {
-2020-09-19T14:13:42:     at createScript (vm.js:80:10)
-2020-09-19T14:13:42:     at Object.runInThisContext (vm.js:139:10)
-2020-09-19T14:13:42:     at Module._compile (module.js:616:28)
-2020-09-19T14:13:42:     at Object.Module._extensions..js (module.js:663:10)
-2020-09-19T14:13:42:     at Module.load (module.js:565:32)
-2020-09-19T14:13:42:     at tryModuleLoad (module.js:505:12)
-2020-09-19T14:13:42:     at Function.Module._load (module.js:497:3)
-2020-09-19T14:13:42:     at Module.require (module.js:596:17)
-2020-09-19T14:13:42:     at require (internal/module.js:11:18)
-2020-09-19T14:13:42:     at Object.<anonymous> (/home/volumio/crawler/node_modules/fs-extra/lib/mkdirs/index.js:3:44)
-2020-09-19T14:13:42: npm
-2020-09-19T14:13:42:  ERR! code ELIFECYCLE
-2020-09-19T14:13:42: npm ERR! errno 1
-2020-09-19T14:13:42: npm
-2020-09-19T14:13:42:  ERR! wells-web-crawler@1.0.0 start: `node ./service/schedule.js`
-2020-09-19T14:13:42: npm ERR! Exit status 1
-2020-09-19T14:13:42:  
-2020-09-19T14:13:42: npm ERR! Failed at the wells-web-crawler@1.0.0 start script.
-2020-09-19T14:13:42: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-2020-09-19T14:13:43: 
-2020-09-19T14:13:43: npm ERR! A complete log of this run can be found in:
-2020-09-19T14:13:43:      /home/volumio/.npm/_logs/2020-09-19T06_13_42_353Z-debug.log
-2020-09-19T14:15:57: 
-2020-09-19T14:15:57: > wells-web-crawler@1.0.0 start /home/volumio/crawler
-2020-09-19T14:15:57: > node ./service/schedule.js
-2020-09-19T14:15:57: 
-2020-09-19T14:16:00: Start crawler @ 2:16:00 PM
-2020-09-19T14:16:05: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
-2020-09-19T14:16:05:   'https://www.sierra.com/gregory~b~7155/',
-2020-09-19T14:16:05:   'https://www.steepandcheap.com/arcteryx',
-2020-09-19T14:16:05:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
-2020-09-19T14:16:05:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
-2020-09-19T14:16:05: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
-2020-09-19T14:16:05: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
-2020-09-19T14:16:05: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
-2020-09-19T14:16:19: 	Removed duplicated by id, found... 0
-2020-09-19T14:16:19: 	There are 13 items in the previous list.
-2020-09-19T14:16:19: 	There are 13 items in the latest list.
-2020-09-19T14:16:19: 	There are 0 items is removed
-2020-09-19T14:16:19: 	There are 0 items is added
-2020-09-19T14:16:19: 	There are 0 items price is changed
-2020-09-19T14:16:19: Done.
-2020-09-19T14:16:19: 
-2020-09-19T14:16:19: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
-2020-09-19T14:16:19: Fetch... https://www.sierra.com/gregory~b~7155/
-2020-09-19T14:16:31: 	Removed duplicated by id, found... 0
-2020-09-19T14:16:31: 	There are 18 items in the previous list.
-2020-09-19T14:16:31: 	There are 18 items in the latest list.
-2020-09-19T14:16:31: 	There are 0 items is removed
-2020-09-19T14:16:31: 	There are 0 items is added
-2020-09-19T14:16:31: 	There are 0 items price is changed
-2020-09-19T14:16:31: Done.
-2020-09-19T14:16:31: 
-2020-09-19T14:16:31: Automatically add sort query paramter to make list stable
-2020-09-19T14:16:31: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
-2020-09-19T14:16:31: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
-2020-09-19T14:16:35: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
-2020-09-19T14:16:38: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
-2020-09-19T14:16:42: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
-2020-09-19T14:16:45: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
-2020-09-19T14:16:48: Is equal? false
-2020-09-19T14:16:50: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
-2020-09-19T14:16:53: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
-2020-09-19T14:16:56: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
-2020-09-19T14:16:58: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
-2020-09-19T14:17:01: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
-2020-09-19T14:17:04: Is equal? true
-2020-09-19T14:17:04: done
-2020-09-19T14:17:04: 	Removed duplicated by id, found... 0
-2020-09-19T14:17:04: 	There are 198 items in the previous list.
-2020-09-19T14:17:04: 	There are 198 items in the latest list.
-2020-09-19T14:17:04: 	There are 0 items is removed
-2020-09-19T14:17:04: 	There are 0 items is added
-2020-09-19T14:17:04: 	There are 0 items price is changed
-2020-09-19T14:17:04: Done.
-2020-09-19T14:17:04: 
-2020-09-19T14:17:04: Automatically add sort query paramter to make list stable
-2020-09-19T14:17:04: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
-2020-09-19T14:17:04: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
-2020-09-19T14:17:07: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
-2020-09-19T14:17:10: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
-2020-09-19T14:17:13: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
-2020-09-19T14:17:16: Is equal? false
-2020-09-19T14:17:18: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
-2020-09-19T14:17:20: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
-2020-09-19T14:17:23: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
-2020-09-19T14:17:25: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
-2020-09-19T14:17:28: Is equal? true
-2020-09-19T14:17:28: done
-2020-09-19T14:17:28: 	Removed duplicated by id, found... 0
-2020-09-19T14:17:28: 	There are 144 items in the previous list.
-2020-09-19T14:17:28: 	There are 144 items in the latest list.
-2020-09-19T14:17:28: 	There are 0 items is removed
-2020-09-19T14:17:28: 	There are 0 items is added
-2020-09-19T14:17:28: 	There are 0 items price is changed
-2020-09-19T14:17:28: Done.
-2020-09-19T14:17:28: 
-2020-09-19T14:17:28: Automatically add sort query paramter to make list stable
-2020-09-19T14:17:28: Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
-2020-09-19T14:17:28: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
-2020-09-19T14:17:30: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
-2020-09-19T14:17:33: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
-2020-09-19T14:17:36: Is equal? false
-2020-09-19T14:17:38: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
-2020-09-19T14:17:41: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
-2020-09-19T14:17:44: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
-2020-09-19T14:17:47: Is equal? true
-2020-09-19T14:17:47: done
-2020-09-19T14:17:47: 	Removed duplicated by id, found... 0
-2020-09-19T14:17:47: 	There are 106 items in the previous list.
-2020-09-19T14:17:47: 	There are 106 items in the latest list.
-2020-09-19T14:17:47: 	There are 0 items is removed
-2020-09-19T14:17:47: 	There are 0 items is added
-2020-09-19T14:17:47: 	There are 0 items price is changed
-2020-09-19T14:17:47: Done.
-2020-09-19T14:17:47: 
-2020-09-19T14:17:47: Save...
+2020-09-19T14:21:12: 
+2020-09-19T14:21:12: > wells-web-crawler@1.0.0 start /home/volumio/crawler
+2020-09-19T14:21:12: > node ./service/schedule.js
+2020-09-19T14:21:12: 
+2020-09-19T14:21:15: Start crawler @ 2:21:15 PM
+2020-09-19T14:21:22: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
+2020-09-19T14:21:22:   'https://www.sierra.com/gregory~b~7155/',
+2020-09-19T14:21:22:   'https://www.steepandcheap.com/arcteryx',
+2020-09-19T14:21:22:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+2020-09-19T14:21:22:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
+2020-09-19T14:21:22: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+2020-09-19T14:21:22: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+2020-09-19T14:21:22: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+2020-09-19T14:21:37: 	Removed duplicated by id, found... 0
+2020-09-19T14:21:37: 	There are 13 items in the previous list.
+2020-09-19T14:21:37: 	There are 13 items in the latest list.
+2020-09-19T14:21:37: 	There are 0 items is removed
+2020-09-19T14:21:37: 	There are 0 items is added
+2020-09-19T14:21:37: 	There are 0 items price is changed
+2020-09-19T14:21:37: Done.
+2020-09-19T14:21:37: 
+2020-09-19T14:21:37: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+2020-09-19T14:21:37: Fetch... https://www.sierra.com/gregory~b~7155/
+2020-09-19T14:21:48: 	Removed duplicated by id, found... 0
+2020-09-19T14:21:48: 	There are 18 items in the previous list.
+2020-09-19T14:21:48: 	There are 18 items in the latest list.
+2020-09-19T14:21:48: 	There are 0 items is removed
+2020-09-19T14:21:48: 	There are 0 items is added
+2020-09-19T14:21:48: 	There are 0 items price is changed
+2020-09-19T14:21:48: Done.
+2020-09-19T14:21:48: 
+2020-09-19T14:21:48: Automatically add sort query paramter to make list stable
+2020-09-19T14:21:48: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+2020-09-19T14:21:48: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T14:21:52: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T14:21:54: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T14:21:57: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T14:21:59: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T14:22:02: Is equal? false
+2020-09-19T14:22:04: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-19T14:22:07: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-19T14:22:10: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-19T14:22:14: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-19T14:22:17: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-19T14:22:20: Is equal? true
+2020-09-19T14:22:20: done
+2020-09-19T14:22:20: 	Removed duplicated by id, found... 0
+2020-09-19T14:22:20: 	There are 198 items in the previous list.
+2020-09-19T14:22:20: 	There are 198 items in the latest list.
+2020-09-19T14:22:20: 	There are 0 items is removed
+2020-09-19T14:22:20: 	There are 0 items is added
+2020-09-19T14:22:20: 	There are 0 items price is changed
+2020-09-19T14:22:20: Done.
+2020-09-19T14:22:20: 
+2020-09-19T14:22:20: Automatically add sort query paramter to make list stable
+2020-09-19T14:22:20: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T14:22:20: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T14:22:22: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T14:22:25: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T14:22:28: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T14:22:30: Is equal? false
+2020-09-19T14:22:32: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-19T14:22:35: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-19T14:22:38: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-19T14:22:41: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-19T14:22:44: Is equal? true
+2020-09-19T14:22:44: done
+2020-09-19T14:22:44: 	Removed duplicated by id, found... 0
+2020-09-19T14:22:44: 	There are 144 items in the previous list.
+2020-09-19T14:22:44: 	There are 144 items in the latest list.
+2020-09-19T14:22:44: 	There are 0 items is removed
+2020-09-19T14:22:44: 	There are 0 items is added
+2020-09-19T14:22:44: 	There are 0 items price is changed
+2020-09-19T14:22:44: Done.
+2020-09-19T14:22:44: 
+2020-09-19T14:22:44: Automatically add sort query paramter to make list stable
+2020-09-19T14:22:44: Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
+2020-09-19T14:22:44: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T14:22:47: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T14:22:49: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T14:22:52: Is equal? false
+2020-09-19T14:22:54: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-19T14:22:56: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-19T14:22:59: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-19T14:23:01: Is equal? true
+2020-09-19T14:23:01: done
+2020-09-19T14:23:01: 	Removed duplicated by id, found... 0
+2020-09-19T14:23:01: 	There are 106 items in the previous list.
+2020-09-19T14:23:01: 	There are 106 items in the latest list.
+2020-09-19T14:23:01: 	There are 0 items is removed
+2020-09-19T14:23:01: 	There are 0 items is added
+2020-09-19T14:23:01: 	There are 0 items price is changed
+2020-09-19T14:23:01: Done.
+2020-09-19T14:23:01: 
+2020-09-19T14:23:01: Save...
