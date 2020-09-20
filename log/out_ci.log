@@ -227,3 +227,84 @@ found 0 vulnerabilities
 2020-09-20 18:32:03: Watching for file changes on ./log/error_ci.log
 2020-09-20 18:32:03: Watching for file changes on ./log/error.log
 2020-09-20 18:32:03: Watching for file changes on ./log/error_ngrok.log
+2020-09-20 18:40:53: Received a Push for crawler
+2020-09-20 18:40:54: Upgrading..
+2020-09-20 18:40:54: Your branch is up-to-date with 'origin/master'.
+2020-09-20 18:40:56: Updating 9ab2ba6..d01f9f9
+2020-09-20 18:40:56: Fast-forward
+2020-09-20 18:40:56:  upgrade.sh | 5 ++---
+2020-09-20 18:40:56:  1 file changed, 2 insertions(+), 3 deletions(-)
+2020-09-20 18:41:07: audited 77 packages in 5.916s
+2020-09-20 18:41:08: 
+2020-09-20 18:41:08: 7 packages are looking for funding
+2020-09-20 18:41:08:   run `npm fund` for details
+2020-09-20 18:41:08: 
+2020-09-20 18:41:08: found 0 vulnerabilities
+2020-09-20 18:41:08: 
+2020-09-20 18:41:10: [PM2] Applying action reloadProcessId on app [crawler-ci](ids: 3)
+2020-09-20 18:41:10: Received SIGINT
+2020-09-20 18:41:13: [ './log/error_ci.log',
+2020-09-20 18:41:13:   './log/error.log',
+2020-09-20 18:41:13:   './log/error_ngrok.log' ]
+2020-09-20 18:41:13: Watching for file changes on ./log/error_ci.log
+2020-09-20 18:41:13: Watching for file changes on ./log/error.log
+2020-09-20 18:41:13: Watching for file changes on ./log/error_ngrok.log
+2020-09-20 18:45:48: Received a Push for crawler
+2020-09-20 18:45:50: Upgrading..
+2020-09-20 18:45:50: Your branch is up-to-date with 'origin/master'.
+2020-09-20 18:45:52: Updating d01f9f9..c1c04f1
+2020-09-20 18:45:52: Fast-forward
+2020-09-20 18:45:52:  restart.sh | 2 +-
+2020-09-20 18:45:52:  upgrade.sh | 6 ++++--
+2020-09-20 18:45:52:  2 files changed, 5 insertions(+), 3 deletions(-)
+2020-09-20 18:46:02: audited 77 packages in 5.488s
+2020-09-20 18:46:03: 
+2020-09-20 18:46:03: 7 packages are looking for funding
+2020-09-20 18:46:03:   run `npm fund` for details
+2020-09-20 18:46:03: 
+2020-09-20 18:46:03: found 0 vulnerabilities
+2020-09-20 18:46:03: 
+2020-09-20 18:46:05: [PM2] Applying action reloadProcessId on app [crawler-scheduler](ids: 4)
+2020-09-20 18:46:06: [PM2] [crawler-scheduler](4) ✓
+2020-09-20 18:46:09: [PM2] Applying action reloadProcessId on app [crawler-ci](ids: 3)
+2020-09-20 18:46:09: Received SIGINT
+2020-09-20 18:46:12: [ './log/error_ci.log',
+2020-09-20 18:46:12:   './log/error.log',
+2020-09-20 18:46:12:   './log/error_ngrok.log' ]
+2020-09-20 18:46:12: Watching for file changes on ./log/error_ci.log
+2020-09-20 18:46:12: Watching for file changes on ./log/error.log
+2020-09-20 18:46:12: Watching for file changes on ./log/error_ngrok.log
+2020-09-20 18:49:10: Received a Push for crawler
+2020-09-20 18:49:12: Upgrading..
+2020-09-20 18:49:12: Your branch is up-to-date with 'origin/master'.
+2020-09-20 18:49:14: Updating c1c04f1..968dceb
+2020-09-20 18:49:14: Fast-forward
+2020-09-20 18:49:14:  restart.sh | 2 +-
+2020-09-20 18:49:14:  1 file changed, 1 insertion(+), 1 deletion(-)
+2020-09-20 18:49:24: audited 77 packages in 4.978s
+2020-09-20 18:49:24: 
+2020-09-20 18:49:24: 7 packages are looking for funding
+2020-09-20 18:49:24:   run `npm fund` for details
+2020-09-20 18:49:24: 
+2020-09-20 18:49:24: found 0 vulnerabilities
+2020-09-20 18:49:24: 
+2020-09-20 18:49:25: Upgrading.. crawler-scheduler
+2020-09-20 18:49:27: [PM2] Applying action restartProcessId on app [crawler-scheduler](ids: 4)
+2020-09-20 18:49:27: [PM2] [crawler-scheduler](4) ✓
+2020-09-20 18:49:27: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-09-20 18:49:27: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-09-20 18:49:27: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-09-20 18:49:27: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-09-20 18:49:27: │ 3   │ crawler-ci           │ default     │ 1.0.0   │ fork    │ 6648     │ 3m     │ 2    │ online    │ 0%       │ 36.4mb   │ volumio  │ disabled │
+2020-09-20 18:49:27: │ 4   │ crawler-scheduler    │ default     │ 1.0.0   │ fork    │ 8105     │ 0s     │ 2    │ online    │ 0%       │ 17.6mb   │ volumio  │ disabled │
+2020-09-20 18:49:27: │ 2   │ ngrok                │ default     │ 0.35.3  │ fork    │ 20476    │ 18h    │ 0    │ online    │ 0%       │ 44.8mb   │ volumio  │ disabled │
+2020-09-20 18:49:27: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-09-20 18:49:27: Upgrading.. crawler-ci
+2020-09-20 18:49:30: [PM2] Applying action restartProcessId on app [crawler-ci](ids: 3)
+2020-09-20 18:49:31: Received SIGINT
+2020-09-20 18:49:34: [ './log/error_ci.log',
+2020-09-20 18:49:34:   './log/error.log',
+2020-09-20 18:49:34:   './log/error_ngrok.log' ]
+2020-09-20 18:49:34: Watching for file changes on ./log/error_ci.log
+2020-09-20 18:49:34: Watching for file changes on ./log/error.log
+2020-09-20 18:49:34: Watching for file changes on ./log/error_ngrok.log
