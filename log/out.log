@@ -2620,3 +2620,104 @@
 2020-09-21 14:02:13: Done.
 2020-09-21 14:02:13: 
 2020-09-21 14:02:13: Save...
+2020-09-21 14:02:13: [Release]
+2020-09-21 15:00:00: [Lock]
+2020-09-21 15:00:00: Start crawler @ 3:00:00 PM
+2020-09-21 15:00:05: Load sites [ 'https://www.sierra.com/mystery-ranch~b~37083/',
+2020-09-21 15:00:05:   'https://www.sierra.com/gregory~b~7155/',
+2020-09-21 15:00:05:   'https://www.steepandcheap.com/arcteryx',
+2020-09-21 15:00:05:   'https://www.steepandcheap.com/mammut?sort=%2Bprice',
+2020-09-21 15:00:05:   'https://www.steepandcheap.com/fjallraven?sort=%2Bprice' ]
+2020-09-21 15:00:05: Load receivers [ 'shieh.npin@gmail.com', 'deltaguita@gmail.com' ]
+2020-09-21 15:00:05: Process https://www.sierra.com/mystery-ranch~b~37083/ with Sierra crawler
+2020-09-21 15:00:05: Fetch... https://www.sierra.com/mystery-ranch~b~37083/
+2020-09-21 15:00:15: 	Removed duplicated by id, found... 0
+2020-09-21 15:00:15: 	There are 12 items in the previous list.
+2020-09-21 15:00:15: 	There are 12 items in the latest list.
+2020-09-21 15:00:15: 	There are 0 items is removed
+2020-09-21 15:00:15: 	There are 0 items is added
+2020-09-21 15:00:15: 	There are 0 items price is changed
+2020-09-21 15:00:15: Done.
+2020-09-21 15:00:15: 
+2020-09-21 15:00:15: Process https://www.sierra.com/gregory~b~7155/ with Sierra crawler
+2020-09-21 15:00:15: Fetch... https://www.sierra.com/gregory~b~7155/
+2020-09-21 15:00:25: 	Removed duplicated by id, found... 0
+2020-09-21 15:00:25: 	There are 17 items in the previous list.
+2020-09-21 15:00:25: 	There are 17 items in the latest list.
+2020-09-21 15:00:25: 	There are 0 items is removed
+2020-09-21 15:00:25: 	There are 0 items is added
+2020-09-21 15:00:25: 	There are 0 items price is changed
+2020-09-21 15:00:25: Done.
+2020-09-21 15:00:25: 
+2020-09-21 15:00:25: Automatically add sort query paramter to make list stable
+2020-09-21 15:00:25: Process https://www.steepandcheap.com/arcteryx with Steepandcheap crawler
+2020-09-21 15:00:25: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-21 15:00:29: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-21 15:00:31: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-21 15:00:35: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-21 15:00:38: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-21 15:00:41: Is equal? false
+2020-09-21 15:00:41: wait 10 seconds
+2020-09-21 15:00:51: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice
+2020-09-21 15:00:54: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+2020-09-21 15:00:57: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=2
+2020-09-21 15:00:59: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=3
+2020-09-21 15:01:02: Fetch... https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=4
+2020-09-21 15:01:04: Is equal? true
+2020-09-21 15:01:05: done
+2020-09-21 15:01:05: 	Removed duplicated by id, found... 0
+2020-09-21 15:01:05: 	There are 186 items in the previous list.
+2020-09-21 15:01:05: 	There are 186 items in the latest list.
+2020-09-21 15:01:05: 	There are 0 items is removed
+2020-09-21 15:01:05: 	There are 0 items is added
+2020-09-21 15:01:05: 	There are 0 items price is changed
+2020-09-21 15:01:05: Done.
+2020-09-21 15:01:05: 
+2020-09-21 15:01:05: Automatically add sort query paramter to make list stable
+2020-09-21 15:01:05: Process https://www.steepandcheap.com/mammut?sort=%2Bprice with Steepandcheap crawler
+2020-09-21 15:01:05: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-21 15:01:08: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-21 15:01:12: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-21 15:01:16: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-21 15:01:18: Is equal? false
+2020-09-21 15:01:18: wait 10 seconds
+2020-09-21 15:01:28: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice
+2020-09-21 15:01:31: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+2020-09-21 15:01:34: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+2020-09-21 15:01:37: Fetch... https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+2020-09-21 15:01:40: Is equal? true
+2020-09-21 15:01:40: done
+2020-09-21 15:01:40: 	Removed duplicated by id, found... 0
+2020-09-21 15:01:40: 	There are 140 items in the previous list.
+2020-09-21 15:01:40: 	There are 140 items in the latest list.
+2020-09-21 15:01:40: 	There are 0 items is removed
+2020-09-21 15:01:40: 	There are 0 items is added
+2020-09-21 15:01:40: 	There are 0 items price is changed
+2020-09-21 15:01:40: Done.
+2020-09-21 15:01:40: 
+2020-09-21 15:01:40: Automatically add sort query paramter to make list stable
+2020-09-21 15:01:40: Process https://www.steepandcheap.com/fjallraven?sort=%2Bprice with Steepandcheap crawler
+2020-09-21 15:01:40: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-21 15:01:43: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-21 15:01:46: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-21 15:01:48: Is equal? false
+2020-09-21 15:01:48: wait 10 seconds
+2020-09-21 15:01:58: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-21 15:02:01: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-21 15:02:04: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-21 15:02:06: Is equal? false
+2020-09-21 15:02:06: wait 20 seconds
+2020-09-21 15:02:26: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-09-21 15:02:30: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-09-21 15:02:33: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-09-21 15:02:35: Is equal? true
+2020-09-21 15:02:35: done
+2020-09-21 15:02:35: 	Removed duplicated by id, found... 1
+2020-09-21 15:02:35: 	There are 100 items in the previous list.
+2020-09-21 15:02:35: 	There are 99 items in the latest list.
+2020-09-21 15:02:35: 	There are 1 items is removed
+2020-09-21 15:02:35: 	There are 0 items is added
+2020-09-21 15:02:35: 	There are 0 items price is changed
+2020-09-21 15:02:35: Done.
+2020-09-21 15:02:35: 
+2020-09-21 15:02:35: Save...
