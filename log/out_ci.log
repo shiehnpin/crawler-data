@@ -260,3 +260,42 @@
 2020-09-26 10:10:38: error.log file Changed, wait 30 sec..
 2020-09-26 10:11:08: mailing to shieh.npin@gmail.com.
 2020-09-26 10:11:10: Error log sent.
+2020-09-26 16:05:28: error.log file Changed, wait 30 sec..
+2020-09-26 16:05:28: error.log file Changed, wait 30 sec..
+2020-09-26 16:05:58: mailing to shieh.npin@gmail.com.
+2020-09-26 16:06:02: Error log sent.
+2020-09-26 18:45:18: Received a Push for crawler
+2020-09-26 18:45:20: Upgrading..
+2020-09-26 18:45:20: Your branch is up-to-date with 'origin/master'.
+2020-09-26 18:45:22: Updating 1a4c235..46a234c
+2020-09-26 18:45:22: Fast-forward
+2020-09-26 18:45:22:  service/crawler/campsaver/index.js      | 24 ++++++++++++++----------
+2020-09-26 18:45:22:  service/crawler/mountainsteals/index.js | 29 ++++++++++++++++-------------
+2020-09-26 18:45:22:  2 files changed, 30 insertions(+), 23 deletions(-)
+2020-09-26 18:45:34: audited 77 packages in 6.043s
+2020-09-26 18:45:35: 
+2020-09-26 18:45:35: 7 packages are looking for funding
+2020-09-26 18:45:35:   run `npm fund` for details
+2020-09-26 18:45:35: 
+2020-09-26 18:45:35: found 0 vulnerabilities
+2020-09-26 18:45:35: 
+2020-09-26 18:45:35: Upgrading.. crawler-scheduler
+2020-09-26 18:45:38: [PM2] Applying action restartProcessId on app [crawler-scheduler](ids: 4)
+2020-09-26 18:45:38: [PM2] [crawler-scheduler](4) ✓
+2020-09-26 18:45:38: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-09-26 18:45:38: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-09-26 18:45:38: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-09-26 18:45:38: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-09-26 18:45:38: │ 3   │ crawler-ci           │ default     │ 1.0.0   │ fork    │ 15119    │ 24h    │ 11   │ online    │ 0%       │ 45.0mb   │ volumio  │ disabled │
+2020-09-26 18:45:38: │ 4   │ crawler-scheduler    │ default     │ 1.0.0   │ fork    │ 23537    │ 0s     │ 11   │ online    │ 0%       │ 19.1mb   │ volumio  │ disabled │
+2020-09-26 18:45:38: │ 2   │ ngrok                │ default     │ 0.35.3  │ fork    │ 20476    │ 6D     │ 0    │ online    │ 0%       │ 48.5mb   │ volumio  │ disabled │
+2020-09-26 18:45:38: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-09-26 18:45:38: Upgrading.. crawler-ci
+2020-09-26 18:45:41: [PM2] Applying action restartProcessId on app [crawler-ci](ids: 3)
+2020-09-26 18:45:41: Received SIGINT, stop crawler-ci
+2020-09-26 18:45:44: [ './log/error_ci.log',
+2020-09-26 18:45:44:   './log/error.log',
+2020-09-26 18:45:44:   './log/error_ngrok.log' ]
+2020-09-26 18:45:44: Watching for file changes on ./log/error_ci.log
+2020-09-26 18:45:44: Watching for file changes on ./log/error.log
+2020-09-26 18:45:44: Watching for file changes on ./log/error_ngrok.log
