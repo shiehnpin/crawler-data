@@ -5,7 +5,7 @@ users:
       - url: 'https://www.sierra.com/mystery-ranch~b~37083/' #Requried
         name: '神秘農場 sierra' #Optioal, default is url
         match: Backpack #Optional, regex test for "Title", default is .*
-        event: [added, updated, deleted] #Optional, "added", "updated" and "deleted" only, default is [added, updated]
+        event: [added, updated, removed] #Optional, "added", "updated" and "removed" only, default is [added, updated]
 
       - url: 'https://www.mountainsteals.com/search/arcteryx'
         name: '始祖鳥 mountainsteals'
