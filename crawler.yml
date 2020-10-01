@@ -4,15 +4,15 @@ users:
     sites: 
       - url: https://www.mountainsteals.com/search/fjallraven
         name: Fjallraven@MountainSteals
-        match: Trekking
+        match: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
         
       - url: https://www.steepandcheap.com/fjallraven
         name: Fjallraven@steepandcheap
-        match: Trekking
+        match: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
         
       - url: https://www.campsaver.com/fjallraven-brand.html
         name: Fjallraven@steepandcheap
-        match: Trekking
+        match: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
         
       
   - email: deltaguita@gmail.com
