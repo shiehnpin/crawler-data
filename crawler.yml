@@ -2,22 +2,18 @@
 users: 
   - email: shieh.npin@gmail.com
     sites: 
-      - url: https://www.sierra.com/mystery-ranch~b~37083/ #Requried
-        name: 神秘農場@sierra #Optioal, default is url
-        match: Backpack #Optional, Regex test for "Title", default is .*
-        event: [added, updated, removed] #Optional, "added", "updated" and "removed" only, default is [added, updated]
-
-      - url: https://www.mountainsteals.com/search/arcteryx
-        name: 始祖鳥@mountainsteals
-
-      - url: https://www.sierra.com/gregory~b~7155/
-      - url: https://www.steepandcheap.com/arcteryx
-      - url: https://www.steepandcheap.com/mammut
+      - url: https://www.mountainsteals.com/search/fjallraven
+        name: Fjallraven@MountainSteals
+        match: Trekking
+        
       - url: https://www.steepandcheap.com/fjallraven
-      - url: https://www.campsaver.com/arc-teryx-brand.html
-      - url: https://www.campsaver.com/mammut-brand.html
-      - url: https://www.campsaver.com/mystery-ranch-brand.html
-      - url: https://www.mountainsteals.com/search/mammut
+        name: Fjallraven@steepandcheap
+        match: Trekking
+        
+      - url: https://www.campsaver.com/fjallraven-brand.html
+        name: Fjallraven@steepandcheap
+        match: Trekking
+        
       
   - email: deltaguita@gmail.com
     sites:  
