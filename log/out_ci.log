@@ -80,3 +80,52 @@
 2020-10-06 16:54:08: │ 7  │ pm2-logrotate                         │ 2.7.0              │ 20383 │ online   │ 0    │ 0%       │ 46.1mb   │ volumio  │
 2020-10-06 16:54:08: └────┴───────────────────────────────────────┴────────────────────┴───────┴──────────┴──────┴──────────┴──────────┴──────────┘
 2020-10-06 16:54:08: Restarted successfully!
+2020-10-06 16:56:09: error.log file Changed, wait 30 sec..
+2020-10-06 16:56:10: error.log file Changed, wait 30 sec..
+2020-10-06 16:56:40: mailing to shieh.npin@gmail.com.
+2020-10-06 16:58:19: Received SIGINT, stop crawler-ci
+2020-10-06 16:58:47: [ './log/error_ci.log',
+2020-10-06 16:58:47:   './log/error.log',
+2020-10-06 16:58:47:   './log/error_ngrok.log' ]
+2020-10-06 16:58:47: Watching for file changes on ./log/error_ci.log
+2020-10-06 16:58:47: Watching for file changes on ./log/error.log
+2020-10-06 16:58:47: Watching for file changes on ./log/error_ngrok.log
+2020-10-06 16:59:30: Received a Push for crawler
+2020-10-06 16:59:32: Upgrading..
+2020-10-06 16:59:32: M	config.yml
+2020-10-06 16:59:32: Your branch is up-to-date with 'origin/master'.
+2020-10-06 16:59:34: Already up-to-date.
+2020-10-06 16:59:45: audited 77 packages in 6.193s
+2020-10-06 16:59:46: 
+2020-10-06 16:59:46: 7 packages are looking for funding
+2020-10-06 16:59:46:   run `npm fund` for details
+2020-10-06 16:59:46: 
+2020-10-06 16:59:46: found 0 vulnerabilities
+2020-10-06 16:59:46: 
+2020-10-06 16:59:46: Upgrading.. crawler-scheduler
+2020-10-06 16:59:48: [PM2] Applying action restartProcessId on app [crawler-scheduler](ids: 9)
+2020-10-06 16:59:49: [PM2] [crawler-scheduler](9) ✓
+2020-10-06 16:59:49: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-10-06 16:59:49: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-10-06 16:59:49: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-10-06 16:59:49: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-10-06 16:59:49: │ 8   │ crawler-ci           │ default     │ 1.0.0   │ fork    │ 27894    │ 64s    │ 0    │ online    │ 0%       │ 38.9mb   │ volumio  │ disabled │
+2020-10-06 16:59:49: │ 9   │ crawler-scheduler    │ default     │ 1.0.0   │ fork    │ 28592    │ 0s     │ 1    │ online    │ 0%       │ 20.7mb   │ volumio  │ disabled │
+2020-10-06 16:59:49: │ 5   │ news-crawler         │ default     │ 0.35.3  │ fork    │ 12424    │ 9D     │ 6    │ online    │ 0%       │ 21.1mb   │ volumio  │ disabled │
+2020-10-06 16:59:49: │ 10  │ ngrok                │ default     │ 0.35.3  │ fork    │ 27911    │ 64s    │ 0    │ online    │ 0%       │ 39.9mb   │ volumio  │ disabled │
+2020-10-06 16:59:49: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-10-06 16:59:49: Module
+2020-10-06 16:59:49: ┌────┬───────────────────────────────────────┬────────────────────┬───────┬──────────┬──────┬──────────┬──────────┬──────────┐
+2020-10-06 16:59:49: │ id │ module                                │ version            │ pid   │ status   │ ↺    │ cpu      │ mem      │ user     │
+2020-10-06 16:59:49: ├────┼───────────────────────────────────────┼────────────────────┼───────┼──────────┼──────┼──────────┼──────────┼──────────┤
+2020-10-06 16:59:49: │ 7  │ pm2-logrotate                         │ 2.7.0              │ 20383 │ online   │ 0    │ 0%       │ 45.6mb   │ volumio  │
+2020-10-06 16:59:49: └────┴───────────────────────────────────────┴────────────────────┴───────┴──────────┴──────┴──────────┴──────────┴──────────┘
+2020-10-06 16:59:49: Upgrading.. crawler-ci
+2020-10-06 16:59:52: [PM2] Applying action restartProcessId on app [crawler-ci](ids: 8)
+2020-10-06 16:59:52: Received SIGINT, stop crawler-ci
+2020-10-06 16:59:55: [ './log/error_ci.log',
+2020-10-06 16:59:55:   './log/error.log',
+2020-10-06 16:59:55:   './log/error_ngrok.log' ]
+2020-10-06 16:59:55: Watching for file changes on ./log/error_ci.log
+2020-10-06 16:59:55: Watching for file changes on ./log/error.log
+2020-10-06 16:59:55: Watching for file changes on ./log/error_ngrok.log
