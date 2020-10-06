@@ -1,0 +1,44 @@
+2020-10-06 14:44:35: Received a Push for crawler
+2020-10-06 14:44:36: Upgrading..
+2020-10-06 14:44:36: M	config.yml
+2020-10-06 14:44:36: Your branch is up-to-date with 'origin/master'.
+2020-10-06 14:44:39: Updating 551eeed..991a20e
+2020-10-06 14:44:39: Fast-forward
+2020-10-06 14:44:39:  service/crawler/campsaver/index.js      | 9 +++++++--
+2020-10-06 14:44:39:  service/crawler/mountainsteals/index.js | 7 +++++--
+2020-10-06 14:44:39:  service/crawler/steepandcheap/index.js  | 6 +++++-
+2020-10-06 14:44:39:  3 files changed, 17 insertions(+), 5 deletions(-)
+2020-10-06 14:44:49: audited 77 packages in 5.025s
+2020-10-06 14:44:49: 
+2020-10-06 14:44:49: 7 packages are looking for funding
+2020-10-06 14:44:49:   run `npm fund` for details
+2020-10-06 14:44:49: 
+2020-10-06 14:44:49: found 0 vulnerabilities
+2020-10-06 14:44:49: 
+2020-10-06 14:44:50: Upgrading.. crawler-scheduler
+2020-10-06 14:44:52: [PM2] Applying action restartProcessId on app [crawler-scheduler](ids: 4)
+2020-10-06 14:44:53: [PM2] [crawler-scheduler](4) ✓
+2020-10-06 14:44:53: ⇆ PM2+ activated | Instance Name: volumio-07a7 | Dash: https://app.pm2.io/#/r/h41a1kbfebu8x7z
+2020-10-06 14:44:53: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-10-06 14:44:53: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-10-06 14:44:53: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-10-06 14:44:53: │ 3   │ crawler-ci           │ default     │ 1.0.0   │ fork    │ 18961    │ 22h    │ 24   │ online    │ 0%       │ 40.0mb   │ volumio  │ disabled │
+2020-10-06 14:44:53: │ 4   │ crawler-scheduler    │ default     │ 1.0.0   │ fork    │ 28443    │ 0s     │ 26   │ online    │ 0%       │ 20.7mb   │ volumio  │ disabled │
+2020-10-06 14:44:53: │ 5   │ news-crawler         │ default     │ 0.35.3  │ fork    │ 12424    │ 9D     │ 6    │ online    │ 0%       │ 21.6mb   │ volumio  │ disabled │
+2020-10-06 14:44:53: │ 2   │ ngrok                │ default     │ 0.35.3  │ fork    │ 20476    │ 16D    │ 0    │ online    │ 0%       │ 31.2mb   │ volumio  │ disabled │
+2020-10-06 14:44:53: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-10-06 14:44:53: Module
+2020-10-06 14:44:53: ┌────┬───────────────────────────────────────┬────────────────────┬───────┬──────────┬──────┬──────────┬──────────┬──────────┐
+2020-10-06 14:44:53: │ id │ module                                │ version            │ pid   │ status   │ ↺    │ cpu      │ mem      │ user     │
+2020-10-06 14:44:53: ├────┼───────────────────────────────────────┼────────────────────┼───────┼──────────┼──────┼──────────┼──────────┼──────────┤
+2020-10-06 14:44:53: │ 7  │ pm2-logrotate                         │ 2.7.0              │ 20383 │ online   │ 0    │ 0%       │ 45.7mb   │ volumio  │
+2020-10-06 14:44:53: └────┴───────────────────────────────────────┴────────────────────┴───────┴──────────┴──────┴──────────┴──────────┴──────────┘
+2020-10-06 14:44:53: Upgrading.. crawler-ci
+2020-10-06 14:44:56: [PM2] Applying action restartProcessId on app [crawler-ci](ids: 3)
+2020-10-06 14:44:56: Received SIGINT, stop crawler-ci
+2020-10-06 14:44:59: [ './log/error_ci.log',
+2020-10-06 14:44:59:   './log/error.log',
+2020-10-06 14:44:59:   './log/error_ngrok.log' ]
+2020-10-06 14:44:59: Watching for file changes on ./log/error_ci.log
+2020-10-06 14:44:59: Watching for file changes on ./log/error.log
+2020-10-06 14:44:59: Watching for file changes on ./log/error_ngrok.log
