@@ -101,3 +101,147 @@
 2020-10-14 00:12:43: Done.
 2020-10-14 00:12:43: 
 2020-10-14 00:12:43: Save...
+2020-10-14 00:12:43: user: shieh.npin@gmail.com
+2020-10-14 00:12:44: 	 Testing Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+2020-10-14 00:12:44: 	 Fjallraven@MountainSteals unchanged
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: 	 Testing Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+2020-10-14 00:12:44: 	 Type: [ 'added', 'updated' ]
+2020-10-14 00:12:44: 	 Title: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
+2020-10-14 00:12:44: 	 found 0 events
+2020-10-14 00:12:44: 	 Fjallraven@steepandcheap unchanged
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: 	 Testing Fjallraven@steepandcheap (https://www.campsaver.com/fjallraven-brand.html)
+2020-10-14 00:12:44: 	 Fjallraven@steepandcheap unchanged
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: 
+2020-10-14 00:12:44: [Release]
+2020-10-14 01:10:00: [Lock]
+2020-10-14 01:10:00: Start crawler @ 1:10:00 AM
+2020-10-14 01:10:32: Load crawler setting {
+2020-10-14 01:10:32:     "users": [
+2020-10-14 01:10:32:         {
+2020-10-14 01:10:32:             "email": "shieh.npin@gmail.com",
+2020-10-14 01:10:32:             "sites": [
+2020-10-14 01:10:32:                 {
+2020-10-14 01:10:32:                     "url": "https://www.mountainsteals.com/search/fjallraven",
+2020-10-14 01:10:32:                     "name": "Fjallraven@MountainSteals",
+2020-10-14 01:10:32:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 01:10:32:                 },
+2020-10-14 01:10:32:                 {
+2020-10-14 01:10:32:                     "url": "https://www.steepandcheap.com/fjallraven",
+2020-10-14 01:10:32:                     "name": "Fjallraven@steepandcheap",
+2020-10-14 01:10:32:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 01:10:32:                 },
+2020-10-14 01:10:32:                 {
+2020-10-14 01:10:32:                     "url": "https://www.campsaver.com/fjallraven-brand.html",
+2020-10-14 01:10:32:                     "name": "Fjallraven@steepandcheap",
+2020-10-14 01:10:32:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 01:10:32:                 }
+2020-10-14 01:10:32:             ]
+2020-10-14 01:10:32:         }
+2020-10-14 01:10:32:     ]
+2020-10-14 01:10:32: }
+2020-10-14 01:10:32: Automatically add sort query paramter to make list stable
+2020-10-14 01:10:32: Process https://www.mountainsteals.com/search/fjallraven with Mountain Steals crawler
+2020-10-14 01:10:32: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2
+2020-10-14 01:10:38: Parsing...
+2020-10-14 01:10:41: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=48
+2020-10-14 01:10:47: Parsing...
+2020-10-14 01:10:49: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=96
+2020-10-14 01:10:54: Parsing...
+2020-10-14 01:10:57: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=144
+2020-10-14 01:11:02: Parsing...
+2020-10-14 01:11:05: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=192
+2020-10-14 01:11:11: Parsing...
+2020-10-14 01:11:12: skip match check
+2020-10-14 01:11:12: done
+2020-10-14 01:11:12: 	Removed duplicated by id, found... 0
+2020-10-14 01:11:12: 	There are 205 items in the previous list.
+2020-10-14 01:11:12: 	There are 205 items in the latest list.
+2020-10-14 01:11:12: 	There are 0 items is removed
+2020-10-14 01:11:12: 	There are 0 items is added
+2020-10-14 01:11:12: 	There are 0 items price is changed
+2020-10-14 01:11:12: Done.
+2020-10-14 01:11:12: 
+2020-10-14 01:11:12: Automatically add sort query paramter to make list stable
+2020-10-14 01:11:12: Process https://www.steepandcheap.com/fjallraven with Steepandcheap crawler
+2020-10-14 01:11:12: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 01:11:16: Parsing...
+2020-10-14 01:11:18: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-10-14 01:11:20: Parsing...
+2020-10-14 01:11:22: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-10-14 01:11:23: Parsing...
+2020-10-14 01:11:24: Is equal? false
+2020-10-14 01:11:24: wait 10 seconds
+2020-10-14 01:11:34: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 01:11:36: Parsing...
+2020-10-14 01:11:38: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-10-14 01:11:38: Parsing...
+2020-10-14 01:11:40: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-10-14 01:11:41: Parsing...
+2020-10-14 01:11:42: Is equal? false
+2020-10-14 01:11:42: wait 20 seconds
+2020-10-14 01:12:02: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 01:12:04: Parsing...
+2020-10-14 01:12:06: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-10-14 01:12:07: Parsing...
+2020-10-14 01:12:09: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-10-14 01:12:10: Parsing...
+2020-10-14 01:12:11: Is equal? false
+2020-10-14 01:12:11: wait 30 seconds
+2020-10-14 01:12:41: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 01:12:42: Parsing...
+2020-10-14 01:12:45: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-10-14 01:12:46: Parsing...
+2020-10-14 01:12:47: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-10-14 01:12:49: Parsing...
+2020-10-14 01:12:50: Is equal? false
+2020-10-14 01:12:50: wait 40 seconds
+2020-10-14 01:13:30: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 01:13:32: Parsing...
+2020-10-14 01:13:34: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-10-14 01:13:36: Parsing...
+2020-10-14 01:13:38: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=2
+2020-10-14 01:13:39: Parsing...
+2020-10-14 01:13:40: Is equal? true
+2020-10-14 01:13:40: done
+2020-10-14 01:13:40: 	Removed duplicated by id, found... 0
+2020-10-14 01:13:40: 	There are 87 items in the previous list.
+2020-10-14 01:13:40: 	There are 86 items in the latest list.
+2020-10-14 01:13:40: 	There are 1 items is removed
+2020-10-14 01:13:40: 	There are 0 items is added
+2020-10-14 01:13:40: 	There are 0 items price is changed
+2020-10-14 01:13:40: Done.
+2020-10-14 01:13:40: 
+2020-10-14 01:13:40: Automatically add sort query paramter to make list stable
+2020-10-14 01:13:40: Process https://www.campsaver.com/fjallraven-brand.html with Campsaver crawler
+2020-10-14 01:13:40: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically
+2020-10-14 01:13:45: Parsing...
+2020-10-14 01:13:48: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2
+2020-10-14 01:13:55: Parsing...
+2020-10-14 01:13:58: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3
+2020-10-14 01:14:02: Parsing...
+2020-10-14 01:14:05: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4
+2020-10-14 01:14:08: Parsing...
+2020-10-14 01:14:11: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5
+2020-10-14 01:14:14: Parsing...
+2020-10-14 01:14:17: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6
+2020-10-14 01:14:22: Parsing...
+2020-10-14 01:14:25: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7
+2020-10-14 01:14:28: Parsing...
+2020-10-14 01:14:31: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8
+2020-10-14 01:14:35: Parsing...
+2020-10-14 01:14:37: skip match check
+2020-10-14 01:14:37: done
+2020-10-14 01:14:37: 	Removed duplicated by id, found... 0
+2020-10-14 01:14:37: 	There are 434 items in the previous list.
+2020-10-14 01:14:37: 	There are 453 items in the latest list.
+2020-10-14 01:14:38: 	There are 0 items is removed
+2020-10-14 01:14:38: 	There are 19 items is added
+2020-10-14 01:14:38: 	There are 12 items price is changed
+2020-10-14 01:14:38: Done.
+2020-10-14 01:14:38: 
+2020-10-14 01:14:38: Save...
