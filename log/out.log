@@ -994,3 +994,61 @@
 2020-10-14 07:12:01: Done.
 2020-10-14 07:12:01: 
 2020-10-14 07:12:01: Save...
+2020-10-14 07:12:02: user: shieh.npin@gmail.com
+2020-10-14 07:12:02: 	 Testing Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+2020-10-14 07:12:02: 	 Fjallraven@MountainSteals unchanged
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: 	 Testing Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+2020-10-14 07:12:02: 	 Fjallraven@steepandcheap unchanged
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: 	 Testing Fjallraven@steepandcheap (https://www.campsaver.com/fjallraven-brand.html)
+2020-10-14 07:12:02: 	 Fjallraven@steepandcheap unchanged
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: 
+2020-10-14 07:12:02: [Release]
+2020-10-14 08:10:00: [Lock]
+2020-10-14 08:10:00: Start crawler @ 8:10:00 AM
+2020-10-14 08:10:30: Load crawler setting {
+2020-10-14 08:10:30:     "users": [
+2020-10-14 08:10:30:         {
+2020-10-14 08:10:30:             "email": "shieh.npin@gmail.com",
+2020-10-14 08:10:30:             "sites": [
+2020-10-14 08:10:30:                 {
+2020-10-14 08:10:30:                     "url": "https://www.mountainsteals.com/search/fjallraven",
+2020-10-14 08:10:30:                     "name": "Fjallraven@MountainSteals",
+2020-10-14 08:10:30:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 08:10:30:                 },
+2020-10-14 08:10:30:                 {
+2020-10-14 08:10:30:                     "url": "https://www.steepandcheap.com/fjallraven",
+2020-10-14 08:10:30:                     "name": "Fjallraven@steepandcheap",
+2020-10-14 08:10:30:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 08:10:30:                 },
+2020-10-14 08:10:30:                 {
+2020-10-14 08:10:30:                     "url": "https://www.campsaver.com/fjallraven-brand.html",
+2020-10-14 08:10:30:                     "name": "Fjallraven@steepandcheap",
+2020-10-14 08:10:30:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-10-14 08:10:30:                 }
+2020-10-14 08:10:30:             ]
+2020-10-14 08:10:30:         }
+2020-10-14 08:10:30:     ]
+2020-10-14 08:10:30: }
+2020-10-14 08:10:30: Automatically add sort query paramter to make list stable
+2020-10-14 08:10:30: Process https://www.mountainsteals.com/search/fjallraven with Mountain Steals crawler
+2020-10-14 08:10:30: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2
+2020-10-14 08:11:09: Parsing...
+2020-10-14 08:11:13: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=48
+2020-10-14 08:20:30: Done.
+2020-10-14 08:20:30: 
+2020-10-14 08:20:30: Automatically add sort query paramter to make list stable
+2020-10-14 08:20:30: Process https://www.steepandcheap.com/fjallraven with Steepandcheap crawler
+2020-10-14 08:20:30: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-10-14 08:21:27: Done.
+2020-10-14 08:21:27: 
+2020-10-14 08:21:27: Automatically add sort query paramter to make list stable
+2020-10-14 08:21:27: Process https://www.campsaver.com/fjallraven-brand.html with Campsaver crawler
+2020-10-14 08:21:27: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically
+2020-10-14 08:22:23: Done.
+2020-10-14 08:22:23: 
+2020-10-14 08:22:23: Save...
