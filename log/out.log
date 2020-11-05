@@ -1684,3 +1684,142 @@
 2020-11-05 11:12:02: Done.
 2020-11-05 11:12:02: 
 2020-11-05 11:12:02: Save...
+2020-11-05 11:12:02: user: shieh.npin@gmail.com
+2020-11-05 11:12:02: 	 Testing Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+2020-11-05 11:12:02: 	 Fjallraven@MountainSteals unchanged
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: 	 Testing Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+2020-11-05 11:12:02: 	 Fjallraven@steepandcheap unchanged
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: 	 Testing Fjallraven@steepandcheap (https://www.campsaver.com/fjallraven-brand.html)
+2020-11-05 11:12:02: 	 Fjallraven@steepandcheap unchanged
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: 
+2020-11-05 11:12:02: [Release]
+2020-11-05 12:10:00: [Lock]
+2020-11-05 12:10:00: Start crawler @ 12:10:00 PM
+2020-11-05 12:10:41: Load crawler setting {
+2020-11-05 12:10:41:     "users": [
+2020-11-05 12:10:41:         {
+2020-11-05 12:10:41:             "email": "shieh.npin@gmail.com",
+2020-11-05 12:10:41:             "sites": [
+2020-11-05 12:10:41:                 {
+2020-11-05 12:10:41:                     "url": "https://www.mountainsteals.com/search/fjallraven",
+2020-11-05 12:10:41:                     "name": "Fjallraven@MountainSteals",
+2020-11-05 12:10:41:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-11-05 12:10:41:                 },
+2020-11-05 12:10:41:                 {
+2020-11-05 12:10:41:                     "url": "https://www.steepandcheap.com/fjallraven",
+2020-11-05 12:10:41:                     "name": "Fjallraven@steepandcheap",
+2020-11-05 12:10:41:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-11-05 12:10:41:                 },
+2020-11-05 12:10:41:                 {
+2020-11-05 12:10:41:                     "url": "https://www.campsaver.com/fjallraven-brand.html",
+2020-11-05 12:10:41:                     "name": "Fjallraven@steepandcheap",
+2020-11-05 12:10:41:                     "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+2020-11-05 12:10:41:                 }
+2020-11-05 12:10:41:             ]
+2020-11-05 12:10:41:         }
+2020-11-05 12:10:41:     ]
+2020-11-05 12:10:41: }
+2020-11-05 12:10:41: Automatically add sort query paramter to make list stable
+2020-11-05 12:10:41: Process https://www.mountainsteals.com/search/fjallraven with Mountain Steals crawler
+2020-11-05 12:10:41: 1604549441243 1604550041243
+2020-11-05 12:10:41: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2
+2020-11-05 12:10:46: Parsing...
+2020-11-05 12:10:49: 48/150
+2020-11-05 12:10:50: 1604549450153 1604550041243
+2020-11-05 12:10:50: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=48
+2020-11-05 12:10:55: Parsing...
+2020-11-05 12:10:58: 96/150
+2020-11-05 12:10:58: 1604549458617 1604550041243
+2020-11-05 12:10:58: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=96
+2020-11-05 12:11:05: Parsing...
+2020-11-05 12:11:08: 144/150
+2020-11-05 12:11:08: 1604549468877 1604550041243
+2020-11-05 12:11:08: Fetch... https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=144
+2020-11-05 12:11:12: Parsing...
+2020-11-05 12:11:14: 150/150
+2020-11-05 12:11:14: skip match check
+2020-11-05 12:11:14: done
+2020-11-05 12:11:14: 	Removed duplicated by id, found... 0
+2020-11-05 12:11:14: 	There are 150 items in the previous list.
+2020-11-05 12:11:14: 	There are 150 items in the latest list.
+2020-11-05 12:11:14: 	There are 0 items is removed
+2020-11-05 12:11:14: 	There are 0 items is added
+2020-11-05 12:11:14: 	There are 0 items price is changed
+2020-11-05 12:11:14: Done.
+2020-11-05 12:11:14: 
+2020-11-05 12:11:14: Automatically add sort query paramter to make list stable
+2020-11-05 12:11:14: Process https://www.steepandcheap.com/fjallraven with Steepandcheap crawler
+2020-11-05 12:11:14: 1604549474749 1604550074749
+2020-11-05 12:11:14: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-11-05 12:11:15: Parsing...
+2020-11-05 12:11:17: 1604549477635 1604550074749
+2020-11-05 12:11:17: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-11-05 12:11:18: Parsing...
+2020-11-05 12:11:20: Is equal? false
+2020-11-05 12:11:20: wait 10 seconds
+2020-11-05 12:11:30: 1604549490599 1604550074749
+2020-11-05 12:11:30: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice
+2020-11-05 12:11:31: Parsing...
+2020-11-05 12:11:33: 1604549493522 1604550074749
+2020-11-05 12:11:33: Fetch... https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+2020-11-05 12:11:34: Parsing...
+2020-11-05 12:11:36: Is equal? true
+2020-11-05 12:11:36: done
+2020-11-05 12:11:36: 	Removed duplicated by id, found... 0
+2020-11-05 12:11:36: 	There are 63 items in the previous list.
+2020-11-05 12:11:36: 	There are 63 items in the latest list.
+2020-11-05 12:11:36: 	There are 0 items is removed
+2020-11-05 12:11:36: 	There are 0 items is added
+2020-11-05 12:11:36: 	There are 0 items price is changed
+2020-11-05 12:11:36: Done.
+2020-11-05 12:11:36: 
+2020-11-05 12:11:36: Automatically add sort query paramter to make list stable
+2020-11-05 12:11:36: Process https://www.campsaver.com/fjallraven-brand.html with Campsaver crawler
+2020-11-05 12:11:36: 1604549496403 1604550096403
+2020-11-05 12:11:36: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically
+2020-11-05 12:11:38: Parsing...
+2020-11-05 12:11:40: 60/433
+2020-11-05 12:11:40: 1604549500967 1604550096403
+2020-11-05 12:11:40: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2
+2020-11-05 12:11:45: Parsing...
+2020-11-05 12:11:47: 120/433
+2020-11-05 12:11:47: 1604549507682 1604550096403
+2020-11-05 12:11:47: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3
+2020-11-05 12:11:49: Parsing...
+2020-11-05 12:11:51: 180/433
+2020-11-05 12:11:51: 1604549511981 1604550096403
+2020-11-05 12:11:51: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4
+2020-11-05 12:11:53: Parsing...
+2020-11-05 12:11:56: 240/433
+2020-11-05 12:11:56: 1604549516550 1604550096403
+2020-11-05 12:11:56: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5
+2020-11-05 12:11:58: Parsing...
+2020-11-05 12:12:00: 300/433
+2020-11-05 12:12:01: 1604549521148 1604550096403
+2020-11-05 12:12:01: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6
+2020-11-05 12:12:04: Parsing...
+2020-11-05 12:12:06: 360/433
+2020-11-05 12:12:07: 1604549527227 1604550096403
+2020-11-05 12:12:07: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7
+2020-11-05 12:12:10: Parsing...
+2020-11-05 12:12:13: 420/433
+2020-11-05 12:12:14: 1604549534240 1604550096403
+2020-11-05 12:12:14: Fetch... https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8
+2020-11-05 12:12:16: Parsing...
+2020-11-05 12:12:18: 433/433
+2020-11-05 12:12:19: skip match check
+2020-11-05 12:12:19: done
+2020-11-05 12:12:19: 	Removed duplicated by id, found... 0
+2020-11-05 12:12:19: 	There are 433 items in the previous list.
+2020-11-05 12:12:19: 	There are 433 items in the latest list.
+2020-11-05 12:12:19: 	There are 0 items is removed
+2020-11-05 12:12:19: 	There are 0 items is added
+2020-11-05 12:12:19: 	There are 0 items price is changed
+2020-11-05 12:12:19: Done.
+2020-11-05 12:12:19: 
+2020-11-05 12:12:19: Save...
