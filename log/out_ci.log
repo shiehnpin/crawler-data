@@ -1,0 +1,49 @@
+2020-12-04 02:07:33: [ './log/error_ci.log',
+2020-12-04 02:07:33:   './log/error.log',
+2020-12-04 02:07:33:   './log/error_ngrok.log' ]
+2020-12-04 02:07:33: Watching for file changes on ./log/error_ci.log
+2020-12-04 02:07:33: Watching for file changes on ./log/error.log
+2020-12-04 02:07:33: Watching for file changes on ./log/error_ngrok.log
+2020-12-04 02:08:36: Received a Push for crawler
+2020-12-04 02:08:37: Upgrading..
+2020-12-04 02:08:37: M	package-lock.json
+2020-12-04 02:08:37: Your branch is up to date with 'origin/master'.
+2020-12-04 02:08:39: Already up to date.
+2020-12-04 02:08:49: audited 129 packages in 6.71s
+2020-12-04 02:08:50: 
+2020-12-04 02:08:50: 9 packages are looking for funding
+2020-12-04 02:08:50:   run `npm fund` for details
+2020-12-04 02:08:50: 
+2020-12-04 02:08:50: found 0 vulnerabilities
+2020-12-04 02:08:50: 
+2020-12-04 02:08:50: Upgrading.. crawler-scheduler
+2020-12-04 02:08:52: [PM2] Applying action restartProcessId on app [crawler-scheduler](ids: 3)
+2020-12-04 02:08:52: [PM2] [crawler-scheduler](3) ✓
+2020-12-04 02:08:52: ┌─────┬──────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+2020-12-04 02:08:52: │ id  │ name                 │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+2020-12-04 02:08:52: ├─────┼──────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+2020-12-04 02:08:52: │ 2   │ crawler-ci           │ default     │ 1.0.0   │ fork    │ 30891    │ 81s    │ 0    │ online    │ 0%       │ 41.4mb   │ ubuntu   │ disabled │
+2020-12-04 02:08:52: │ 3   │ crawler-scheduler    │ default     │ 1.0.0   │ fork    │ 31342    │ 0s     │ 1    │ online    │ 0%       │ 15.7mb   │ ubuntu   │ disabled │
+2020-12-04 02:08:52: │ 0   │ news                 │ default     │ 0.37.2  │ fork    │ 10559    │ 27h    │ 0    │ online    │ 1.9%     │ 26.6mb   │ ubuntu   │ disabled │
+2020-12-04 02:08:52: │ 4   │ ngrok                │ default     │ 0.37.2  │ fork    │ 30906    │ 81s    │ 0    │ online    │ 0%       │ 42.4mb   │ ubuntu   │ disabled │
+2020-12-04 02:08:52: └─────┴──────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+2020-12-04 02:08:52: Module
+2020-12-04 02:08:52: ┌────┬───────────────────────────────────────┬────────────────────┬───────┬──────────┬──────┬──────────┬──────────┬──────────┐
+2020-12-04 02:08:52: │ id │ module                                │ version            │ pid   │ status   │ ↺    │ cpu      │ mem      │ user     │
+2020-12-04 02:08:52: ├────┼───────────────────────────────────────┼────────────────────┼───────┼──────────┼──────┼──────────┼──────────┼──────────┤
+2020-12-04 02:08:52: │ 1  │ pm2-logrotate                         │ 2.7.0              │ 30856 │ online   │ 1    │ 0%       │ 36.5mb   │ ubuntu   │
+2020-12-04 02:08:52: └────┴───────────────────────────────────────┴────────────────────┴───────┴──────────┴──────┴──────────┴──────────┴──────────┘
+2020-12-04 02:08:52: Upgrading.. crawler-ci
+2020-12-04 02:08:54: [PM2] Applying action restartProcessId on app [crawler-ci](ids: 2)
+2020-12-04 02:08:56: [ './log/error_ci.log',
+2020-12-04 02:08:56:   './log/error.log',
+2020-12-04 02:08:56:   './log/error_ngrok.log' ]
+2020-12-04 02:08:56: Watching for file changes on ./log/error_ci.log
+2020-12-04 02:08:56: send remain error log ./log/error_ci.log
+2020-12-04 02:08:56: mailing to shieh.npin@gmail.com.
+2020-12-04 02:08:56: ./log/error_ci.log is sent.
+2020-12-04 02:08:56: Watching for file changes on ./log/error.log
+2020-12-04 02:08:56: Watching for file changes on ./log/error_ngrok.log
+2020-12-04 02:16:13: error.log file Changed, wait 30 sec..
+2020-12-04 02:16:43: mailing to shieh.npin@gmail.com.
+2020-12-04 02:16:43: error.log is sent.
