@@ -37,3 +37,8 @@
 2020-12-09 15:44:44:     at crawlWithCheck (/home/ubuntu/crawler/service/crawler/index.js:194:12)
 2020-12-09 15:44:44:     at process._tickCallback (internal/process/next_tick.js:68:7)
 2020-12-09 15:44:44: Cannot destructure property `events` of 'undefined' or 'null'.
+2020-12-09 18:40:38: Error:  undefined Cannot read property 'TimeoutError' of undefined
+2020-12-09 18:40:38: undefined
+2020-12-09 18:40:38: 	Unable to crawl https://www.mountainsteals.com/search/mountain-hardwear due to TypeError: Cannot read property 'TimeoutError' of undefined
+2020-12-09 18:40:38:     at fetchWithPuppeteer (/home/ubuntu/crawler/service/crawler/index.js:115:37)
+2020-12-09 18:40:38: Cannot destructure property `events` of 'undefined' or 'null'.
