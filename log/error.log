@@ -36,3 +36,20 @@
 2020-12-10 06:49:25:     at crawlWithCheck (/home/ubuntu/crawler/service/crawler/index.js:253:8)
 2020-12-10 06:49:25: Cannot destructure property `events` of 'undefined' or 'null'.
 2020-12-10 11:38:17: Removed duplicated by id, duplicated 10381610:Marmot Women's Spire Bib
+2020-12-10 13:14:43: Error:  undefined Cannot read property 'TimeoutError' of undefined
+2020-12-10 13:14:43: undefined
+2020-12-10 13:14:43: 	Unable to crawl https://www.mountainsteals.com/search/fjallraven due to TypeError: Cannot read property 'TimeoutError' of undefined
+2020-12-10 13:14:43:     at fetchWithPuppeteer (/home/ubuntu/crawler/service/crawler/index.js:115:37)
+2020-12-10 13:14:43: Cannot destructure property `events` of 'undefined' or 'null'.
+2020-12-10 14:16:23: Error:  undefined Cannot read property 'TimeoutError' of undefined
+2020-12-10 14:16:23: undefined
+2020-12-10 14:16:23: 	Unable to crawl https://www.sierra.com/mystery-ranch~b~37083/ due to TypeError: Cannot read property 'TimeoutError' of undefined
+2020-12-10 14:16:23:     at fetchWithPuppeteer (/home/ubuntu/crawler/service/crawler/index.js:115:37)
+2020-12-10 14:16:23: Cannot destructure property `events` of 'undefined' or 'null'.
+2020-12-10 15:38:28: Removed duplicated by id, duplicated 10381529:Marmot Women's Minimalist Jacket
+2020-12-10 15:44:31: Error:  undefined https://www.mountainsteals.com/search/marmot takes too long to exec
+2020-12-10 15:44:31: undefined
+2020-12-10 15:44:31: 	Unable to crawl https://www.mountainsteals.com/search/marmot due to Error: https://www.mountainsteals.com/search/marmot takes too long to exec
+2020-12-10 15:44:31:     at crawlWithCheck (/home/ubuntu/crawler/service/crawler/index.js:194:12)
+2020-12-10 15:44:31:     at process._tickCallback (internal/process/next_tick.js:68:7)
+2020-12-10 15:44:31: Cannot destructure property `events` of 'undefined' or 'null'.
