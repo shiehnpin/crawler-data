@@ -50637,3 +50637,1350 @@
 [2020-12-12T18:25:34.990] [TRACE] Crawler - parsing
 [2020-12-12T18:25:35.731] [TRACE] Crawler - parsed: 23 total: 23
 [2020-12-12T18:25:35.733] [TRACE] Crawler - duration: 11.159 seconds, 574.123 seconds remaining.
+[2020-12-12T18:25:35.734] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:25:35.734] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:25:35.735] [INFO] Crawler - 23 items in the previous list, and 23 items in the latest list.
+[2020-12-12T18:25:35.736] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:25:35.737] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mystery-ranch 
+
+[2020-12-12T18:25:35.820] [DEBUG] Git - write to /home/ubuntu/crawler/repo/products.json
+[2020-12-12T18:25:40.455] [INFO] Git - pushing...
+[2020-12-12T18:25:46.625] [INFO] Git - pushed
+[2020-12-12T18:25:46.626] [INFO] Emailer - Dispatching to users...
+[2020-12-12T18:25:46.626] [INFO] Emailer - shieh.npin@gmail.com dispatching...
+[2020-12-12T18:25:46.627] [INFO] Emailer - Site: Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+[2020-12-12T18:25:46.627] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.628] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+[2020-12-12T18:25:46.628] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.628] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.campsaver.com/fjallraven-brand.html)
+[2020-12-12T18:25:46.629] [DEBUG] Emailer - Url: https://www.campsaver.com/fjallraven-brand.html
+[2020-12-12T18:25:46.629] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2020-12-12T18:25:46.630] [DEBUG] Emailer - Title: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
+[2020-12-12T18:25:46.636] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.637] [INFO] Emailer - Site: Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+[2020-12-12T18:25:46.638] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.638] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+[2020-12-12T18:25:46.639] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.639] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.campsaver.com/fjallraven-brand.html)
+[2020-12-12T18:25:46.640] [DEBUG] Emailer - Url: https://www.campsaver.com/fjallraven-brand.html
+[2020-12-12T18:25:46.640] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2020-12-12T18:25:46.641] [DEBUG] Emailer - Title: (?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))
+[2020-12-12T18:25:46.642] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.642] [INFO] Emailer - Site: Mystery Ranch@Sierra (https://www.sierra.com/mystery-ranch~b~37083/)
+[2020-12-12T18:25:46.643] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.643] [INFO] Emailer - Site: Mammut@Sierra (https://www.sierra.com/mammut~b~3201/)
+[2020-12-12T18:25:46.644] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.644] [INFO] Emailer - Site: Thermarest@Sierra (https://www.sierra.com/therm-a-rest~b~3177/)
+[2020-12-12T18:25:46.645] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.645] [INFO] Emailer - Site: MSR@Sierra (https://www.sierra.com/msr~b~13535/)
+[2020-12-12T18:25:46.646] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.646] [INFO] Emailer - Site: Fjallraven@Sierra (https://www.sierra.com/fjallraven~b~3622/)
+[2020-12-12T18:25:46.646] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.647] [INFO] Emailer - Site: Arcteryx@Sierra (https://www.sierra.com/s~arcteryx/)
+[2020-12-12T18:25:46.647] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.648] [INFO] Emailer - Site: Outdoor-Research-Clearance@Sierra (https://www.sierra.com/s~outdoor-research/clearance~1/)
+[2020-12-12T18:25:46.648] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.649] [INFO] Emailer - Site: Marmot-Clearance@Sierra (https://www.sierra.com/s~marmot-/clearance~1/)
+[2020-12-12T18:25:46.649] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.649] [INFO] Emailer - Site: Gregory@Sierra (https://www.sierra.com/gregory~b~7155/)
+[2020-12-12T18:25:46.650] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.650] [INFO] Emailer - Site: BD-Clearance@Sierra (https://www.sierra.com/s~black-diamond/clearance~1/)
+[2020-12-12T18:25:46.651] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.651] [INFO] Emailer - Site: Arcteryx@steepandcheap (https://www.steepandcheap.com/arcteryx)
+[2020-12-12T18:25:46.652] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.652] [INFO] Emailer - Site: Mammut@steepandcheap (https://www.steepandcheap.com/mammut)
+[2020-12-12T18:25:46.652] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.653] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+[2020-12-12T18:25:46.653] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.653] [INFO] Emailer - Site: mystery-ranch@steepandcheap (https://www.steepandcheap.com/mystery-ranch)
+[2020-12-12T18:25:46.653] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.654] [INFO] Emailer - Site: MSR@steepandcheap (https://www.steepandcheap.com/msr)
+[2020-12-12T18:25:46.654] [INFO] Emailer - unchanged
+[2020-12-12T18:25:46.654] [INFO] Emailer - Site: Arcteryx@campsaver (https://www.campsaver.com/arc-teryx-brand.html)
+[2020-12-12T18:25:46.655] [DEBUG] Emailer - Url: https://www.campsaver.com/arc-teryx-brand.html
+[2020-12-12T18:25:46.655] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2020-12-12T18:25:46.656] [DEBUG] Emailer - Title: .*
+[2020-12-12T18:25:46.657] [INFO] Emailer - found 1 event(s).
+[2020-12-12T18:25:46.657] [DEBUG] Emailer - mailing to shieh.npin@gmail.com
+[2020-12-12T18:25:49.718] [DEBUG] Emailer - mail sent
+[2020-12-12T18:25:49.719] [INFO] Emailer - Site: Mammut@campsaver (https://www.campsaver.com/mammut-brand.html)
+[2020-12-12T18:25:49.720] [INFO] Emailer - unchanged
+[2020-12-12T18:25:49.720] [INFO] Emailer - Site: Mystery Ranch@campsaver (https://www.campsaver.com/mystery-ranch-brand.html)
+[2020-12-12T18:25:49.721] [INFO] Emailer - unchanged
+[2020-12-12T18:25:49.722] [INFO] Emailer - Site: Marmot@campsaver (https://www.campsaver.com/marmot-brand.html)
+[2020-12-12T18:25:49.722] [INFO] Emailer - unchanged
+[2020-12-12T18:25:49.723] [INFO] Emailer - Site: Fjallraven@campsaver (https://www.campsaver.com/fjallraven-brand.html)
+[2020-12-12T18:25:49.724] [DEBUG] Emailer - Url: https://www.campsaver.com/fjallraven-brand.html
+[2020-12-12T18:25:49.724] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2020-12-12T18:25:49.725] [DEBUG] Emailer - Title: .*
+[2020-12-12T18:25:49.726] [INFO] Emailer - found 1 event(s).
+[2020-12-12T18:25:49.726] [DEBUG] Emailer - mailing to shieh.npin@gmail.com
+[2020-12-12T18:25:51.729] [DEBUG] Emailer - mail sent
+[2020-12-12T18:25:51.730] [INFO] Emailer - Site: Arcteryx@mountainsteals (https://www.mountainsteals.com/search/arcteryx)
+[2020-12-12T18:25:51.731] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.732] [INFO] Emailer - Site: Mammut@mountainsteals (https://www.mountainsteals.com/search/mammut)
+[2020-12-12T18:25:51.732] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.733] [INFO] Emailer - Site: MSR@mountainsteals (https://www.mountainsteals.com/search/msr)
+[2020-12-12T18:25:51.733] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.734] [INFO] Emailer - Site: Fjallraven@mountainsteals (https://www.mountainsteals.com/search/fjallraven)
+[2020-12-12T18:25:51.735] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.735] [INFO] Emailer - Site: Marmot@mountainsteals (https://www.mountainsteals.com/search/marmot)
+[2020-12-12T18:25:51.736] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.736] [INFO] Emailer - Site: Mountain-hardwear@mountainsteals (https://www.mountainsteals.com/search/mountain-hardwear)
+[2020-12-12T18:25:51.737] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.737] [INFO] Emailer - Site: Black-diamond@mountainsteals (https://www.mountainsteals.com/search/black-diamond)
+[2020-12-12T18:25:51.737] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.738] [INFO] Emailer - Site: Mystery-ranch@mountainsteals (https://www.mountainsteals.com/search/mystery-ranch)
+[2020-12-12T18:25:51.739] [INFO] Emailer - unchanged
+[2020-12-12T18:25:51.739] [INFO] Emailer - shieh.npin@gmail.com dispatched. 
+
+[2020-12-12T18:25:51.740] [INFO] Emailer - All dispatched
+[2020-12-12T18:25:51.740] [INFO] Scheduler - Finish
+[2020-12-12T18:25:51.741] [DEBUG] Scheduler - [Release]
+[2020-12-12T18:35:00.019] [DEBUG] Scheduler - [Lock]
+[2020-12-12T18:35:00.020] [INFO] Scheduler - Start
+[2020-12-12T18:35:00.144] [INFO] Git - cloning...
+[2020-12-12T18:35:41.433] [INFO] Git - cloned
+[2020-12-12T18:35:41.750] [DEBUG] Scheduler - Load crawler setting {
+    "users": [
+        {
+            "email": "shieh.npin@gmail.com",
+            "sites": [
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@MountainSteals",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/fjallraven",
+                    "name": "Fjallraven@steepandcheap",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.campsaver.com/fjallraven-brand.html",
+                    "name": "Fjallraven@steepandcheap",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@MountainSteals",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/fjallraven",
+                    "name": "Fjallraven@steepandcheap",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.campsaver.com/fjallraven-brand.html",
+                    "name": "Fjallraven@steepandcheap",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.sierra.com/mystery-ranch~b~37083/",
+                    "name": "Mystery Ranch@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/mammut~b~3201/",
+                    "name": "Mammut@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/therm-a-rest~b~3177/",
+                    "name": "Thermarest@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/msr~b~13535/",
+                    "name": "MSR@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/fjallraven~b~3622/",
+                    "name": "Fjallraven@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~arcteryx/",
+                    "name": "Arcteryx@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~outdoor-research/clearance~1/",
+                    "name": "Outdoor-Research-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~marmot-/clearance~1/",
+                    "name": "Marmot-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/gregory~b~7155/",
+                    "name": "Gregory@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~black-diamond/clearance~1/",
+                    "name": "BD-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/arcteryx",
+                    "name": "Arcteryx@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/mammut",
+                    "name": "Mammut@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/fjallraven",
+                    "name": "Fjallraven@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/mystery-ranch",
+                    "name": "mystery-ranch@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/msr",
+                    "name": "MSR@steepandcheap"
+                },
+                {
+                    "url": "https://www.campsaver.com/arc-teryx-brand.html",
+                    "name": "Arcteryx@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mammut-brand.html",
+                    "name": "Mammut@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mystery-ranch-brand.html",
+                    "name": "Mystery Ranch@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/marmot-brand.html",
+                    "name": "Marmot@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/fjallraven-brand.html",
+                    "name": "Fjallraven@campsaver"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/arcteryx",
+                    "name": "Arcteryx@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mammut",
+                    "name": "Mammut@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/msr",
+                    "name": "MSR@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/marmot",
+                    "name": "Marmot@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mountain-hardwear",
+                    "name": "Mountain-hardwear@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/black-diamond",
+                    "name": "Black-diamond@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mystery-ranch",
+                    "name": "Mystery-ranch@mountainsteals"
+                }
+            ]
+        }
+    ]
+}
+[2020-12-12T18:35:46.207] [INFO] Crawler - Process https://www.mountainsteals.com/search/fjallraven by Mountain Steals crawler, deadline: 18:45
+[2020-12-12T18:35:46.209] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven
+[2020-12-12T18:35:46.210] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:35:57.872] [TRACE] Crawler - parsing
+[2020-12-12T18:35:59.413] [TRACE] Crawler - parsed: 48 total: 108
+[2020-12-12T18:35:59.415] [TRACE] Crawler - duration: 13.205 seconds, 586.791 seconds remaining.
+[2020-12-12T18:35:59.415] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:35:59.417] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:36:12.967] [TRACE] Crawler - parsing
+[2020-12-12T18:36:14.337] [TRACE] Crawler - parsed: 96 total: 108
+[2020-12-12T18:36:14.340] [TRACE] Crawler - duration: 14.923 seconds, 571.866 seconds remaining.
+[2020-12-12T18:36:14.340] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:36:14.342] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:36:22.947] [TRACE] Crawler - parsing
+[2020-12-12T18:36:23.785] [TRACE] Crawler - parsed: 108 total: 108
+[2020-12-12T18:36:23.787] [TRACE] Crawler - duration: 9.445 seconds, 562.419 seconds remaining.
+[2020-12-12T18:36:23.795] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:36:23.795] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:36:28.808] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven
+[2020-12-12T18:36:28.810] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:36:47.067] [TRACE] Crawler - parsing
+[2020-12-12T18:36:48.447] [TRACE] Crawler - parsed: 48 total: 108
+[2020-12-12T18:36:48.449] [TRACE] Crawler - duration: 19.639 seconds, 537.757 seconds remaining.
+[2020-12-12T18:36:48.450] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:36:48.452] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:36:59.254] [TRACE] Crawler - parsing
+[2020-12-12T18:37:00.603] [TRACE] Crawler - parsed: 96 total: 108
+[2020-12-12T18:37:00.606] [TRACE] Crawler - duration: 12.153 seconds, 525.601 seconds remaining.
+[2020-12-12T18:37:00.606] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:37:00.608] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:37:09.249] [TRACE] Crawler - parsing
+[2020-12-12T18:37:09.940] [TRACE] Crawler - parsed: 108 total: 108
+[2020-12-12T18:37:09.941] [TRACE] Crawler - duration: 9.333 seconds, 516.265 seconds remaining.
+[2020-12-12T18:37:09.948] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:37:09.949] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:37:09.949] [INFO] Crawler - 108 items in the previous list, and 108 items in the latest list.
+[2020-12-12T18:37:09.959] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:37:09.959] [INFO] Crawler - Finish https://www.mountainsteals.com/search/fjallraven 
+
+[2020-12-12T18:37:09.963] [INFO] Crawler - Process https://www.steepandcheap.com/fjallraven by Steepandcheap crawler, deadline: 18:47
+[2020-12-12T18:37:09.963] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven
+[2020-12-12T18:37:09.965] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:10.799] [TRACE] Crawler - parsing
+[2020-12-12T18:37:11.453] [TRACE] Crawler - duration: 1.488 seconds, 598.51 seconds remaining.
+[2020-12-12T18:37:11.454] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+[2020-12-12T18:37:11.454] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:12.142] [TRACE] Crawler - parsing
+[2020-12-12T18:37:12.836] [TRACE] Crawler - duration: 1.381 seconds, 597.127 seconds remaining.
+[2020-12-12T18:37:12.840] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:37:12.841] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:37:17.891] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven
+[2020-12-12T18:37:17.895] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:18.540] [TRACE] Crawler - parsing
+[2020-12-12T18:37:19.313] [TRACE] Crawler - duration: 1.416 seconds, 590.652 seconds remaining.
+[2020-12-12T18:37:19.313] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven?sort=%2Bprice&page=1
+[2020-12-12T18:37:19.314] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:19.902] [TRACE] Crawler - parsing
+[2020-12-12T18:37:20.382] [TRACE] Crawler - duration: 1.068 seconds, 589.58 seconds remaining.
+[2020-12-12T18:37:20.385] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:37:20.386] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:37:20.386] [INFO] Crawler - 63 items in the previous list, and 63 items in the latest list.
+[2020-12-12T18:37:20.390] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:37:20.391] [INFO] Crawler - Finish https://www.steepandcheap.com/fjallraven 
+
+[2020-12-12T18:37:20.393] [INFO] Crawler - Process https://www.campsaver.com/fjallraven-brand.html by Campsaver crawler, deadline: 18:47
+[2020-12-12T18:37:20.394] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html
+[2020-12-12T18:37:20.395] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:22.828] [TRACE] Crawler - parsing
+[2020-12-12T18:37:24.122] [TRACE] Crawler - parsed: 60 total: 460
+[2020-12-12T18:37:24.125] [TRACE] Crawler - duration: 3.729 seconds, 596.27 seconds remaining.
+[2020-12-12T18:37:24.125] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:37:24.126] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:24.811] [TRACE] Crawler - parsing
+[2020-12-12T18:37:26.023] [TRACE] Crawler - parsed: 120 total: 460
+[2020-12-12T18:37:26.025] [TRACE] Crawler - duration: 1.899 seconds, 594.369 seconds remaining.
+[2020-12-12T18:37:26.025] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:37:26.026] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:26.664] [TRACE] Crawler - parsing
+[2020-12-12T18:37:27.993] [TRACE] Crawler - parsed: 180 total: 460
+[2020-12-12T18:37:27.996] [TRACE] Crawler - duration: 1.968 seconds, 592.399 seconds remaining.
+[2020-12-12T18:37:27.996] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:37:27.997] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:29.051] [TRACE] Crawler - parsing
+[2020-12-12T18:37:30.234] [TRACE] Crawler - parsed: 240 total: 460
+[2020-12-12T18:37:30.236] [TRACE] Crawler - duration: 2.239 seconds, 590.158 seconds remaining.
+[2020-12-12T18:37:30.236] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:37:30.237] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:31.309] [TRACE] Crawler - parsing
+[2020-12-12T18:37:32.561] [TRACE] Crawler - parsed: 300 total: 460
+[2020-12-12T18:37:32.563] [TRACE] Crawler - duration: 2.325 seconds, 587.831 seconds remaining.
+[2020-12-12T18:37:32.564] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:37:32.565] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:33.232] [TRACE] Crawler - parsing
+[2020-12-12T18:37:34.401] [TRACE] Crawler - parsed: 360 total: 460
+[2020-12-12T18:37:34.403] [TRACE] Crawler - duration: 1.838 seconds, 585.991 seconds remaining.
+[2020-12-12T18:37:34.404] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:37:34.404] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:35.071] [TRACE] Crawler - parsing
+[2020-12-12T18:37:36.312] [TRACE] Crawler - parsed: 420 total: 460
+[2020-12-12T18:37:36.315] [TRACE] Crawler - duration: 1.909 seconds, 584.08 seconds remaining.
+[2020-12-12T18:37:36.315] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:37:36.316] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:38.402] [TRACE] Crawler - parsing
+[2020-12-12T18:37:39.405] [TRACE] Crawler - parsed: 460 total: 460
+[2020-12-12T18:37:39.406] [TRACE] Crawler - duration: 3.091 seconds, 580.987 seconds remaining.
+[2020-12-12T18:37:39.453] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:37:39.454] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:37:44.470] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html
+[2020-12-12T18:37:44.473] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:45.162] [TRACE] Crawler - parsing
+[2020-12-12T18:37:46.388] [TRACE] Crawler - parsed: 60 total: 460
+[2020-12-12T18:37:46.390] [TRACE] Crawler - duration: 1.917 seconds, 574.005 seconds remaining.
+[2020-12-12T18:37:46.390] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:37:46.391] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:47.514] [TRACE] Crawler - parsing
+[2020-12-12T18:37:48.614] [TRACE] Crawler - parsed: 120 total: 460
+[2020-12-12T18:37:48.615] [TRACE] Crawler - duration: 2.224 seconds, 571.779 seconds remaining.
+[2020-12-12T18:37:48.616] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:37:48.616] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:49.694] [TRACE] Crawler - parsing
+[2020-12-12T18:37:50.950] [TRACE] Crawler - parsed: 180 total: 460
+[2020-12-12T18:37:50.952] [TRACE] Crawler - duration: 2.335 seconds, 569.442 seconds remaining.
+[2020-12-12T18:37:50.952] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:37:50.953] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:51.712] [TRACE] Crawler - parsing
+[2020-12-12T18:37:52.931] [TRACE] Crawler - parsed: 240 total: 460
+[2020-12-12T18:37:52.932] [TRACE] Crawler - duration: 1.979 seconds, 567.461 seconds remaining.
+[2020-12-12T18:37:52.933] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:37:52.934] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:53.722] [TRACE] Crawler - parsing
+[2020-12-12T18:37:54.956] [TRACE] Crawler - parsed: 300 total: 460
+[2020-12-12T18:37:54.958] [TRACE] Crawler - duration: 2.024 seconds, 565.436 seconds remaining.
+[2020-12-12T18:37:54.959] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:37:54.960] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:56.007] [TRACE] Crawler - parsing
+[2020-12-12T18:37:57.219] [TRACE] Crawler - parsed: 360 total: 460
+[2020-12-12T18:37:57.221] [TRACE] Crawler - duration: 2.261 seconds, 563.173 seconds remaining.
+[2020-12-12T18:37:57.221] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:37:57.222] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:37:58.290] [TRACE] Crawler - parsing
+[2020-12-12T18:37:59.513] [TRACE] Crawler - parsed: 420 total: 460
+[2020-12-12T18:37:59.515] [TRACE] Crawler - duration: 2.293 seconds, 560.879 seconds remaining.
+[2020-12-12T18:37:59.515] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:37:59.516] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:00.244] [TRACE] Crawler - parsing
+[2020-12-12T18:38:01.225] [TRACE] Crawler - parsed: 460 total: 460
+[2020-12-12T18:38:01.227] [TRACE] Crawler - duration: 1.71 seconds, 559.167 seconds remaining.
+[2020-12-12T18:38:01.275] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:38:01.276] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:38:01.276] [INFO] Crawler - 460 items in the previous list, and 460 items in the latest list.
+[2020-12-12T18:38:01.439] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:01.440] [INFO] Crawler - Finish https://www.campsaver.com/fjallraven-brand.html 
+
+[2020-12-12T18:38:01.441] [INFO] Crawler - Process https://www.sierra.com/mystery-ranch~b~37083/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:01.441] [DEBUG] Crawler - https://www.sierra.com/mystery-ranch~b~37083/
+[2020-12-12T18:38:01.442] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:04.670] [TRACE] Crawler - parsing
+[2020-12-12T18:38:06.963] [TRACE] Crawler - duration: 5.52 seconds, 594.478 seconds remaining.
+[2020-12-12T18:38:06.964] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:06.964] [INFO] Crawler - 4 items in the previous list, and 4 items in the latest list.
+[2020-12-12T18:38:06.965] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:06.965] [INFO] Crawler - Finish https://www.sierra.com/mystery-ranch~b~37083/ 
+
+[2020-12-12T18:38:06.967] [INFO] Crawler - Process https://www.sierra.com/mammut~b~3201/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:06.967] [DEBUG] Crawler - https://www.sierra.com/mammut~b~3201/
+[2020-12-12T18:38:06.968] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:10.353] [TRACE] Crawler - parsing
+[2020-12-12T18:38:12.762] [TRACE] Crawler - duration: 5.792 seconds, 594.206 seconds remaining.
+[2020-12-12T18:38:12.762] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:12.763] [INFO] Crawler - 11 items in the previous list, and 11 items in the latest list.
+[2020-12-12T18:38:12.764] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:12.764] [INFO] Crawler - Finish https://www.sierra.com/mammut~b~3201/ 
+
+[2020-12-12T18:38:12.765] [INFO] Crawler - Process https://www.sierra.com/therm-a-rest~b~3177/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:12.766] [DEBUG] Crawler - https://www.sierra.com/therm-a-rest~b~3177/
+[2020-12-12T18:38:12.766] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:15.108] [TRACE] Crawler - parsing
+[2020-12-12T18:38:17.375] [TRACE] Crawler - duration: 4.608 seconds, 595.391 seconds remaining.
+[2020-12-12T18:38:17.375] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:17.376] [INFO] Crawler - 4 items in the previous list, and 4 items in the latest list.
+[2020-12-12T18:38:17.377] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:17.377] [INFO] Crawler - Finish https://www.sierra.com/therm-a-rest~b~3177/ 
+
+[2020-12-12T18:38:17.378] [INFO] Crawler - Process https://www.sierra.com/msr~b~13535/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:17.379] [DEBUG] Crawler - https://www.sierra.com/msr~b~13535/
+[2020-12-12T18:38:17.379] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:19.411] [TRACE] Crawler - parsing
+[2020-12-12T18:38:21.634] [TRACE] Crawler - duration: 4.253 seconds, 595.746 seconds remaining.
+[2020-12-12T18:38:21.634] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:21.635] [INFO] Crawler - 2 items in the previous list, and 2 items in the latest list.
+[2020-12-12T18:38:21.635] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:21.636] [INFO] Crawler - Finish https://www.sierra.com/msr~b~13535/ 
+
+[2020-12-12T18:38:21.637] [INFO] Crawler - Process https://www.sierra.com/fjallraven~b~3622/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:21.637] [DEBUG] Crawler - https://www.sierra.com/fjallraven~b~3622/
+[2020-12-12T18:38:21.638] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:24.573] [TRACE] Crawler - parsing
+[2020-12-12T18:38:26.756] [TRACE] Crawler - duration: 5.117 seconds, 594.881 seconds remaining.
+[2020-12-12T18:38:26.757] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:26.758] [INFO] Crawler - 0 items in the previous list, and 0 items in the latest list.
+[2020-12-12T18:38:26.758] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:26.759] [INFO] Crawler - Finish https://www.sierra.com/fjallraven~b~3622/ 
+
+[2020-12-12T18:38:26.760] [INFO] Crawler - Process https://www.sierra.com/s~arcteryx/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:26.760] [DEBUG] Crawler - https://www.sierra.com/s~arcteryx/
+[2020-12-12T18:38:26.761] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:27.950] [TRACE] Crawler - parsing
+[2020-12-12T18:38:28.264] [TRACE] Crawler - duration: 1.503 seconds, 598.495 seconds remaining.
+[2020-12-12T18:38:28.265] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:28.265] [INFO] Crawler - 2 items in the previous list, and 2 items in the latest list.
+[2020-12-12T18:38:28.266] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:28.267] [INFO] Crawler - Finish https://www.sierra.com/s~arcteryx/ 
+
+[2020-12-12T18:38:28.268] [INFO] Crawler - Process https://www.sierra.com/s~outdoor-research/clearance~1/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:28.269] [DEBUG] Crawler - https://www.sierra.com/s~outdoor-research/clearance~1/
+[2020-12-12T18:38:28.270] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:29.328] [TRACE] Crawler - parsing
+[2020-12-12T18:38:29.687] [TRACE] Crawler - duration: 1.417 seconds, 598.582 seconds remaining.
+[2020-12-12T18:38:29.688] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:29.688] [INFO] Crawler - 5 items in the previous list, and 5 items in the latest list.
+[2020-12-12T18:38:29.688] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:29.689] [INFO] Crawler - Finish https://www.sierra.com/s~outdoor-research/clearance~1/ 
+
+[2020-12-12T18:38:29.690] [INFO] Crawler - Process https://www.sierra.com/s~marmot-/clearance~1/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:29.691] [DEBUG] Crawler - https://www.sierra.com/s~marmot-/clearance~1/
+[2020-12-12T18:38:29.691] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:30.815] [TRACE] Crawler - parsing
+[2020-12-12T18:38:31.403] [TRACE] Crawler - duration: 1.712 seconds, 598.287 seconds remaining.
+[2020-12-12T18:38:31.405] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:31.405] [INFO] Crawler - 24 items in the previous list, and 24 items in the latest list.
+[2020-12-12T18:38:31.406] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:31.407] [INFO] Crawler - Finish https://www.sierra.com/s~marmot-/clearance~1/ 
+
+[2020-12-12T18:38:31.408] [INFO] Crawler - Process https://www.sierra.com/gregory~b~7155/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:31.408] [DEBUG] Crawler - https://www.sierra.com/gregory~b~7155/
+[2020-12-12T18:38:31.409] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:36.099] [TRACE] Crawler - parsing
+[2020-12-12T18:38:38.406] [TRACE] Crawler - duration: 6.996 seconds, 593.002 seconds remaining.
+[2020-12-12T18:38:38.407] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:38.408] [INFO] Crawler - 18 items in the previous list, and 18 items in the latest list.
+[2020-12-12T18:38:38.409] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:38.410] [INFO] Crawler - Finish https://www.sierra.com/gregory~b~7155/ 
+
+[2020-12-12T18:38:38.412] [INFO] Crawler - Process https://www.sierra.com/s~black-diamond/clearance~1/ by Sierra crawler, deadline: 18:48
+[2020-12-12T18:38:38.412] [DEBUG] Crawler - https://www.sierra.com/s~black-diamond/clearance~1/
+[2020-12-12T18:38:38.412] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:39.492] [TRACE] Crawler - parsing
+[2020-12-12T18:38:39.839] [TRACE] Crawler - duration: 1.426 seconds, 598.573 seconds remaining.
+[2020-12-12T18:38:39.840] [DEBUG] Crawler - consistency check: skip
+[2020-12-12T18:38:39.841] [INFO] Crawler - 2 items in the previous list, and 2 items in the latest list.
+[2020-12-12T18:38:39.841] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:39.842] [INFO] Crawler - Finish https://www.sierra.com/s~black-diamond/clearance~1/ 
+
+[2020-12-12T18:38:39.845] [INFO] Crawler - Process https://www.steepandcheap.com/arcteryx by Steepandcheap crawler, deadline: 18:48
+[2020-12-12T18:38:39.845] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx
+[2020-12-12T18:38:39.847] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:40.639] [TRACE] Crawler - parsing
+[2020-12-12T18:38:41.325] [TRACE] Crawler - duration: 1.478 seconds, 598.521 seconds remaining.
+[2020-12-12T18:38:41.325] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+[2020-12-12T18:38:41.326] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:41.963] [TRACE] Crawler - parsing
+[2020-12-12T18:38:42.567] [TRACE] Crawler - duration: 1.241 seconds, 597.279 seconds remaining.
+[2020-12-12T18:38:42.570] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:38:42.571] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:38:47.585] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx
+[2020-12-12T18:38:47.586] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:48.345] [TRACE] Crawler - parsing
+[2020-12-12T18:38:48.951] [TRACE] Crawler - duration: 1.366 seconds, 590.894 seconds remaining.
+[2020-12-12T18:38:48.952] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1
+[2020-12-12T18:38:48.953] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:49.764] [TRACE] Crawler - parsing
+[2020-12-12T18:38:50.327] [TRACE] Crawler - duration: 1.374 seconds, 589.519 seconds remaining.
+[2020-12-12T18:38:50.331] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:38:50.332] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:38:50.332] [INFO] Crawler - 72 items in the previous list, and 72 items in the latest list.
+[2020-12-12T18:38:50.337] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:38:50.338] [INFO] Crawler - Finish https://www.steepandcheap.com/arcteryx 
+
+[2020-12-12T18:38:50.339] [INFO] Crawler - Process https://www.steepandcheap.com/mammut by Steepandcheap crawler, deadline: 18:48
+[2020-12-12T18:38:50.340] [DEBUG] Crawler - https://www.steepandcheap.com/mammut
+[2020-12-12T18:38:50.341] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:51.113] [TRACE] Crawler - parsing
+[2020-12-12T18:38:52.056] [TRACE] Crawler - duration: 1.715 seconds, 598.284 seconds remaining.
+[2020-12-12T18:38:52.056] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+[2020-12-12T18:38:52.058] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:52.742] [TRACE] Crawler - parsing
+[2020-12-12T18:38:53.466] [TRACE] Crawler - duration: 1.409 seconds, 596.874 seconds remaining.
+[2020-12-12T18:38:53.466] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+[2020-12-12T18:38:53.467] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:54.186] [TRACE] Crawler - parsing
+[2020-12-12T18:38:54.897] [TRACE] Crawler - duration: 1.429 seconds, 595.443 seconds remaining.
+[2020-12-12T18:38:54.897] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+[2020-12-12T18:38:54.898] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:38:55.573] [TRACE] Crawler - parsing
+[2020-12-12T18:38:56.126] [TRACE] Crawler - duration: 1.228 seconds, 594.214 seconds remaining.
+[2020-12-12T18:38:56.136] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:38:56.136] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:39:01.185] [DEBUG] Crawler - https://www.steepandcheap.com/mammut
+[2020-12-12T18:39:01.187] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:02.017] [TRACE] Crawler - parsing
+[2020-12-12T18:39:02.882] [TRACE] Crawler - duration: 1.696 seconds, 587.458 seconds remaining.
+[2020-12-12T18:39:02.882] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1
+[2020-12-12T18:39:02.883] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:03.579] [TRACE] Crawler - parsing
+[2020-12-12T18:39:04.263] [TRACE] Crawler - duration: 1.379 seconds, 586.077 seconds remaining.
+[2020-12-12T18:39:04.263] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2
+[2020-12-12T18:39:04.264] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:04.947] [TRACE] Crawler - parsing
+[2020-12-12T18:39:05.813] [TRACE] Crawler - duration: 1.549 seconds, 584.527 seconds remaining.
+[2020-12-12T18:39:05.814] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=3
+[2020-12-12T18:39:05.816] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:06.494] [TRACE] Crawler - parsing
+[2020-12-12T18:39:06.945] [TRACE] Crawler - duration: 1.13 seconds, 583.394 seconds remaining.
+[2020-12-12T18:39:06.954] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:39:06.954] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:39:06.955] [INFO] Crawler - 127 items in the previous list, and 127 items in the latest list.
+[2020-12-12T18:39:06.968] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:39:06.969] [INFO] Crawler - Finish https://www.steepandcheap.com/mammut 
+
+[2020-12-12T18:39:06.970] [INFO] Crawler - Process https://www.steepandcheap.com/mystery-ranch by Steepandcheap crawler, deadline: 18:49
+[2020-12-12T18:39:06.970] [DEBUG] Crawler - https://www.steepandcheap.com/mystery-ranch
+[2020-12-12T18:39:06.971] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:07.485] [TRACE] Crawler - parsing
+[2020-12-12T18:39:07.778] [TRACE] Crawler - duration: 0.806 seconds, 599.192 seconds remaining.
+[2020-12-12T18:39:07.779] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:39:07.779] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:39:12.780] [DEBUG] Crawler - https://www.steepandcheap.com/mystery-ranch
+[2020-12-12T18:39:12.782] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:13.291] [TRACE] Crawler - parsing
+[2020-12-12T18:39:13.580] [TRACE] Crawler - duration: 0.798 seconds, 593.39 seconds remaining.
+[2020-12-12T18:39:13.580] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:39:13.581] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:39:13.581] [INFO] Crawler - 8 items in the previous list, and 8 items in the latest list.
+[2020-12-12T18:39:13.582] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:39:13.582] [INFO] Crawler - Finish https://www.steepandcheap.com/mystery-ranch 
+
+[2020-12-12T18:39:13.584] [INFO] Crawler - Process https://www.steepandcheap.com/msr by Steepandcheap crawler, deadline: 18:49
+[2020-12-12T18:39:13.584] [DEBUG] Crawler - https://www.steepandcheap.com/msr
+[2020-12-12T18:39:13.585] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:14.070] [TRACE] Crawler - parsing
+[2020-12-12T18:39:14.324] [TRACE] Crawler - duration: 0.74 seconds, 599.259 seconds remaining.
+[2020-12-12T18:39:14.325] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:39:14.325] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:39:19.326] [DEBUG] Crawler - https://www.steepandcheap.com/msr
+[2020-12-12T18:39:19.328] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:19.879] [TRACE] Crawler - parsing
+[2020-12-12T18:39:20.130] [TRACE] Crawler - duration: 0.803 seconds, 593.453 seconds remaining.
+[2020-12-12T18:39:20.131] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:39:20.132] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:39:20.132] [INFO] Crawler - 8 items in the previous list, and 8 items in the latest list.
+[2020-12-12T18:39:20.133] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:39:20.134] [INFO] Crawler - Finish https://www.steepandcheap.com/msr 
+
+[2020-12-12T18:39:20.136] [INFO] Crawler - Process https://www.campsaver.com/arc-teryx-brand.html by Campsaver crawler, deadline: 18:49
+[2020-12-12T18:39:20.136] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html
+[2020-12-12T18:39:20.137] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:22.407] [TRACE] Crawler - parsing
+[2020-12-12T18:39:23.704] [TRACE] Crawler - parsed: 60 total: 350
+[2020-12-12T18:39:23.707] [TRACE] Crawler - duration: 3.57 seconds, 596.429 seconds remaining.
+[2020-12-12T18:39:23.710] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:39:23.713] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:24.731] [TRACE] Crawler - parsing
+[2020-12-12T18:39:25.981] [TRACE] Crawler - parsed: 120 total: 350
+[2020-12-12T18:39:25.983] [TRACE] Crawler - duration: 2.27 seconds, 594.154 seconds remaining.
+[2020-12-12T18:39:25.983] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:39:25.984] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:27.085] [TRACE] Crawler - parsing
+[2020-12-12T18:39:28.227] [TRACE] Crawler - parsed: 180 total: 350
+[2020-12-12T18:39:28.228] [TRACE] Crawler - duration: 2.244 seconds, 591.908 seconds remaining.
+[2020-12-12T18:39:28.229] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:39:28.230] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:29.048] [TRACE] Crawler - parsing
+[2020-12-12T18:39:30.284] [TRACE] Crawler - parsed: 240 total: 350
+[2020-12-12T18:39:30.287] [TRACE] Crawler - duration: 2.057 seconds, 589.85 seconds remaining.
+[2020-12-12T18:39:30.288] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:39:30.288] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:32.810] [TRACE] Crawler - parsing
+[2020-12-12T18:39:33.952] [TRACE] Crawler - parsed: 300 total: 350
+[2020-12-12T18:39:33.953] [TRACE] Crawler - duration: 3.664 seconds, 586.184 seconds remaining.
+[2020-12-12T18:39:33.953] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:39:33.954] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:35.939] [TRACE] Crawler - parsing
+[2020-12-12T18:39:37.026] [TRACE] Crawler - parsed: 350 total: 350
+[2020-12-12T18:39:37.027] [TRACE] Crawler - duration: 3.073 seconds, 583.109 seconds remaining.
+[2020-12-12T18:39:37.059] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:39:37.060] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:39:42.076] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html
+[2020-12-12T18:39:42.079] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:43.132] [TRACE] Crawler - parsing
+[2020-12-12T18:39:44.505] [TRACE] Crawler - parsed: 60 total: 350
+[2020-12-12T18:39:44.513] [TRACE] Crawler - duration: 2.428 seconds, 575.63 seconds remaining.
+[2020-12-12T18:39:44.514] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:39:44.515] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:46.617] [TRACE] Crawler - parsing
+[2020-12-12T18:39:47.844] [TRACE] Crawler - parsed: 120 total: 350
+[2020-12-12T18:39:47.846] [TRACE] Crawler - duration: 3.331 seconds, 572.291 seconds remaining.
+[2020-12-12T18:39:47.846] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:39:47.847] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:48.502] [TRACE] Crawler - parsing
+[2020-12-12T18:39:49.888] [TRACE] Crawler - parsed: 180 total: 350
+[2020-12-12T18:39:49.890] [TRACE] Crawler - duration: 2.042 seconds, 570.247 seconds remaining.
+[2020-12-12T18:39:49.890] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:39:49.891] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:50.935] [TRACE] Crawler - parsing
+[2020-12-12T18:39:52.229] [TRACE] Crawler - parsed: 240 total: 350
+[2020-12-12T18:39:52.232] [TRACE] Crawler - duration: 2.34 seconds, 567.905 seconds remaining.
+[2020-12-12T18:39:52.234] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:39:52.236] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:53.283] [TRACE] Crawler - parsing
+[2020-12-12T18:39:54.469] [TRACE] Crawler - parsed: 300 total: 350
+[2020-12-12T18:39:54.470] [TRACE] Crawler - duration: 2.233 seconds, 565.667 seconds remaining.
+[2020-12-12T18:39:54.471] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:39:54.472] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:55.102] [TRACE] Crawler - parsing
+[2020-12-12T18:39:56.204] [TRACE] Crawler - parsed: 350 total: 350
+[2020-12-12T18:39:56.205] [TRACE] Crawler - duration: 1.734 seconds, 563.931 seconds remaining.
+[2020-12-12T18:39:56.239] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:39:56.240] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:39:56.240] [INFO] Crawler - 350 items in the previous list, and 350 items in the latest list.
+[2020-12-12T18:39:56.324] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:39:56.325] [INFO] Crawler - Finish https://www.campsaver.com/arc-teryx-brand.html 
+
+[2020-12-12T18:39:56.327] [INFO] Crawler - Process https://www.campsaver.com/mammut-brand.html by Campsaver crawler, deadline: 18:49
+[2020-12-12T18:39:56.327] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html
+[2020-12-12T18:39:56.328] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:39:58.438] [TRACE] Crawler - parsing
+[2020-12-12T18:39:59.611] [TRACE] Crawler - parsed: 60 total: 618
+[2020-12-12T18:39:59.614] [TRACE] Crawler - duration: 3.285 seconds, 596.714 seconds remaining.
+[2020-12-12T18:39:59.614] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:39:59.615] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:00.527] [TRACE] Crawler - parsing
+[2020-12-12T18:40:01.681] [TRACE] Crawler - parsed: 120 total: 618
+[2020-12-12T18:40:01.683] [TRACE] Crawler - duration: 2.068 seconds, 594.644 seconds remaining.
+[2020-12-12T18:40:01.683] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:40:01.684] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:02.369] [TRACE] Crawler - parsing
+[2020-12-12T18:40:03.513] [TRACE] Crawler - parsed: 180 total: 618
+[2020-12-12T18:40:03.515] [TRACE] Crawler - duration: 1.83 seconds, 592.812 seconds remaining.
+[2020-12-12T18:40:03.515] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:40:03.516] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:04.542] [TRACE] Crawler - parsing
+[2020-12-12T18:40:05.772] [TRACE] Crawler - parsed: 240 total: 618
+[2020-12-12T18:40:05.774] [TRACE] Crawler - duration: 2.257 seconds, 590.553 seconds remaining.
+[2020-12-12T18:40:05.775] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:40:05.776] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:06.795] [TRACE] Crawler - parsing
+[2020-12-12T18:40:08.013] [TRACE] Crawler - parsed: 300 total: 618
+[2020-12-12T18:40:08.015] [TRACE] Crawler - duration: 2.239 seconds, 588.312 seconds remaining.
+[2020-12-12T18:40:08.015] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:40:08.016] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:10.089] [TRACE] Crawler - parsing
+[2020-12-12T18:40:11.338] [TRACE] Crawler - parsed: 360 total: 618
+[2020-12-12T18:40:11.340] [TRACE] Crawler - duration: 3.323 seconds, 584.987 seconds remaining.
+[2020-12-12T18:40:11.341] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:40:11.342] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:12.012] [TRACE] Crawler - parsing
+[2020-12-12T18:40:13.232] [TRACE] Crawler - parsed: 420 total: 618
+[2020-12-12T18:40:13.233] [TRACE] Crawler - duration: 1.892 seconds, 583.093 seconds remaining.
+[2020-12-12T18:40:13.234] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:40:13.235] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:13.895] [TRACE] Crawler - parsing
+[2020-12-12T18:40:15.123] [TRACE] Crawler - parsed: 480 total: 618
+[2020-12-12T18:40:15.125] [TRACE] Crawler - duration: 1.89 seconds, 581.202 seconds remaining.
+[2020-12-12T18:40:15.125] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9
+[2020-12-12T18:40:15.126] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:17.618] [TRACE] Crawler - parsing
+[2020-12-12T18:40:18.731] [TRACE] Crawler - parsed: 540 total: 618
+[2020-12-12T18:40:18.732] [TRACE] Crawler - duration: 3.606 seconds, 577.594 seconds remaining.
+[2020-12-12T18:40:18.733] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10
+[2020-12-12T18:40:18.734] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:19.395] [TRACE] Crawler - parsing
+[2020-12-12T18:40:20.478] [TRACE] Crawler - parsed: 600 total: 618
+[2020-12-12T18:40:20.481] [TRACE] Crawler - duration: 1.745 seconds, 575.847 seconds remaining.
+[2020-12-12T18:40:20.481] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=11
+[2020-12-12T18:40:20.482] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:21.106] [TRACE] Crawler - parsing
+[2020-12-12T18:40:21.882] [TRACE] Crawler - parsed: 618 total: 618
+[2020-12-12T18:40:21.883] [TRACE] Crawler - duration: 1.402 seconds, 574.443 seconds remaining.
+[2020-12-12T18:40:21.956] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:40:21.957] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:40:26.972] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html
+[2020-12-12T18:40:26.973] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:29.351] [TRACE] Crawler - parsing
+[2020-12-12T18:40:30.440] [TRACE] Crawler - parsed: 60 total: 618
+[2020-12-12T18:40:30.442] [TRACE] Crawler - duration: 3.469 seconds, 565.885 seconds remaining.
+[2020-12-12T18:40:30.442] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:40:30.443] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:31.463] [TRACE] Crawler - parsing
+[2020-12-12T18:40:32.706] [TRACE] Crawler - parsed: 120 total: 618
+[2020-12-12T18:40:32.708] [TRACE] Crawler - duration: 2.265 seconds, 563.619 seconds remaining.
+[2020-12-12T18:40:32.709] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:40:32.710] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:33.387] [TRACE] Crawler - parsing
+[2020-12-12T18:40:34.622] [TRACE] Crawler - parsed: 180 total: 618
+[2020-12-12T18:40:34.623] [TRACE] Crawler - duration: 1.913 seconds, 561.704 seconds remaining.
+[2020-12-12T18:40:34.623] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:40:34.624] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:35.264] [TRACE] Crawler - parsing
+[2020-12-12T18:40:36.489] [TRACE] Crawler - parsed: 240 total: 618
+[2020-12-12T18:40:36.491] [TRACE] Crawler - duration: 1.865 seconds, 559.837 seconds remaining.
+[2020-12-12T18:40:36.491] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:40:36.492] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:37.535] [TRACE] Crawler - parsing
+[2020-12-12T18:40:38.760] [TRACE] Crawler - parsed: 300 total: 618
+[2020-12-12T18:40:38.762] [TRACE] Crawler - duration: 2.27 seconds, 557.565 seconds remaining.
+[2020-12-12T18:40:38.762] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:40:38.763] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:39.833] [TRACE] Crawler - parsing
+[2020-12-12T18:40:41.074] [TRACE] Crawler - parsed: 360 total: 618
+[2020-12-12T18:40:41.076] [TRACE] Crawler - duration: 2.312 seconds, 555.251 seconds remaining.
+[2020-12-12T18:40:41.077] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:40:41.078] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:42.101] [TRACE] Crawler - parsing
+[2020-12-12T18:40:43.324] [TRACE] Crawler - parsed: 420 total: 618
+[2020-12-12T18:40:43.325] [TRACE] Crawler - duration: 2.247 seconds, 553.002 seconds remaining.
+[2020-12-12T18:40:43.326] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:40:43.326] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:44.395] [TRACE] Crawler - parsing
+[2020-12-12T18:40:45.670] [TRACE] Crawler - parsed: 480 total: 618
+[2020-12-12T18:40:45.672] [TRACE] Crawler - duration: 2.345 seconds, 550.655 seconds remaining.
+[2020-12-12T18:40:45.672] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9
+[2020-12-12T18:40:45.673] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:46.309] [TRACE] Crawler - parsing
+[2020-12-12T18:40:47.528] [TRACE] Crawler - parsed: 540 total: 618
+[2020-12-12T18:40:47.529] [TRACE] Crawler - duration: 1.855 seconds, 548.798 seconds remaining.
+[2020-12-12T18:40:47.530] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10
+[2020-12-12T18:40:47.530] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:48.170] [TRACE] Crawler - parsing
+[2020-12-12T18:40:49.400] [TRACE] Crawler - parsed: 600 total: 618
+[2020-12-12T18:40:49.403] [TRACE] Crawler - duration: 1.871 seconds, 546.925 seconds remaining.
+[2020-12-12T18:40:49.403] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=11
+[2020-12-12T18:40:49.404] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:51.654] [TRACE] Crawler - parsing
+[2020-12-12T18:40:52.382] [TRACE] Crawler - parsed: 618 total: 618
+[2020-12-12T18:40:52.384] [TRACE] Crawler - duration: 2.98 seconds, 543.943 seconds remaining.
+[2020-12-12T18:40:52.455] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:40:52.456] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:40:52.457] [INFO] Crawler - 618 items in the previous list, and 618 items in the latest list.
+[2020-12-12T18:40:52.623] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:40:52.623] [INFO] Crawler - Finish https://www.campsaver.com/mammut-brand.html 
+
+[2020-12-12T18:40:52.625] [INFO] Crawler - Process https://www.campsaver.com/mystery-ranch-brand.html by Campsaver crawler, deadline: 18:50
+[2020-12-12T18:40:52.626] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html
+[2020-12-12T18:40:52.626] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:54.891] [TRACE] Crawler - parsing
+[2020-12-12T18:40:55.951] [TRACE] Crawler - parsed: 60 total: 101
+[2020-12-12T18:40:55.954] [TRACE] Crawler - duration: 3.327 seconds, 596.672 seconds remaining.
+[2020-12-12T18:40:55.955] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:40:55.956] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:40:56.601] [TRACE] Crawler - parsing
+[2020-12-12T18:40:57.285] [TRACE] Crawler - parsed: 101 total: 101
+[2020-12-12T18:40:57.287] [TRACE] Crawler - duration: 1.331 seconds, 595.339 seconds remaining.
+[2020-12-12T18:40:57.293] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:40:57.293] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:41:02.368] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html
+[2020-12-12T18:41:02.369] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:04.427] [TRACE] Crawler - parsing
+[2020-12-12T18:41:05.327] [TRACE] Crawler - parsed: 60 total: 101
+[2020-12-12T18:41:05.329] [TRACE] Crawler - duration: 2.959 seconds, 587.297 seconds remaining.
+[2020-12-12T18:41:05.329] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:41:05.330] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:06.268] [TRACE] Crawler - parsing
+[2020-12-12T18:41:06.987] [TRACE] Crawler - parsed: 101 total: 101
+[2020-12-12T18:41:06.989] [TRACE] Crawler - duration: 1.658 seconds, 585.637 seconds remaining.
+[2020-12-12T18:41:06.996] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:41:06.997] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:41:06.997] [INFO] Crawler - 101 items in the previous list, and 101 items in the latest list.
+[2020-12-12T18:41:07.008] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:41:07.009] [INFO] Crawler - Finish https://www.campsaver.com/mystery-ranch-brand.html 
+
+[2020-12-12T18:41:07.011] [INFO] Crawler - Process https://www.campsaver.com/marmot-brand.html by Campsaver crawler, deadline: 18:51
+[2020-12-12T18:41:07.011] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html
+[2020-12-12T18:41:07.012] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:09.372] [TRACE] Crawler - parsing
+[2020-12-12T18:41:10.732] [TRACE] Crawler - parsed: 60 total: 941
+[2020-12-12T18:41:10.734] [TRACE] Crawler - duration: 3.722 seconds, 596.277 seconds remaining.
+[2020-12-12T18:41:10.735] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:41:10.736] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:11.385] [TRACE] Crawler - parsing
+[2020-12-12T18:41:12.667] [TRACE] Crawler - parsed: 120 total: 941
+[2020-12-12T18:41:12.669] [TRACE] Crawler - duration: 1.934 seconds, 594.341 seconds remaining.
+[2020-12-12T18:41:12.670] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:41:12.671] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:13.287] [TRACE] Crawler - parsing
+[2020-12-12T18:41:14.454] [TRACE] Crawler - parsed: 180 total: 941
+[2020-12-12T18:41:14.455] [TRACE] Crawler - duration: 1.784 seconds, 592.556 seconds remaining.
+[2020-12-12T18:41:14.456] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:41:14.456] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:15.443] [TRACE] Crawler - parsing
+[2020-12-12T18:41:16.639] [TRACE] Crawler - parsed: 240 total: 941
+[2020-12-12T18:41:16.640] [TRACE] Crawler - duration: 2.183 seconds, 590.371 seconds remaining.
+[2020-12-12T18:41:16.640] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:41:16.641] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:17.716] [TRACE] Crawler - parsing
+[2020-12-12T18:41:18.907] [TRACE] Crawler - parsed: 300 total: 941
+[2020-12-12T18:41:18.910] [TRACE] Crawler - duration: 2.268 seconds, 588.101 seconds remaining.
+[2020-12-12T18:41:18.910] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:41:18.911] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:19.537] [TRACE] Crawler - parsing
+[2020-12-12T18:41:20.677] [TRACE] Crawler - parsed: 360 total: 941
+[2020-12-12T18:41:20.679] [TRACE] Crawler - duration: 1.767 seconds, 586.332 seconds remaining.
+[2020-12-12T18:41:20.679] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:41:20.680] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:21.360] [TRACE] Crawler - parsing
+[2020-12-12T18:41:22.513] [TRACE] Crawler - parsed: 420 total: 941
+[2020-12-12T18:41:22.514] [TRACE] Crawler - duration: 1.833 seconds, 584.497 seconds remaining.
+[2020-12-12T18:41:22.515] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:41:22.516] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:23.176] [TRACE] Crawler - parsing
+[2020-12-12T18:41:24.519] [TRACE] Crawler - parsed: 480 total: 941
+[2020-12-12T18:41:24.521] [TRACE] Crawler - duration: 2.005 seconds, 582.49 seconds remaining.
+[2020-12-12T18:41:24.522] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9
+[2020-12-12T18:41:24.523] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:25.243] [TRACE] Crawler - parsing
+[2020-12-12T18:41:26.404] [TRACE] Crawler - parsed: 540 total: 941
+[2020-12-12T18:41:26.406] [TRACE] Crawler - duration: 1.883 seconds, 580.605 seconds remaining.
+[2020-12-12T18:41:26.406] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10
+[2020-12-12T18:41:26.407] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:27.304] [TRACE] Crawler - parsing
+[2020-12-12T18:41:28.455] [TRACE] Crawler - parsed: 600 total: 941
+[2020-12-12T18:41:28.456] [TRACE] Crawler - duration: 2.049 seconds, 578.554 seconds remaining.
+[2020-12-12T18:41:28.457] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11
+[2020-12-12T18:41:28.458] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:29.454] [TRACE] Crawler - parsing
+[2020-12-12T18:41:30.851] [TRACE] Crawler - parsed: 660 total: 941
+[2020-12-12T18:41:30.853] [TRACE] Crawler - duration: 2.395 seconds, 576.158 seconds remaining.
+[2020-12-12T18:41:30.853] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12
+[2020-12-12T18:41:30.854] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:31.517] [TRACE] Crawler - parsing
+[2020-12-12T18:41:32.750] [TRACE] Crawler - parsed: 720 total: 941
+[2020-12-12T18:41:32.751] [TRACE] Crawler - duration: 1.896 seconds, 574.26 seconds remaining.
+[2020-12-12T18:41:32.752] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13
+[2020-12-12T18:41:32.752] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:33.413] [TRACE] Crawler - parsing
+[2020-12-12T18:41:34.799] [TRACE] Crawler - parsed: 780 total: 941
+[2020-12-12T18:41:34.801] [TRACE] Crawler - duration: 2.048 seconds, 572.21 seconds remaining.
+[2020-12-12T18:41:34.802] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14
+[2020-12-12T18:41:34.803] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:36.068] [TRACE] Crawler - parsing
+[2020-12-12T18:41:37.305] [TRACE] Crawler - parsed: 840 total: 941
+[2020-12-12T18:41:37.307] [TRACE] Crawler - duration: 2.504 seconds, 569.704 seconds remaining.
+[2020-12-12T18:41:37.307] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=15
+[2020-12-12T18:41:37.308] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:38.379] [TRACE] Crawler - parsing
+[2020-12-12T18:41:39.642] [TRACE] Crawler - parsed: 900 total: 941
+[2020-12-12T18:41:39.645] [TRACE] Crawler - duration: 2.335 seconds, 567.367 seconds remaining.
+[2020-12-12T18:41:39.645] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=16
+[2020-12-12T18:41:39.646] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:40.812] [TRACE] Crawler - parsing
+[2020-12-12T18:41:41.796] [TRACE] Crawler - parsed: 941 total: 941
+[2020-12-12T18:41:41.797] [TRACE] Crawler - duration: 2.151 seconds, 565.213 seconds remaining.
+[2020-12-12T18:41:41.943] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:41:41.944] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:41:46.952] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html
+[2020-12-12T18:41:46.956] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:49.954] [TRACE] Crawler - parsing
+[2020-12-12T18:41:51.290] [TRACE] Crawler - parsed: 60 total: 941
+[2020-12-12T18:41:51.292] [TRACE] Crawler - duration: 4.336 seconds, 555.719 seconds remaining.
+[2020-12-12T18:41:51.292] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2
+[2020-12-12T18:41:51.293] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:52.456] [TRACE] Crawler - parsing
+[2020-12-12T18:41:53.702] [TRACE] Crawler - parsed: 120 total: 941
+[2020-12-12T18:41:53.703] [TRACE] Crawler - duration: 2.41 seconds, 553.307 seconds remaining.
+[2020-12-12T18:41:53.704] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3
+[2020-12-12T18:41:53.705] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:54.952] [TRACE] Crawler - parsing
+[2020-12-12T18:41:56.336] [TRACE] Crawler - parsed: 180 total: 941
+[2020-12-12T18:41:56.338] [TRACE] Crawler - duration: 2.633 seconds, 550.673 seconds remaining.
+[2020-12-12T18:41:56.338] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4
+[2020-12-12T18:41:56.339] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:41:57.897] [TRACE] Crawler - parsing
+[2020-12-12T18:41:59.117] [TRACE] Crawler - parsed: 240 total: 941
+[2020-12-12T18:41:59.118] [TRACE] Crawler - duration: 2.779 seconds, 547.893 seconds remaining.
+[2020-12-12T18:41:59.119] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5
+[2020-12-12T18:41:59.119] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:00.653] [TRACE] Crawler - parsing
+[2020-12-12T18:42:02.024] [TRACE] Crawler - parsed: 300 total: 941
+[2020-12-12T18:42:02.026] [TRACE] Crawler - duration: 2.906 seconds, 544.985 seconds remaining.
+[2020-12-12T18:42:02.027] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6
+[2020-12-12T18:42:02.028] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:03.271] [TRACE] Crawler - parsing
+[2020-12-12T18:42:04.515] [TRACE] Crawler - parsed: 360 total: 941
+[2020-12-12T18:42:04.517] [TRACE] Crawler - duration: 2.489 seconds, 542.494 seconds remaining.
+[2020-12-12T18:42:04.517] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7
+[2020-12-12T18:42:04.518] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:05.855] [TRACE] Crawler - parsing
+[2020-12-12T18:42:07.240] [TRACE] Crawler - parsed: 420 total: 941
+[2020-12-12T18:42:07.242] [TRACE] Crawler - duration: 2.723 seconds, 539.769 seconds remaining.
+[2020-12-12T18:42:07.243] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8
+[2020-12-12T18:42:07.244] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:08.435] [TRACE] Crawler - parsing
+[2020-12-12T18:42:09.680] [TRACE] Crawler - parsed: 480 total: 941
+[2020-12-12T18:42:09.682] [TRACE] Crawler - duration: 2.438 seconds, 537.329 seconds remaining.
+[2020-12-12T18:42:09.682] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9
+[2020-12-12T18:42:09.683] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:10.882] [TRACE] Crawler - parsing
+[2020-12-12T18:42:12.272] [TRACE] Crawler - parsed: 540 total: 941
+[2020-12-12T18:42:12.274] [TRACE] Crawler - duration: 2.591 seconds, 534.737 seconds remaining.
+[2020-12-12T18:42:12.274] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10
+[2020-12-12T18:42:12.275] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:14.160] [TRACE] Crawler - parsing
+[2020-12-12T18:42:15.378] [TRACE] Crawler - parsed: 600 total: 941
+[2020-12-12T18:42:15.380] [TRACE] Crawler - duration: 3.104 seconds, 531.631 seconds remaining.
+[2020-12-12T18:42:15.380] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11
+[2020-12-12T18:42:15.381] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:16.986] [TRACE] Crawler - parsing
+[2020-12-12T18:42:18.386] [TRACE] Crawler - parsed: 660 total: 941
+[2020-12-12T18:42:18.389] [TRACE] Crawler - duration: 3.006 seconds, 528.623 seconds remaining.
+[2020-12-12T18:42:18.389] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12
+[2020-12-12T18:42:18.390] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:19.916] [TRACE] Crawler - parsing
+[2020-12-12T18:42:21.143] [TRACE] Crawler - parsed: 720 total: 941
+[2020-12-12T18:42:21.144] [TRACE] Crawler - duration: 2.755 seconds, 525.866 seconds remaining.
+[2020-12-12T18:42:21.145] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13
+[2020-12-12T18:42:21.146] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:22.516] [TRACE] Crawler - parsing
+[2020-12-12T18:42:23.873] [TRACE] Crawler - parsed: 780 total: 941
+[2020-12-12T18:42:23.876] [TRACE] Crawler - duration: 2.729 seconds, 523.136 seconds remaining.
+[2020-12-12T18:42:23.876] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14
+[2020-12-12T18:42:23.877] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:25.528] [TRACE] Crawler - parsing
+[2020-12-12T18:42:26.748] [TRACE] Crawler - parsed: 840 total: 941
+[2020-12-12T18:42:26.749] [TRACE] Crawler - duration: 2.872 seconds, 520.261 seconds remaining.
+[2020-12-12T18:42:26.750] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=15
+[2020-12-12T18:42:26.751] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:28.347] [TRACE] Crawler - parsing
+[2020-12-12T18:42:29.615] [TRACE] Crawler - parsed: 900 total: 941
+[2020-12-12T18:42:29.617] [TRACE] Crawler - duration: 2.866 seconds, 517.394 seconds remaining.
+[2020-12-12T18:42:29.617] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=16
+[2020-12-12T18:42:29.619] [TRACE] Crawler - fetching(axios)
+[2020-12-12T18:42:30.850] [TRACE] Crawler - parsing
+[2020-12-12T18:42:31.861] [TRACE] Crawler - parsed: 941 total: 941
+[2020-12-12T18:42:31.863] [TRACE] Crawler - duration: 2.244 seconds, 515.148 seconds remaining.
+[2020-12-12T18:42:32.013] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:42:32.015] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:42:32.015] [INFO] Crawler - 941 items in the previous list, and 941 items in the latest list.
+[2020-12-12T18:42:32.467] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:42:32.468] [INFO] Crawler - Finish https://www.campsaver.com/marmot-brand.html 
+
+[2020-12-12T18:42:32.470] [INFO] Crawler - Process https://www.mountainsteals.com/search/arcteryx by Mountain Steals crawler, deadline: 18:52
+[2020-12-12T18:42:32.471] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx
+[2020-12-12T18:42:32.472] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:42:44.092] [TRACE] Crawler - parsing
+[2020-12-12T18:42:45.271] [TRACE] Crawler - parsed: 48 total: 145
+[2020-12-12T18:42:45.273] [TRACE] Crawler - duration: 12.801 seconds, 587.198 seconds remaining.
+[2020-12-12T18:42:45.274] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:42:45.275] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:43:09.452] [TRACE] Crawler - parsing
+[2020-12-12T18:43:10.741] [TRACE] Crawler - parsed: 96 total: 145
+[2020-12-12T18:43:10.744] [TRACE] Crawler - duration: 25.468 seconds, 561.727 seconds remaining.
+[2020-12-12T18:43:10.744] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:43:10.746] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:43:21.507] [TRACE] Crawler - parsing
+[2020-12-12T18:43:22.520] [TRACE] Crawler - parsed: 144 total: 145
+[2020-12-12T18:43:22.521] [TRACE] Crawler - duration: 11.775 seconds, 549.95 seconds remaining.
+[2020-12-12T18:43:22.521] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:43:22.522] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:43:30.442] [TRACE] Crawler - parsing
+[2020-12-12T18:43:30.947] [TRACE] Crawler - parsed: 145 total: 145
+[2020-12-12T18:43:30.948] [TRACE] Crawler - duration: 8.425 seconds, 541.523 seconds remaining.
+[2020-12-12T18:43:30.960] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:43:30.960] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:43:35.975] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx
+[2020-12-12T18:43:35.976] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:43:46.733] [TRACE] Crawler - parsing
+[2020-12-12T18:43:47.876] [TRACE] Crawler - parsed: 48 total: 145
+[2020-12-12T18:43:47.878] [TRACE] Crawler - duration: 11.901 seconds, 524.593 seconds remaining.
+[2020-12-12T18:43:47.878] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:43:47.879] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:00.879] [TRACE] Crawler - parsing
+[2020-12-12T18:44:01.832] [TRACE] Crawler - parsed: 96 total: 145
+[2020-12-12T18:44:01.834] [TRACE] Crawler - duration: 13.954 seconds, 510.637 seconds remaining.
+[2020-12-12T18:44:01.834] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:44:01.835] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:12.815] [TRACE] Crawler - parsing
+[2020-12-12T18:44:14.049] [TRACE] Crawler - parsed: 144 total: 145
+[2020-12-12T18:44:14.051] [TRACE] Crawler - duration: 12.215 seconds, 498.42 seconds remaining.
+[2020-12-12T18:44:14.051] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:44:14.053] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:22.324] [TRACE] Crawler - parsing
+[2020-12-12T18:44:22.820] [TRACE] Crawler - parsed: 145 total: 145
+[2020-12-12T18:44:22.822] [TRACE] Crawler - duration: 8.769 seconds, 489.649 seconds remaining.
+[2020-12-12T18:44:22.834] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:44:22.835] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:44:22.835] [INFO] Crawler - 145 items in the previous list, and 145 items in the latest list.
+[2020-12-12T18:44:22.851] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:44:22.852] [INFO] Crawler - Finish https://www.mountainsteals.com/search/arcteryx 
+
+[2020-12-12T18:44:22.854] [INFO] Crawler - Process https://www.mountainsteals.com/search/mammut by Mountain Steals crawler, deadline: 18:54
+[2020-12-12T18:44:22.854] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut
+[2020-12-12T18:44:22.855] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:34.059] [TRACE] Crawler - parsing
+[2020-12-12T18:44:35.262] [TRACE] Crawler - parsed: 48 total: 172
+[2020-12-12T18:44:35.264] [TRACE] Crawler - duration: 12.409 seconds, 587.59 seconds remaining.
+[2020-12-12T18:44:35.265] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:44:35.267] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:45.705] [TRACE] Crawler - parsing
+[2020-12-12T18:44:46.815] [TRACE] Crawler - parsed: 96 total: 172
+[2020-12-12T18:44:46.817] [TRACE] Crawler - duration: 11.55 seconds, 576.037 seconds remaining.
+[2020-12-12T18:44:46.817] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:44:46.819] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:44:59.468] [TRACE] Crawler - parsing
+[2020-12-12T18:45:00.461] [TRACE] Crawler - parsed: 144 total: 172
+[2020-12-12T18:45:00.463] [TRACE] Crawler - duration: 13.644 seconds, 562.391 seconds remaining.
+[2020-12-12T18:45:00.463] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:45:00.464] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:45:10.195] [TRACE] Crawler - parsing
+[2020-12-12T18:45:11.179] [TRACE] Crawler - parsed: 172 total: 172
+[2020-12-12T18:45:11.181] [TRACE] Crawler - duration: 10.716 seconds, 551.673 seconds remaining.
+[2020-12-12T18:45:11.197] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:45:11.197] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:45:16.212] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut
+[2020-12-12T18:45:16.214] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:45:28.783] [TRACE] Crawler - parsing
+[2020-12-12T18:45:29.891] [TRACE] Crawler - parsed: 48 total: 172
+[2020-12-12T18:45:29.893] [TRACE] Crawler - duration: 13.679 seconds, 532.961 seconds remaining.
+[2020-12-12T18:45:29.893] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:45:29.895] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:45:42.831] [TRACE] Crawler - parsing
+[2020-12-12T18:45:44.018] [TRACE] Crawler - parsed: 96 total: 172
+[2020-12-12T18:45:44.021] [TRACE] Crawler - duration: 14.125 seconds, 518.834 seconds remaining.
+[2020-12-12T18:45:44.021] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:45:44.023] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:45:56.700] [TRACE] Crawler - parsing
+[2020-12-12T18:45:57.862] [TRACE] Crawler - parsed: 144 total: 172
+[2020-12-12T18:45:57.864] [TRACE] Crawler - duration: 13.841 seconds, 504.99 seconds remaining.
+[2020-12-12T18:45:57.864] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:45:57.865] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:46:09.696] [TRACE] Crawler - parsing
+[2020-12-12T18:46:10.425] [TRACE] Crawler - parsed: 172 total: 172
+[2020-12-12T18:46:10.426] [TRACE] Crawler - duration: 12.56 seconds, 492.428 seconds remaining.
+[2020-12-12T18:46:10.440] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:46:10.440] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:46:10.441] [INFO] Crawler - 172 items in the previous list, and 172 items in the latest list.
+[2020-12-12T18:46:10.462] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:46:10.462] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mammut 
+
+[2020-12-12T18:46:10.464] [INFO] Crawler - Process https://www.mountainsteals.com/search/msr by Mountain Steals crawler, deadline: 18:56
+[2020-12-12T18:46:10.464] [DEBUG] Crawler - https://www.mountainsteals.com/search/msr
+[2020-12-12T18:46:10.465] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:46:19.503] [TRACE] Crawler - parsing
+[2020-12-12T18:46:20.397] [TRACE] Crawler - parsed: 32 total: 32
+[2020-12-12T18:46:20.400] [TRACE] Crawler - duration: 9.934 seconds, 590.064 seconds remaining.
+[2020-12-12T18:46:20.401] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:46:20.402] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:46:25.418] [DEBUG] Crawler - https://www.mountainsteals.com/search/msr
+[2020-12-12T18:46:25.419] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:46:36.875] [TRACE] Crawler - parsing
+[2020-12-12T18:46:37.615] [TRACE] Crawler - parsed: 32 total: 32
+[2020-12-12T18:46:37.617] [TRACE] Crawler - duration: 12.198 seconds, 572.847 seconds remaining.
+[2020-12-12T18:46:37.619] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:46:37.619] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:46:37.619] [INFO] Crawler - 32 items in the previous list, and 32 items in the latest list.
+[2020-12-12T18:46:37.621] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:46:37.622] [INFO] Crawler - Finish https://www.mountainsteals.com/search/msr 
+
+[2020-12-12T18:46:37.624] [INFO] Crawler - Process https://www.mountainsteals.com/search/marmot by Mountain Steals crawler, deadline: 18:56
+[2020-12-12T18:46:37.625] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot
+[2020-12-12T18:46:37.625] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:46:55.892] [TRACE] Crawler - parsing
+[2020-12-12T18:46:57.063] [TRACE] Crawler - parsed: 48 total: 402
+[2020-12-12T18:46:57.066] [TRACE] Crawler - duration: 19.439 seconds, 580.56 seconds remaining.
+[2020-12-12T18:46:57.066] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:46:57.067] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:47:07.419] [TRACE] Crawler - parsing
+[2020-12-12T18:47:08.379] [TRACE] Crawler - parsed: 96 total: 402
+[2020-12-12T18:47:08.380] [TRACE] Crawler - duration: 11.313 seconds, 569.244 seconds remaining.
+[2020-12-12T18:47:08.381] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:47:08.382] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:47:19.193] [TRACE] Crawler - parsing
+[2020-12-12T18:47:20.452] [TRACE] Crawler - parsed: 144 total: 402
+[2020-12-12T18:47:20.454] [TRACE] Crawler - duration: 12.072 seconds, 557.171 seconds remaining.
+[2020-12-12T18:47:20.455] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:47:20.457] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:47:33.392] [TRACE] Crawler - parsing
+[2020-12-12T18:47:34.564] [TRACE] Crawler - parsed: 192 total: 402
+[2020-12-12T18:47:34.566] [TRACE] Crawler - duration: 14.109 seconds, 543.059 seconds remaining.
+[2020-12-12T18:47:34.566] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=192
+[2020-12-12T18:47:34.567] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:47:45.380] [TRACE] Crawler - parsing
+[2020-12-12T18:47:46.425] [TRACE] Crawler - parsed: 240 total: 402
+[2020-12-12T18:47:46.427] [TRACE] Crawler - duration: 11.859 seconds, 531.198 seconds remaining.
+[2020-12-12T18:47:46.428] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=240
+[2020-12-12T18:47:46.429] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:47:59.652] [TRACE] Crawler - parsing
+[2020-12-12T18:48:00.800] [TRACE] Crawler - parsed: 288 total: 402
+[2020-12-12T18:48:00.801] [TRACE] Crawler - duration: 14.372 seconds, 516.824 seconds remaining.
+[2020-12-12T18:48:00.802] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=288
+[2020-12-12T18:48:00.802] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:48:14.540] [TRACE] Crawler - parsing
+[2020-12-12T18:48:15.803] [TRACE] Crawler - parsed: 336 total: 402
+[2020-12-12T18:48:15.805] [TRACE] Crawler - duration: 15.002 seconds, 501.82 seconds remaining.
+[2020-12-12T18:48:15.806] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=336
+[2020-12-12T18:48:15.807] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:48:27.121] [TRACE] Crawler - parsing
+[2020-12-12T18:48:28.301] [TRACE] Crawler - parsed: 384 total: 402
+[2020-12-12T18:48:28.304] [TRACE] Crawler - duration: 12.497 seconds, 489.32 seconds remaining.
+[2020-12-12T18:48:28.306] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=384
+[2020-12-12T18:48:28.307] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:48:39.740] [TRACE] Crawler - parsing
+[2020-12-12T18:48:40.526] [TRACE] Crawler - parsed: 402 total: 402
+[2020-12-12T18:48:40.528] [TRACE] Crawler - duration: 12.221 seconds, 477.097 seconds remaining.
+[2020-12-12T18:48:40.566] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:48:40.566] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:48:45.581] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot
+[2020-12-12T18:48:45.582] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:48:58.118] [TRACE] Crawler - parsing
+[2020-12-12T18:48:59.159] [TRACE] Crawler - parsed: 48 total: 402
+[2020-12-12T18:48:59.160] [TRACE] Crawler - duration: 13.578 seconds, 458.464 seconds remaining.
+[2020-12-12T18:48:59.161] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:48:59.162] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:49:12.370] [TRACE] Crawler - parsing
+[2020-12-12T18:49:13.595] [TRACE] Crawler - parsed: 96 total: 402
+[2020-12-12T18:49:13.597] [TRACE] Crawler - duration: 14.434 seconds, 444.028 seconds remaining.
+[2020-12-12T18:49:13.598] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:49:13.599] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:49:26.584] [TRACE] Crawler - parsing
+[2020-12-12T18:49:27.816] [TRACE] Crawler - parsed: 144 total: 402
+[2020-12-12T18:49:27.818] [TRACE] Crawler - duration: 14.218 seconds, 429.807 seconds remaining.
+[2020-12-12T18:49:27.819] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:49:27.820] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:49:40.997] [TRACE] Crawler - parsing
+[2020-12-12T18:49:41.992] [TRACE] Crawler - parsed: 192 total: 402
+[2020-12-12T18:49:41.994] [TRACE] Crawler - duration: 14.174 seconds, 415.631 seconds remaining.
+[2020-12-12T18:49:41.994] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=192
+[2020-12-12T18:49:41.995] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:49:52.782] [TRACE] Crawler - parsing
+[2020-12-12T18:49:54.008] [TRACE] Crawler - parsed: 240 total: 402
+[2020-12-12T18:49:54.010] [TRACE] Crawler - duration: 12.014 seconds, 403.615 seconds remaining.
+[2020-12-12T18:49:54.010] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=240
+[2020-12-12T18:49:54.012] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:50:04.957] [TRACE] Crawler - parsing
+[2020-12-12T18:50:06.248] [TRACE] Crawler - parsed: 288 total: 402
+[2020-12-12T18:50:06.250] [TRACE] Crawler - duration: 12.238 seconds, 391.375 seconds remaining.
+[2020-12-12T18:50:06.251] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=288
+[2020-12-12T18:50:06.252] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:50:19.642] [TRACE] Crawler - parsing
+[2020-12-12T18:50:20.608] [TRACE] Crawler - parsed: 336 total: 402
+[2020-12-12T18:50:20.609] [TRACE] Crawler - duration: 14.358 seconds, 377.015 seconds remaining.
+[2020-12-12T18:50:20.610] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=336
+[2020-12-12T18:50:20.611] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:50:31.384] [TRACE] Crawler - parsing
+[2020-12-12T18:50:32.629] [TRACE] Crawler - parsed: 384 total: 402
+[2020-12-12T18:50:32.632] [TRACE] Crawler - duration: 12.02 seconds, 364.994 seconds remaining.
+[2020-12-12T18:50:32.632] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&beginIndex=384
+[2020-12-12T18:50:32.634] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:50:42.168] [TRACE] Crawler - parsing
+[2020-12-12T18:50:43.099] [TRACE] Crawler - parsed: 402 total: 402
+[2020-12-12T18:50:43.101] [TRACE] Crawler - duration: 10.467 seconds, 354.524 seconds remaining.
+[2020-12-12T18:50:43.143] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:50:43.145] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:50:43.145] [INFO] Crawler - 402 items in the previous list, and 402 items in the latest list.
+[2020-12-12T18:50:43.215] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:50:43.216] [INFO] Crawler - Finish https://www.mountainsteals.com/search/marmot 
+
+[2020-12-12T18:50:43.218] [INFO] Crawler - Process https://www.mountainsteals.com/search/mountain-hardwear by Mountain Steals crawler, deadline: 19:00
+[2020-12-12T18:50:43.219] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear
+[2020-12-12T18:50:43.220] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:50:55.413] [TRACE] Crawler - parsing
+[2020-12-12T18:50:56.408] [TRACE] Crawler - parsed: 48 total: 320
+[2020-12-12T18:50:56.409] [TRACE] Crawler - duration: 13.19 seconds, 586.809 seconds remaining.
+[2020-12-12T18:50:56.410] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:50:56.411] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:51:07.438] [TRACE] Crawler - parsing
+[2020-12-12T18:51:08.659] [TRACE] Crawler - parsed: 96 total: 320
+[2020-12-12T18:51:08.661] [TRACE] Crawler - duration: 12.248 seconds, 574.559 seconds remaining.
+[2020-12-12T18:51:08.661] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:51:08.663] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:51:21.704] [TRACE] Crawler - parsing
+[2020-12-12T18:51:22.867] [TRACE] Crawler - parsed: 144 total: 320
+[2020-12-12T18:51:22.869] [TRACE] Crawler - duration: 14.206 seconds, 560.35 seconds remaining.
+[2020-12-12T18:51:22.869] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:51:22.870] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:51:35.965] [TRACE] Crawler - parsing
+[2020-12-12T18:51:37.244] [TRACE] Crawler - parsed: 192 total: 320
+[2020-12-12T18:51:37.246] [TRACE] Crawler - duration: 14.375 seconds, 545.973 seconds remaining.
+[2020-12-12T18:51:37.247] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=192
+[2020-12-12T18:51:37.248] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:51:47.967] [TRACE] Crawler - parsing
+[2020-12-12T18:51:49.081] [TRACE] Crawler - parsed: 240 total: 320
+[2020-12-12T18:51:49.082] [TRACE] Crawler - duration: 11.833 seconds, 534.137 seconds remaining.
+[2020-12-12T18:51:49.083] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=240
+[2020-12-12T18:51:49.084] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:51:59.856] [TRACE] Crawler - parsing
+[2020-12-12T18:52:01.128] [TRACE] Crawler - parsed: 288 total: 320
+[2020-12-12T18:52:01.161] [TRACE] Crawler - duration: 12.077 seconds, 522.058 seconds remaining.
+[2020-12-12T18:52:01.161] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=288
+[2020-12-12T18:52:01.163] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:52:10.918] [TRACE] Crawler - parsing
+[2020-12-12T18:52:11.882] [TRACE] Crawler - parsed: 320 total: 320
+[2020-12-12T18:52:11.883] [TRACE] Crawler - duration: 10.72 seconds, 511.335 seconds remaining.
+[2020-12-12T18:52:11.914] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:52:11.914] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:52:16.928] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear
+[2020-12-12T18:52:16.931] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:52:27.539] [TRACE] Crawler - parsing
+[2020-12-12T18:52:28.780] [TRACE] Crawler - parsed: 48 total: 320
+[2020-12-12T18:52:28.782] [TRACE] Crawler - duration: 11.852 seconds, 494.437 seconds remaining.
+[2020-12-12T18:52:28.783] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:52:28.784] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:52:41.794] [TRACE] Crawler - parsing
+[2020-12-12T18:52:42.894] [TRACE] Crawler - parsed: 96 total: 320
+[2020-12-12T18:52:42.896] [TRACE] Crawler - duration: 14.112 seconds, 480.323 seconds remaining.
+[2020-12-12T18:52:42.897] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:52:42.897] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:52:56.163] [TRACE] Crawler - parsing
+[2020-12-12T18:52:57.459] [TRACE] Crawler - parsed: 144 total: 320
+[2020-12-12T18:52:57.461] [TRACE] Crawler - duration: 14.563 seconds, 465.758 seconds remaining.
+[2020-12-12T18:52:57.462] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=144
+[2020-12-12T18:52:57.463] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:53:08.165] [TRACE] Crawler - parsing
+[2020-12-12T18:53:09.382] [TRACE] Crawler - parsed: 192 total: 320
+[2020-12-12T18:53:09.384] [TRACE] Crawler - duration: 11.92 seconds, 453.835 seconds remaining.
+[2020-12-12T18:53:09.384] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=192
+[2020-12-12T18:53:09.385] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:53:20.279] [TRACE] Crawler - parsing
+[2020-12-12T18:53:21.304] [TRACE] Crawler - parsed: 240 total: 320
+[2020-12-12T18:53:21.305] [TRACE] Crawler - duration: 11.92 seconds, 441.913 seconds remaining.
+[2020-12-12T18:53:21.306] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=240
+[2020-12-12T18:53:21.307] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:53:32.170] [TRACE] Crawler - parsing
+[2020-12-12T18:53:33.398] [TRACE] Crawler - parsed: 288 total: 320
+[2020-12-12T18:53:33.400] [TRACE] Crawler - duration: 12.093 seconds, 429.819 seconds remaining.
+[2020-12-12T18:53:33.401] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&beginIndex=288
+[2020-12-12T18:53:33.402] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:53:45.751] [TRACE] Crawler - parsing
+[2020-12-12T18:53:46.899] [TRACE] Crawler - parsed: 320 total: 320
+[2020-12-12T18:53:46.901] [TRACE] Crawler - duration: 13.497 seconds, 416.319 seconds remaining.
+[2020-12-12T18:53:46.937] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:53:46.938] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:53:46.938] [INFO] Crawler - 320 items in the previous list, and 320 items in the latest list.
+[2020-12-12T18:53:46.985] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:53:46.986] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mountain-hardwear 
+
+[2020-12-12T18:53:46.988] [INFO] Crawler - Process https://www.mountainsteals.com/search/black-diamond by Mountain Steals crawler, deadline: 19:03
+[2020-12-12T18:53:46.988] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond
+[2020-12-12T18:53:46.989] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:53:59.965] [TRACE] Crawler - parsing
+[2020-12-12T18:54:00.944] [TRACE] Crawler - parsed: 48 total: 125
+[2020-12-12T18:54:00.945] [TRACE] Crawler - duration: 13.957 seconds, 586.042 seconds remaining.
+[2020-12-12T18:54:00.946] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:54:00.947] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:54:13.590] [TRACE] Crawler - parsing
+[2020-12-12T18:54:14.772] [TRACE] Crawler - parsed: 96 total: 125
+[2020-12-12T18:54:14.774] [TRACE] Crawler - duration: 13.827 seconds, 572.214 seconds remaining.
+[2020-12-12T18:54:14.775] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:54:14.776] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:54:26.724] [TRACE] Crawler - parsing
+[2020-12-12T18:54:27.730] [TRACE] Crawler - parsed: 125 total: 125
+[2020-12-12T18:54:27.733] [TRACE] Crawler - duration: 12.955 seconds, 559.256 seconds remaining.
+[2020-12-12T18:54:27.741] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:54:27.742] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:54:32.784] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond
+[2020-12-12T18:54:32.785] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:54:43.198] [TRACE] Crawler - parsing
+[2020-12-12T18:54:44.268] [TRACE] Crawler - parsed: 48 total: 125
+[2020-12-12T18:54:44.269] [TRACE] Crawler - duration: 11.485 seconds, 542.718 seconds remaining.
+[2020-12-12T18:54:44.270] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&beginIndex=48
+[2020-12-12T18:54:44.271] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:54:55.360] [TRACE] Crawler - parsing
+[2020-12-12T18:54:56.595] [TRACE] Crawler - parsed: 96 total: 125
+[2020-12-12T18:54:56.598] [TRACE] Crawler - duration: 12.325 seconds, 530.391 seconds remaining.
+[2020-12-12T18:54:56.598] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&beginIndex=96
+[2020-12-12T18:54:56.600] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:55:06.263] [TRACE] Crawler - parsing
+[2020-12-12T18:55:07.054] [TRACE] Crawler - parsed: 125 total: 125
+[2020-12-12T18:55:07.056] [TRACE] Crawler - duration: 10.456 seconds, 519.932 seconds remaining.
+[2020-12-12T18:55:07.066] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:55:07.067] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:55:07.067] [INFO] Crawler - 125 items in the previous list, and 125 items in the latest list.
+[2020-12-12T18:55:07.079] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:55:07.079] [INFO] Crawler - Finish https://www.mountainsteals.com/search/black-diamond 
+
+[2020-12-12T18:55:07.081] [INFO] Crawler - Process https://www.mountainsteals.com/search/mystery-ranch by Mountain Steals crawler, deadline: 19:05
+[2020-12-12T18:55:07.082] [DEBUG] Crawler - https://www.mountainsteals.com/search/mystery-ranch
+[2020-12-12T18:55:07.083] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:55:16.301] [TRACE] Crawler - parsing
+[2020-12-12T18:55:17.136] [TRACE] Crawler - parsed: 23 total: 23
+[2020-12-12T18:55:17.139] [TRACE] Crawler - duration: 10.055 seconds, 589.944 seconds remaining.
+[2020-12-12T18:55:17.140] [DEBUG] Crawler - consistency check: init
+[2020-12-12T18:55:17.140] [TRACE] Crawler - wait 5 seconds
+[2020-12-12T18:55:22.141] [DEBUG] Crawler - https://www.mountainsteals.com/search/mystery-ranch
+[2020-12-12T18:55:22.143] [TRACE] Crawler - fetching(puppeteer)
+[2020-12-12T18:55:33.390] [TRACE] Crawler - parsing
+[2020-12-12T18:55:34.132] [TRACE] Crawler - parsed: 23 total: 23
+[2020-12-12T18:55:34.133] [TRACE] Crawler - duration: 11.99 seconds, 572.949 seconds remaining.
+[2020-12-12T18:55:34.134] [DEBUG] Crawler - consistency check: (1/1), pass
+[2020-12-12T18:55:34.135] [DEBUG] Crawler - consistency check: all pass
+[2020-12-12T18:55:34.135] [INFO] Crawler - 23 items in the previous list, and 23 items in the latest list.
+[2020-12-12T18:55:34.136] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2020-12-12T18:55:34.137] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mystery-ranch 
+
