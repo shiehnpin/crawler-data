@@ -1,2 +1,390 @@
 [2020-12-15T10:12:41.143] [DEBUG] CI - Unknown request /
 [2020-12-15T10:12:41.508] [DEBUG] CI - Unknown request /HNAP1/
+[2020-12-15T16:47:10.386] [INFO] CI - Received a Push for { ref: 'refs/heads/master',
+  before: '01ce4576ade712e8f9b36a2f6b4ff1c77c0a8881',
+  after: 'fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+  repository:
+   { id: 295661238,
+     node_id: 'MDEwOlJlcG9zaXRvcnkyOTU2NjEyMzg=',
+     name: 'crawler',
+     full_name: 'shiehnpin/crawler',
+     private: true,
+     owner:
+      { name: 'shiehnpin',
+        email: 'shieh.npin@gmail.com',
+        login: 'shiehnpin',
+        id: 6296986,
+        node_id: 'MDQ6VXNlcjYyOTY5ODY=',
+        avatar_url: 'https://avatars3.githubusercontent.com/u/6296986?v=4',
+        gravatar_id: '',
+        url: 'https://api.github.com/users/shiehnpin',
+        html_url: 'https://github.com/shiehnpin',
+        followers_url: 'https://api.github.com/users/shiehnpin/followers',
+        following_url:
+         'https://api.github.com/users/shiehnpin/following{/other_user}',
+        gists_url: 'https://api.github.com/users/shiehnpin/gists{/gist_id}',
+        starred_url:
+         'https://api.github.com/users/shiehnpin/starred{/owner}{/repo}',
+        subscriptions_url: 'https://api.github.com/users/shiehnpin/subscriptions',
+        organizations_url: 'https://api.github.com/users/shiehnpin/orgs',
+        repos_url: 'https://api.github.com/users/shiehnpin/repos',
+        events_url: 'https://api.github.com/users/shiehnpin/events{/privacy}',
+        received_events_url: 'https://api.github.com/users/shiehnpin/received_events',
+        type: 'User',
+        site_admin: false },
+     html_url: 'https://github.com/shiehnpin/crawler',
+     description: null,
+     fork: false,
+     url: 'https://github.com/shiehnpin/crawler',
+     forks_url: 'https://api.github.com/repos/shiehnpin/crawler/forks',
+     keys_url:
+      'https://api.github.com/repos/shiehnpin/crawler/keys{/key_id}',
+     collaborators_url:
+      'https://api.github.com/repos/shiehnpin/crawler/collaborators{/collaborator}',
+     teams_url: 'https://api.github.com/repos/shiehnpin/crawler/teams',
+     hooks_url: 'https://api.github.com/repos/shiehnpin/crawler/hooks',
+     issue_events_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues/events{/number}',
+     events_url: 'https://api.github.com/repos/shiehnpin/crawler/events',
+     assignees_url:
+      'https://api.github.com/repos/shiehnpin/crawler/assignees{/user}',
+     branches_url:
+      'https://api.github.com/repos/shiehnpin/crawler/branches{/branch}',
+     tags_url: 'https://api.github.com/repos/shiehnpin/crawler/tags',
+     blobs_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/blobs{/sha}',
+     git_tags_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/tags{/sha}',
+     git_refs_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/refs{/sha}',
+     trees_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/trees{/sha}',
+     statuses_url:
+      'https://api.github.com/repos/shiehnpin/crawler/statuses/{sha}',
+     languages_url: 'https://api.github.com/repos/shiehnpin/crawler/languages',
+     stargazers_url: 'https://api.github.com/repos/shiehnpin/crawler/stargazers',
+     contributors_url:
+      'https://api.github.com/repos/shiehnpin/crawler/contributors',
+     subscribers_url: 'https://api.github.com/repos/shiehnpin/crawler/subscribers',
+     subscription_url:
+      'https://api.github.com/repos/shiehnpin/crawler/subscription',
+     commits_url:
+      'https://api.github.com/repos/shiehnpin/crawler/commits{/sha}',
+     git_commits_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/commits{/sha}',
+     comments_url:
+      'https://api.github.com/repos/shiehnpin/crawler/comments{/number}',
+     issue_comment_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues/comments{/number}',
+     contents_url:
+      'https://api.github.com/repos/shiehnpin/crawler/contents/{+path}',
+     compare_url:
+      'https://api.github.com/repos/shiehnpin/crawler/compare/{base}...{head}',
+     merges_url: 'https://api.github.com/repos/shiehnpin/crawler/merges',
+     archive_url:
+      'https://api.github.com/repos/shiehnpin/crawler/{archive_format}{/ref}',
+     downloads_url: 'https://api.github.com/repos/shiehnpin/crawler/downloads',
+     issues_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues{/number}',
+     pulls_url:
+      'https://api.github.com/repos/shiehnpin/crawler/pulls{/number}',
+     milestones_url:
+      'https://api.github.com/repos/shiehnpin/crawler/milestones{/number}',
+     notifications_url:
+      'https://api.github.com/repos/shiehnpin/crawler/notifications{?since,all,participating}',
+     labels_url:
+      'https://api.github.com/repos/shiehnpin/crawler/labels{/name}',
+     releases_url:
+      'https://api.github.com/repos/shiehnpin/crawler/releases{/id}',
+     deployments_url: 'https://api.github.com/repos/shiehnpin/crawler/deployments',
+     created_at: 1600157957,
+     updated_at: '2020-12-14T08:10:06Z',
+     pushed_at: 1608022028,
+     git_url: 'git://github.com/shiehnpin/crawler.git',
+     ssh_url: 'git@github.com:shiehnpin/crawler.git',
+     clone_url: 'https://github.com/shiehnpin/crawler.git',
+     svn_url: 'https://github.com/shiehnpin/crawler',
+     homepage: null,
+     size: 366,
+     stargazers_count: 0,
+     watchers_count: 0,
+     language: 'JavaScript',
+     has_issues: true,
+     has_projects: true,
+     has_downloads: true,
+     has_wiki: true,
+     has_pages: false,
+     forks_count: 1,
+     mirror_url: null,
+     archived: false,
+     disabled: false,
+     open_issues_count: 0,
+     license: null,
+     forks: 1,
+     open_issues: 0,
+     watchers: 0,
+     default_branch: 'master',
+     stargazers: 0,
+     master_branch: 'master' },
+  pusher: { name: 'shiehnpin', email: 'shieh.npin@gmail.com' },
+  sender:
+   { login: 'shiehnpin',
+     id: 6296986,
+     node_id: 'MDQ6VXNlcjYyOTY5ODY=',
+     avatar_url: 'https://avatars3.githubusercontent.com/u/6296986?v=4',
+     gravatar_id: '',
+     url: 'https://api.github.com/users/shiehnpin',
+     html_url: 'https://github.com/shiehnpin',
+     followers_url: 'https://api.github.com/users/shiehnpin/followers',
+     following_url:
+      'https://api.github.com/users/shiehnpin/following{/other_user}',
+     gists_url: 'https://api.github.com/users/shiehnpin/gists{/gist_id}',
+     starred_url:
+      'https://api.github.com/users/shiehnpin/starred{/owner}{/repo}',
+     subscriptions_url: 'https://api.github.com/users/shiehnpin/subscriptions',
+     organizations_url: 'https://api.github.com/users/shiehnpin/orgs',
+     repos_url: 'https://api.github.com/users/shiehnpin/repos',
+     events_url: 'https://api.github.com/users/shiehnpin/events{/privacy}',
+     received_events_url: 'https://api.github.com/users/shiehnpin/received_events',
+     type: 'User',
+     site_admin: false },
+  created: false,
+  deleted: false,
+  forced: false,
+  base_ref: null,
+  compare:
+   'https://github.com/shiehnpin/crawler/compare/01ce4576ade7...fe20a0dbfbca',
+  commits:
+   [ { id: '84cf02345cc2edeed2d747f506e0a9e285990022',
+       tree_id: 'b230da1627c60a2a624bc3044964ce8f22682918',
+       distinct: true,
+       message: 'bug fix.',
+       timestamp: '2020-12-15T16:31:12+08:00',
+       url:
+        'https://github.com/shiehnpin/crawler/commit/84cf02345cc2edeed2d747f506e0a9e285990022',
+       author: [Object],
+       committer: [Object],
+       added: [],
+       removed: [],
+       modified: [Array] },
+     { id: 'fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+       tree_id: '127e61d06bd83726f1a5a0efa5492a4f834b7821',
+       distinct: true,
+       message: 'add log for CI testing',
+       timestamp: '2020-12-15T16:46:52+08:00',
+       url:
+        'https://github.com/shiehnpin/crawler/commit/fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+       author: [Object],
+       committer: [Object],
+       added: [],
+       removed: [],
+       modified: [Array] } ],
+  head_commit:
+   { id: 'fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+     tree_id: '127e61d06bd83726f1a5a0efa5492a4f834b7821',
+     distinct: true,
+     message: 'add log for CI testing',
+     timestamp: '2020-12-15T16:46:52+08:00',
+     url:
+      'https://github.com/shiehnpin/crawler/commit/fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+     author:
+      { name: 'Hsieh Enping',
+        email: 'shieh.npin@gmail.com',
+        username: 'shiehnpin' },
+     committer:
+      { name: 'Hsieh Enping',
+        email: 'shieh.npin@gmail.com',
+        username: 'shiehnpin' },
+     added: [],
+     removed: [],
+     modified: [ 'ci.js' ] } }
+[2020-12-15T16:47:10.400] [INFO] CI - upgrade
+[2020-12-15T16:47:37.180] [INFO] CI - listen
+[2020-12-15T16:49:51.646] [INFO] CI - Received a Push for { ref: 'refs/heads/master',
+  before: 'fe20a0dbfbcab869a4d8b94d3ce9dddf72d6a0c1',
+  after: '69b2b52d171292bc67492663e7c24c09f13c6b21',
+  repository:
+   { id: 295661238,
+     node_id: 'MDEwOlJlcG9zaXRvcnkyOTU2NjEyMzg=',
+     name: 'crawler',
+     full_name: 'shiehnpin/crawler',
+     private: true,
+     owner:
+      { name: 'shiehnpin',
+        email: 'shieh.npin@gmail.com',
+        login: 'shiehnpin',
+        id: 6296986,
+        node_id: 'MDQ6VXNlcjYyOTY5ODY=',
+        avatar_url: 'https://avatars3.githubusercontent.com/u/6296986?v=4',
+        gravatar_id: '',
+        url: 'https://api.github.com/users/shiehnpin',
+        html_url: 'https://github.com/shiehnpin',
+        followers_url: 'https://api.github.com/users/shiehnpin/followers',
+        following_url:
+         'https://api.github.com/users/shiehnpin/following{/other_user}',
+        gists_url: 'https://api.github.com/users/shiehnpin/gists{/gist_id}',
+        starred_url:
+         'https://api.github.com/users/shiehnpin/starred{/owner}{/repo}',
+        subscriptions_url: 'https://api.github.com/users/shiehnpin/subscriptions',
+        organizations_url: 'https://api.github.com/users/shiehnpin/orgs',
+        repos_url: 'https://api.github.com/users/shiehnpin/repos',
+        events_url: 'https://api.github.com/users/shiehnpin/events{/privacy}',
+        received_events_url: 'https://api.github.com/users/shiehnpin/received_events',
+        type: 'User',
+        site_admin: false },
+     html_url: 'https://github.com/shiehnpin/crawler',
+     description: null,
+     fork: false,
+     url: 'https://github.com/shiehnpin/crawler',
+     forks_url: 'https://api.github.com/repos/shiehnpin/crawler/forks',
+     keys_url:
+      'https://api.github.com/repos/shiehnpin/crawler/keys{/key_id}',
+     collaborators_url:
+      'https://api.github.com/repos/shiehnpin/crawler/collaborators{/collaborator}',
+     teams_url: 'https://api.github.com/repos/shiehnpin/crawler/teams',
+     hooks_url: 'https://api.github.com/repos/shiehnpin/crawler/hooks',
+     issue_events_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues/events{/number}',
+     events_url: 'https://api.github.com/repos/shiehnpin/crawler/events',
+     assignees_url:
+      'https://api.github.com/repos/shiehnpin/crawler/assignees{/user}',
+     branches_url:
+      'https://api.github.com/repos/shiehnpin/crawler/branches{/branch}',
+     tags_url: 'https://api.github.com/repos/shiehnpin/crawler/tags',
+     blobs_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/blobs{/sha}',
+     git_tags_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/tags{/sha}',
+     git_refs_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/refs{/sha}',
+     trees_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/trees{/sha}',
+     statuses_url:
+      'https://api.github.com/repos/shiehnpin/crawler/statuses/{sha}',
+     languages_url: 'https://api.github.com/repos/shiehnpin/crawler/languages',
+     stargazers_url: 'https://api.github.com/repos/shiehnpin/crawler/stargazers',
+     contributors_url:
+      'https://api.github.com/repos/shiehnpin/crawler/contributors',
+     subscribers_url: 'https://api.github.com/repos/shiehnpin/crawler/subscribers',
+     subscription_url:
+      'https://api.github.com/repos/shiehnpin/crawler/subscription',
+     commits_url:
+      'https://api.github.com/repos/shiehnpin/crawler/commits{/sha}',
+     git_commits_url:
+      'https://api.github.com/repos/shiehnpin/crawler/git/commits{/sha}',
+     comments_url:
+      'https://api.github.com/repos/shiehnpin/crawler/comments{/number}',
+     issue_comment_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues/comments{/number}',
+     contents_url:
+      'https://api.github.com/repos/shiehnpin/crawler/contents/{+path}',
+     compare_url:
+      'https://api.github.com/repos/shiehnpin/crawler/compare/{base}...{head}',
+     merges_url: 'https://api.github.com/repos/shiehnpin/crawler/merges',
+     archive_url:
+      'https://api.github.com/repos/shiehnpin/crawler/{archive_format}{/ref}',
+     downloads_url: 'https://api.github.com/repos/shiehnpin/crawler/downloads',
+     issues_url:
+      'https://api.github.com/repos/shiehnpin/crawler/issues{/number}',
+     pulls_url:
+      'https://api.github.com/repos/shiehnpin/crawler/pulls{/number}',
+     milestones_url:
+      'https://api.github.com/repos/shiehnpin/crawler/milestones{/number}',
+     notifications_url:
+      'https://api.github.com/repos/shiehnpin/crawler/notifications{?since,all,participating}',
+     labels_url:
+      'https://api.github.com/repos/shiehnpin/crawler/labels{/name}',
+     releases_url:
+      'https://api.github.com/repos/shiehnpin/crawler/releases{/id}',
+     deployments_url: 'https://api.github.com/repos/shiehnpin/crawler/deployments',
+     created_at: 1600157957,
+     updated_at: '2020-12-15T08:47:11Z',
+     pushed_at: 1608022190,
+     git_url: 'git://github.com/shiehnpin/crawler.git',
+     ssh_url: 'git@github.com:shiehnpin/crawler.git',
+     clone_url: 'https://github.com/shiehnpin/crawler.git',
+     svn_url: 'https://github.com/shiehnpin/crawler',
+     homepage: null,
+     size: 366,
+     stargazers_count: 0,
+     watchers_count: 0,
+     language: 'JavaScript',
+     has_issues: true,
+     has_projects: true,
+     has_downloads: true,
+     has_wiki: true,
+     has_pages: false,
+     forks_count: 1,
+     mirror_url: null,
+     archived: false,
+     disabled: false,
+     open_issues_count: 0,
+     license: null,
+     forks: 1,
+     open_issues: 0,
+     watchers: 0,
+     default_branch: 'master',
+     stargazers: 0,
+     master_branch: 'master' },
+  pusher: { name: 'shiehnpin', email: 'shieh.npin@gmail.com' },
+  sender:
+   { login: 'shiehnpin',
+     id: 6296986,
+     node_id: 'MDQ6VXNlcjYyOTY5ODY=',
+     avatar_url: 'https://avatars3.githubusercontent.com/u/6296986?v=4',
+     gravatar_id: '',
+     url: 'https://api.github.com/users/shiehnpin',
+     html_url: 'https://github.com/shiehnpin',
+     followers_url: 'https://api.github.com/users/shiehnpin/followers',
+     following_url:
+      'https://api.github.com/users/shiehnpin/following{/other_user}',
+     gists_url: 'https://api.github.com/users/shiehnpin/gists{/gist_id}',
+     starred_url:
+      'https://api.github.com/users/shiehnpin/starred{/owner}{/repo}',
+     subscriptions_url: 'https://api.github.com/users/shiehnpin/subscriptions',
+     organizations_url: 'https://api.github.com/users/shiehnpin/orgs',
+     repos_url: 'https://api.github.com/users/shiehnpin/repos',
+     events_url: 'https://api.github.com/users/shiehnpin/events{/privacy}',
+     received_events_url: 'https://api.github.com/users/shiehnpin/received_events',
+     type: 'User',
+     site_admin: false },
+  created: false,
+  deleted: false,
+  forced: false,
+  base_ref: null,
+  compare:
+   'https://github.com/shiehnpin/crawler/compare/fe20a0dbfbca...69b2b52d1712',
+  commits:
+   [ { id: '69b2b52d171292bc67492663e7c24c09f13c6b21',
+       tree_id: '9bc03ba0c2b7071a510a2c8799049575ef6a1159',
+       distinct: true,
+       message: 'testing log.',
+       timestamp: '2020-12-15T16:49:31+08:00',
+       url:
+        'https://github.com/shiehnpin/crawler/commit/69b2b52d171292bc67492663e7c24c09f13c6b21',
+       author: [Object],
+       committer: [Object],
+       added: [],
+       removed: [],
+       modified: [Array] } ],
+  head_commit:
+   { id: '69b2b52d171292bc67492663e7c24c09f13c6b21',
+     tree_id: '9bc03ba0c2b7071a510a2c8799049575ef6a1159',
+     distinct: true,
+     message: 'testing log.',
+     timestamp: '2020-12-15T16:49:31+08:00',
+     url:
+      'https://github.com/shiehnpin/crawler/commit/69b2b52d171292bc67492663e7c24c09f13c6b21',
+     author:
+      { name: 'Hsieh Enping',
+        email: 'shieh.npin@gmail.com',
+        username: 'shiehnpin' },
+     committer:
+      { name: 'Hsieh Enping',
+        email: 'shieh.npin@gmail.com',
+        username: 'shiehnpin' },
+     added: [],
+     removed: [],
+     modified: [ 'ci.js' ] } }
+[2020-12-15T16:49:51.659] [INFO] CI - upgrade
+[2020-12-15T16:50:19.216] [INFO] CI - listen
