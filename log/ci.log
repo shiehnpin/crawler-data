@@ -58,3 +58,21 @@
 [2020-12-22T13:50:58.552] [INFO] CI - ignore
 [2020-12-22T14:21:26.733] [INFO] CI - Received a Push from crawler-data(shiehnpin/crawler-data) - commit log: [IGNORE] auto commit
 [2020-12-22T14:21:26.734] [INFO] CI - ignore
+[2020-12-22T14:51:35.779] [INFO] CI - Received a Push from crawler-data(shiehnpin/crawler-data) - commit log: [IGNORE] auto commit
+[2020-12-22T14:51:35.781] [INFO] CI - ignore
+[2020-12-22T15:20:19.872] [INFO] CI - Received a Push from crawler(shiehnpin/crawler) - commit log: add more retry time for mountainsteals.
+[2020-12-22T15:20:19.876] [INFO] CI - upgrade
+[2020-12-22T15:20:46.704] [INFO] CI - listen
+[2020-12-22T15:23:17.298] [INFO] CI - Received a Push from crawler(shiehnpin/crawler) - commit log: add more retry time for mountainsteals.
+[2020-12-22T15:23:17.301] [INFO] CI - upgrade
+[2020-12-22T15:23:42.926] [INFO] CI - listen
+[2020-12-22T15:23:43.363] [ERROR] CI - TypeError: Cannot read property 'message' of null
+    at Function.<anonymous> (/home/ubuntu/crawler/ci.js:63:47)
+    at Function.emit (events.js:198:13)
+    at BufferListStream.req.pipe.bl [as _callback] (/home/ubuntu/crawler/node_modules/github-webhook-handler/github-webhook-handler.js:142:15)
+    at BufferListStream.end (/home/ubuntu/crawler/node_modules/bl/bl.js:65:10)
+    at IncomingMessage.onend (_stream_readable.js:672:10)
+    at Object.onceWrapper (events.js:286:20)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1145:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
