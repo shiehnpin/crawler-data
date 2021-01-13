@@ -2636,3 +2636,2229 @@
 [2021-01-14T00:52:51.652] [TRACE] Crawler - parsing
 [2021-01-14T00:52:52.892] [TRACE] Crawler - parsed: 36 total: 36
 [2021-01-14T00:52:52.893] [TRACE] Crawler - duration: 5.153 seconds, 583.981 seconds remaining.
+[2021-01-14T00:52:52.895] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T00:52:52.896] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T00:52:52.897] [INFO] Crawler - 36 items in the previous list, and 36 items in the latest list.
+[2021-01-14T00:52:52.899] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T00:52:52.900] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mystery-ranch 
+
+[2021-01-14T00:52:53.004] [DEBUG] Git - write to /home/ubuntu/crawler/repo/products.json
+[2021-01-14T00:52:57.527] [INFO] Git - commit...
+[2021-01-14T00:52:57.935] [INFO] Git - commited
+[2021-01-14T00:52:57.936] [INFO] Git - pushing...
+[2021-01-14T00:53:03.643] [INFO] Git - pushed
+[2021-01-14T00:53:03.644] [INFO] Emailer - Dispatching to users...
+[2021-01-14T00:53:03.645] [INFO] Emailer - shieh.npin@gmail.com dispatching...
+[2021-01-14T00:53:03.646] [INFO] Emailer - Site: https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx 
+[2021-01-14T00:53:03.646] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.646] [INFO] Emailer - Site: https://www.rei.com/search?q=marmot&ir=q%3Amarmot 
+[2021-01-14T00:53:03.647] [DEBUG] Emailer - Url: https://www.rei.com/search?q=marmot&ir=q%3Amarmot
+[2021-01-14T00:53:03.647] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2021-01-14T00:53:03.648] [DEBUG] Emailer - Title: .*
+[2021-01-14T00:53:03.649] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.649] [INFO] Emailer - Site: https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals 
+[2021-01-14T00:53:03.650] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.651] [INFO] Emailer - Site: https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 
+[2021-01-14T00:53:03.651] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.652] [INFO] Emailer - Site: https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 
+[2021-01-14T00:53:03.653] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.653] [INFO] Emailer - Site: https://www.moosejaw.com/search/snow-peak/sale 
+[2021-01-14T00:53:03.654] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.655] [INFO] Emailer - Site: Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+[2021-01-14T00:53:03.655] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.656] [INFO] Emailer - Site: Mystery Ranch@Sierra (https://www.sierra.com/mystery-ranch~b~37083/)
+[2021-01-14T00:53:03.656] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.657] [INFO] Emailer - Site: Mammut@Sierra (https://www.sierra.com/mammut~b~3201/)
+[2021-01-14T00:53:03.658] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.659] [INFO] Emailer - Site: Thermarest@Sierra (https://www.sierra.com/therm-a-rest~b~3177/)
+[2021-01-14T00:53:03.659] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.660] [INFO] Emailer - Site: MSR@Sierra (https://www.sierra.com/msr~b~13535/)
+[2021-01-14T00:53:03.661] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.661] [INFO] Emailer - Site: Fjallraven@Sierra (https://www.sierra.com/fjallraven~b~3622/)
+[2021-01-14T00:53:03.662] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.663] [INFO] Emailer - Site: Arcteryx@Sierra (https://www.sierra.com/s~arcteryx/)
+[2021-01-14T00:53:03.663] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.664] [INFO] Emailer - Site: Outdoor-Research-Clearance@Sierra (https://www.sierra.com/s~outdoor-research/clearance~1/)
+[2021-01-14T00:53:03.665] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.665] [INFO] Emailer - Site: Marmot-Clearance@Sierra (https://www.sierra.com/s~marmot-/clearance~1/)
+[2021-01-14T00:53:03.666] [DEBUG] Emailer - Url: https://www.sierra.com/s~marmot-/clearance~1/
+[2021-01-14T00:53:03.667] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2021-01-14T00:53:03.668] [DEBUG] Emailer - Title: .*
+[2021-01-14T00:53:03.669] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.669] [INFO] Emailer - Site: Gregory@Sierra (https://www.sierra.com/gregory~b~7155/)
+[2021-01-14T00:53:03.670] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.671] [INFO] Emailer - Site: BD-Clearance@Sierra (https://www.sierra.com/s~black-diamond/clearance~1/)
+[2021-01-14T00:53:03.672] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.672] [INFO] Emailer - Site: Arcteryx@steepandcheap (https://www.steepandcheap.com/arcteryx)
+[2021-01-14T00:53:03.673] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.674] [INFO] Emailer - Site: Mammut@steepandcheap (https://www.steepandcheap.com/mammut)
+[2021-01-14T00:53:03.675] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.675] [INFO] Emailer - Site: Fjallraven@steepandcheap (https://www.steepandcheap.com/fjallraven)
+[2021-01-14T00:53:03.676] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.677] [INFO] Emailer - Site: mystery-ranch@steepandcheap (https://www.steepandcheap.com/mystery-ranch)
+[2021-01-14T00:53:03.677] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.678] [INFO] Emailer - Site: MSR@steepandcheap (https://www.steepandcheap.com/msr)
+[2021-01-14T00:53:03.679] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.679] [INFO] Emailer - Site: Arcteryx@campsaver (https://www.campsaver.com/arc-teryx-brand.html)
+[2021-01-14T00:53:03.680] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.681] [INFO] Emailer - Site: Mammut@campsaver (https://www.campsaver.com/mammut-brand.html)
+[2021-01-14T00:53:03.681] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.682] [INFO] Emailer - Site: Mystery Ranch@campsaver (https://www.campsaver.com/mystery-ranch-brand.html)
+[2021-01-14T00:53:03.683] [INFO] Emailer - unchanged
+[2021-01-14T00:53:03.684] [INFO] Emailer - Site: Marmot@campsaver (https://www.campsaver.com/marmot-brand.html)
+[2021-01-14T00:53:03.684] [DEBUG] Emailer - Url: https://www.campsaver.com/marmot-brand.html
+[2021-01-14T00:53:03.685] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2021-01-14T00:53:03.686] [DEBUG] Emailer - Title: .*
+[2021-01-14T00:53:03.687] [INFO] Emailer - found 1 event(s).
+[2021-01-14T00:53:03.689] [DEBUG] Emailer - mailing to shieh.npin@gmail.com
+[2021-01-14T00:53:06.354] [DEBUG] Emailer - mail sent
+[2021-01-14T00:53:06.355] [INFO] Emailer - Site: Fjallraven@campsaver (https://www.campsaver.com/fjallraven-brand.html)
+[2021-01-14T00:53:06.356] [INFO] Emailer - unchanged
+[2021-01-14T00:53:06.357] [INFO] Emailer - Site: Arcteryx@mountainsteals (https://www.mountainsteals.com/search/arcteryx)
+[2021-01-14T00:53:06.358] [INFO] Emailer - unchanged
+[2021-01-14T00:53:06.359] [INFO] Emailer - Site: Mammut@mountainsteals (https://www.mountainsteals.com/search/mammut)
+[2021-01-14T00:53:06.359] [INFO] Emailer - unchanged
+[2021-01-14T00:53:06.360] [INFO] Emailer - Site: MSR@mountainsteals (https://www.mountainsteals.com/search/msr)
+[2021-01-14T00:53:06.361] [INFO] Emailer - unchanged
+[2021-01-14T00:53:06.362] [INFO] Emailer - Site: Fjallraven@mountainsteals (https://www.mountainsteals.com/search/fjallraven)
+[2021-01-14T00:53:06.363] [INFO] Emailer - unchanged
+[2021-01-14T00:53:06.364] [INFO] Emailer - Site: Marmot@mountainsteals (https://www.mountainsteals.com/search/marmot)
+[2021-01-14T00:53:06.365] [DEBUG] Emailer - Url: https://www.mountainsteals.com/search/marmot
+[2021-01-14T00:53:06.366] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2021-01-14T00:53:06.367] [DEBUG] Emailer - Title: .*
+[2021-01-14T00:53:06.368] [INFO] Emailer - found 2 event(s).
+[2021-01-14T00:53:06.369] [DEBUG] Emailer - mailing to shieh.npin@gmail.com
+[2021-01-14T00:53:08.490] [DEBUG] Emailer - mail sent
+[2021-01-14T00:53:08.491] [INFO] Emailer - Site: Mountain-hardwear@mountainsteals (https://www.mountainsteals.com/search/mountain-hardwear)
+[2021-01-14T00:53:08.492] [INFO] Emailer - unchanged
+[2021-01-14T00:53:08.493] [INFO] Emailer - Site: Black-diamond@mountainsteals (https://www.mountainsteals.com/search/black-diamond)
+[2021-01-14T00:53:08.494] [INFO] Emailer - unchanged
+[2021-01-14T00:53:08.495] [INFO] Emailer - Site: Mystery-ranch@mountainsteals (https://www.mountainsteals.com/search/mystery-ranch)
+[2021-01-14T00:53:08.496] [INFO] Emailer - unchanged
+[2021-01-14T00:53:08.497] [INFO] Emailer - shieh.npin@gmail.com dispatched. 
+
+[2021-01-14T00:53:08.498] [INFO] Emailer - All dispatched
+[2021-01-14T00:53:08.499] [INFO] Scheduler - Finish
+[2021-01-14T00:53:08.500] [DEBUG] Scheduler - [Release]
+[2021-01-14T01:05:00.040] [DEBUG] Scheduler - [Lock]
+[2021-01-14T01:05:00.042] [INFO] Scheduler - Start
+[2021-01-14T01:05:00.101] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-01-14T01:05:00.218] [INFO] Git - cloning...
+[2021-01-14T01:05:11.181] [INFO] Git - cloned
+[2021-01-14T01:05:11.695] [DEBUG] Scheduler - Load crawler setting {
+    "users": [
+        {
+            "email": "shieh.npin@gmail.com",
+            "sites": [
+                {
+                    "url": "https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx"
+                },
+                {
+                    "url": "https://www.rei.com/search?q=marmot&ir=q%3Amarmot"
+                },
+                {
+                    "url": "https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals"
+                },
+                {
+                    "url": "https://www.moosejaw.com/search/arcteryx/sale?orderBy=10"
+                },
+                {
+                    "url": "https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10"
+                },
+                {
+                    "url": "https://www.moosejaw.com/search/snow-peak/sale"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@MountainSteals",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.sierra.com/mystery-ranch~b~37083/",
+                    "name": "Mystery Ranch@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/mammut~b~3201/",
+                    "name": "Mammut@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/therm-a-rest~b~3177/",
+                    "name": "Thermarest@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/msr~b~13535/",
+                    "name": "MSR@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/fjallraven~b~3622/",
+                    "name": "Fjallraven@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~arcteryx/",
+                    "name": "Arcteryx@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~outdoor-research/clearance~1/",
+                    "name": "Outdoor-Research-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~marmot-/clearance~1/",
+                    "name": "Marmot-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/gregory~b~7155/",
+                    "name": "Gregory@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~black-diamond/clearance~1/",
+                    "name": "BD-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/arcteryx",
+                    "name": "Arcteryx@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/mammut",
+                    "name": "Mammut@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/fjallraven",
+                    "name": "Fjallraven@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/mystery-ranch",
+                    "name": "mystery-ranch@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/msr",
+                    "name": "MSR@steepandcheap"
+                },
+                {
+                    "url": "https://www.campsaver.com/arc-teryx-brand.html",
+                    "name": "Arcteryx@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mammut-brand.html",
+                    "name": "Mammut@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mystery-ranch-brand.html",
+                    "name": "Mystery Ranch@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/marmot-brand.html",
+                    "name": "Marmot@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/fjallraven-brand.html",
+                    "name": "Fjallraven@campsaver"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/arcteryx",
+                    "name": "Arcteryx@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mammut",
+                    "name": "Mammut@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/msr",
+                    "name": "MSR@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/marmot",
+                    "name": "Marmot@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mountain-hardwear",
+                    "name": "Mountain-hardwear@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/black-diamond",
+                    "name": "Black-diamond@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mystery-ranch",
+                    "name": "Mystery-ranch@mountainsteals"
+                }
+            ]
+        }
+    ]
+}
+[2021-01-14T01:05:15.346] [INFO] Crawler - Process https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx by Back Country crawler, deadline: 01:15
+[2021-01-14T01:05:15.349] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1 (normalized)
+[2021-01-14T01:05:15.350] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:15.351] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:05:16.288] [TRACE] Crawler - parsing
+[2021-01-14T01:05:17.798] [TRACE] Crawler - parsed: 42 total: 396
+[2021-01-14T01:05:17.800] [TRACE] Crawler - duration: 2.452 seconds, 597.546 seconds remaining.
+[2021-01-14T01:05:17.802] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1 (normalized)
+[2021-01-14T01:05:17.803] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:17.804] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1' } }
+[2021-01-14T01:05:18.332] [TRACE] Crawler - parsing
+[2021-01-14T01:05:19.597] [TRACE] Crawler - parsed: 84 total: 396
+[2021-01-14T01:05:19.600] [TRACE] Crawler - duration: 1.797 seconds, 595.747 seconds remaining.
+[2021-01-14T01:05:19.601] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2 (normalized)
+[2021-01-14T01:05:19.602] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:19.603] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1' } }
+[2021-01-14T01:05:20.293] [TRACE] Crawler - parsing
+[2021-01-14T01:05:21.338] [TRACE] Crawler - parsed: 126 total: 396
+[2021-01-14T01:05:21.340] [TRACE] Crawler - duration: 1.739 seconds, 594.006 seconds remaining.
+[2021-01-14T01:05:21.341] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3 (normalized)
+[2021-01-14T01:05:21.342] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:21.343] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2' } }
+[2021-01-14T01:05:22.016] [TRACE] Crawler - parsing
+[2021-01-14T01:05:23.192] [TRACE] Crawler - parsed: 168 total: 396
+[2021-01-14T01:05:23.194] [TRACE] Crawler - duration: 1.852 seconds, 592.152 seconds remaining.
+[2021-01-14T01:05:23.196] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4 (normalized)
+[2021-01-14T01:05:23.197] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:23.197] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3' } }
+[2021-01-14T01:05:23.819] [TRACE] Crawler - parsing
+[2021-01-14T01:05:24.873] [TRACE] Crawler - parsed: 210 total: 397
+[2021-01-14T01:05:24.875] [TRACE] Crawler - duration: 1.679 seconds, 590.471 seconds remaining.
+[2021-01-14T01:05:24.877] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5 (normalized)
+[2021-01-14T01:05:24.878] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:24.878] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4' } }
+[2021-01-14T01:05:25.496] [TRACE] Crawler - parsing
+[2021-01-14T01:05:26.705] [TRACE] Crawler - parsed: 252 total: 397
+[2021-01-14T01:05:26.707] [TRACE] Crawler - duration: 1.83 seconds, 588.639 seconds remaining.
+[2021-01-14T01:05:26.709] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6 (normalized)
+[2021-01-14T01:05:26.710] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:26.711] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5' } }
+[2021-01-14T01:05:27.317] [TRACE] Crawler - parsing
+[2021-01-14T01:05:28.311] [TRACE] Crawler - parsed: 294 total: 397
+[2021-01-14T01:05:28.313] [TRACE] Crawler - duration: 1.604 seconds, 587.033 seconds remaining.
+[2021-01-14T01:05:28.314] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7 (normalized)
+[2021-01-14T01:05:28.314] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:28.315] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6' } }
+[2021-01-14T01:05:28.977] [TRACE] Crawler - parsing
+[2021-01-14T01:05:30.154] [TRACE] Crawler - parsed: 336 total: 397
+[2021-01-14T01:05:30.158] [TRACE] Crawler - duration: 1.842 seconds, 585.19 seconds remaining.
+[2021-01-14T01:05:30.159] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8 (normalized)
+[2021-01-14T01:05:30.160] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:30.161] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7' } }
+[2021-01-14T01:05:30.692] [TRACE] Crawler - parsing
+[2021-01-14T01:05:31.732] [TRACE] Crawler - parsed: 378 total: 397
+[2021-01-14T01:05:31.734] [TRACE] Crawler - duration: 1.575 seconds, 583.612 seconds remaining.
+[2021-01-14T01:05:31.735] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=9 (normalized)
+[2021-01-14T01:05:31.741] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:31.742] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8' } }
+[2021-01-14T01:05:32.298] [TRACE] Crawler - parsing
+[2021-01-14T01:05:33.164] [TRACE] Crawler - parsed: 397 total: 397
+[2021-01-14T01:05:33.167] [TRACE] Crawler - duration: 1.43 seconds, 582.18 seconds remaining.
+[2021-01-14T01:05:33.212] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:05:33.212] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:05:38.256] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1 (normalized)
+[2021-01-14T01:05:38.257] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:38.258] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:05:38.804] [TRACE] Crawler - parsing
+[2021-01-14T01:05:39.926] [TRACE] Crawler - parsed: 42 total: 396
+[2021-01-14T01:05:39.928] [TRACE] Crawler - duration: 1.672 seconds, 575.418 seconds remaining.
+[2021-01-14T01:05:39.929] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1 (normalized)
+[2021-01-14T01:05:39.930] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:39.931] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1' } }
+[2021-01-14T01:05:40.459] [TRACE] Crawler - parsing
+[2021-01-14T01:05:41.484] [TRACE] Crawler - parsed: 84 total: 396
+[2021-01-14T01:05:41.486] [TRACE] Crawler - duration: 1.556 seconds, 573.86 seconds remaining.
+[2021-01-14T01:05:41.488] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2 (normalized)
+[2021-01-14T01:05:41.489] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:41.489] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1' } }
+[2021-01-14T01:05:42.028] [TRACE] Crawler - parsing
+[2021-01-14T01:05:43.000] [TRACE] Crawler - parsed: 126 total: 396
+[2021-01-14T01:05:43.002] [TRACE] Crawler - duration: 1.514 seconds, 572.344 seconds remaining.
+[2021-01-14T01:05:43.004] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3 (normalized)
+[2021-01-14T01:05:43.004] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:43.005] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2' } }
+[2021-01-14T01:05:43.545] [TRACE] Crawler - parsing
+[2021-01-14T01:05:44.478] [TRACE] Crawler - parsed: 168 total: 396
+[2021-01-14T01:05:44.480] [TRACE] Crawler - duration: 1.476 seconds, 570.866 seconds remaining.
+[2021-01-14T01:05:44.481] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4 (normalized)
+[2021-01-14T01:05:44.481] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:44.482] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3' } }
+[2021-01-14T01:05:44.983] [TRACE] Crawler - parsing
+[2021-01-14T01:05:46.162] [TRACE] Crawler - parsed: 210 total: 397
+[2021-01-14T01:05:46.164] [TRACE] Crawler - duration: 1.683 seconds, 569.182 seconds remaining.
+[2021-01-14T01:05:46.166] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5 (normalized)
+[2021-01-14T01:05:46.167] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:46.168] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4' } }
+[2021-01-14T01:05:46.734] [TRACE] Crawler - parsing
+[2021-01-14T01:05:47.777] [TRACE] Crawler - parsed: 252 total: 397
+[2021-01-14T01:05:47.779] [TRACE] Crawler - duration: 1.613 seconds, 567.567 seconds remaining.
+[2021-01-14T01:05:47.780] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6 (normalized)
+[2021-01-14T01:05:47.781] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:47.782] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5' } }
+[2021-01-14T01:05:48.280] [TRACE] Crawler - parsing
+[2021-01-14T01:05:49.228] [TRACE] Crawler - parsed: 294 total: 397
+[2021-01-14T01:05:49.231] [TRACE] Crawler - duration: 1.449 seconds, 566.116 seconds remaining.
+[2021-01-14T01:05:49.232] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7 (normalized)
+[2021-01-14T01:05:49.233] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:49.234] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6' } }
+[2021-01-14T01:05:49.795] [TRACE] Crawler - parsing
+[2021-01-14T01:05:50.771] [TRACE] Crawler - parsed: 336 total: 397
+[2021-01-14T01:05:50.773] [TRACE] Crawler - duration: 1.54 seconds, 564.573 seconds remaining.
+[2021-01-14T01:05:50.774] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8 (normalized)
+[2021-01-14T01:05:50.775] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:50.776] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7' } }
+[2021-01-14T01:05:51.259] [TRACE] Crawler - parsing
+[2021-01-14T01:05:52.196] [TRACE] Crawler - parsed: 378 total: 397
+[2021-01-14T01:05:52.198] [TRACE] Crawler - duration: 1.424 seconds, 563.148 seconds remaining.
+[2021-01-14T01:05:52.199] [DEBUG] Crawler - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=9 (normalized)
+[2021-01-14T01:05:52.200] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:52.201] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8' } }
+[2021-01-14T01:05:52.678] [TRACE] Crawler - parsing
+[2021-01-14T01:05:53.571] [TRACE] Crawler - parsed: 397 total: 397
+[2021-01-14T01:05:53.574] [TRACE] Crawler - duration: 1.374 seconds, 561.773 seconds remaining.
+[2021-01-14T01:05:53.620] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:05:53.622] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:05:53.623] [INFO] Crawler - 396 items in the previous list, and 396 items in the latest list.
+[2021-01-14T01:05:53.695] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:05:53.695] [INFO] Crawler - Finish https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx 
+
+[2021-01-14T01:05:53.699] [INFO] Crawler - Process https://www.rei.com/search?q=marmot&ir=q%3Amarmot by REI crawler, deadline: 01:15
+[2021-01-14T01:05:53.701] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title (normalized)
+[2021-01-14T01:05:53.701] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:53.702] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:05:56.182] [TRACE] Crawler - parsing
+[2021-01-14T01:05:57.952] [TRACE] Crawler - parsed: 30 total: 147
+[2021-01-14T01:05:57.953] [TRACE] Crawler - duration: 4.253 seconds, 595.746 seconds remaining.
+[2021-01-14T01:05:57.955] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2 (normalized)
+[2021-01-14T01:05:57.955] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:57.955] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title' } }
+[2021-01-14T01:05:58.238] [TRACE] Crawler - parsing
+[2021-01-14T01:05:59.888] [TRACE] Crawler - parsed: 60 total: 147
+[2021-01-14T01:05:59.890] [TRACE] Crawler - duration: 1.935 seconds, 593.81 seconds remaining.
+[2021-01-14T01:05:59.891] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3 (normalized)
+[2021-01-14T01:05:59.892] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:05:59.893] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2' } }
+[2021-01-14T01:06:00.163] [TRACE] Crawler - parsing
+[2021-01-14T01:06:01.882] [TRACE] Crawler - parsed: 90 total: 147
+[2021-01-14T01:06:01.885] [TRACE] Crawler - duration: 1.992 seconds, 591.816 seconds remaining.
+[2021-01-14T01:06:01.886] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4 (normalized)
+[2021-01-14T01:06:01.887] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:01.887] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3' } }
+[2021-01-14T01:06:02.208] [TRACE] Crawler - parsing
+[2021-01-14T01:06:03.898] [TRACE] Crawler - parsed: 120 total: 147
+[2021-01-14T01:06:03.899] [TRACE] Crawler - duration: 2.014 seconds, 589.8 seconds remaining.
+[2021-01-14T01:06:03.901] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=5 (normalized)
+[2021-01-14T01:06:03.901] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:03.902] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4' } }
+[2021-01-14T01:06:04.185] [TRACE] Crawler - parsing
+[2021-01-14T01:06:05.630] [TRACE] Crawler - parsed: 147 total: 147
+[2021-01-14T01:06:05.631] [TRACE] Crawler - duration: 1.731 seconds, 588.068 seconds remaining.
+[2021-01-14T01:06:05.641] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:06:05.642] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:06:10.659] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title (normalized)
+[2021-01-14T01:06:10.660] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:10.661] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:06:10.936] [TRACE] Crawler - parsing
+[2021-01-14T01:06:14.128] [TRACE] Crawler - parsed: 30 total: 147
+[2021-01-14T01:06:14.130] [TRACE] Crawler - duration: 3.472 seconds, 579.57 seconds remaining.
+[2021-01-14T01:06:14.132] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2 (normalized)
+[2021-01-14T01:06:14.132] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:14.133] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title' } }
+[2021-01-14T01:06:14.432] [TRACE] Crawler - parsing
+[2021-01-14T01:06:17.835] [TRACE] Crawler - parsed: 60 total: 147
+[2021-01-14T01:06:17.836] [TRACE] Crawler - duration: 3.705 seconds, 575.863 seconds remaining.
+[2021-01-14T01:06:17.838] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3 (normalized)
+[2021-01-14T01:06:17.839] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:17.839] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2' } }
+[2021-01-14T01:06:18.155] [TRACE] Crawler - parsing
+[2021-01-14T01:06:21.125] [TRACE] Crawler - parsed: 90 total: 147
+[2021-01-14T01:06:21.126] [TRACE] Crawler - duration: 3.289 seconds, 572.573 seconds remaining.
+[2021-01-14T01:06:21.128] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4 (normalized)
+[2021-01-14T01:06:21.128] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:21.129] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3' } }
+[2021-01-14T01:06:21.489] [TRACE] Crawler - parsing
+[2021-01-14T01:06:24.790] [TRACE] Crawler - parsed: 120 total: 147
+[2021-01-14T01:06:24.793] [TRACE] Crawler - duration: 3.664 seconds, 568.908 seconds remaining.
+[2021-01-14T01:06:24.794] [DEBUG] Crawler - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=5 (normalized)
+[2021-01-14T01:06:24.795] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:24.796] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4' } }
+[2021-01-14T01:06:25.092] [TRACE] Crawler - parsing
+[2021-01-14T01:06:27.853] [TRACE] Crawler - parsed: 147 total: 147
+[2021-01-14T01:06:27.855] [TRACE] Crawler - duration: 3.061 seconds, 565.845 seconds remaining.
+[2021-01-14T01:06:27.865] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:06:27.866] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:06:27.866] [INFO] Crawler - 147 items in the previous list, and 147 items in the latest list.
+[2021-01-14T01:06:27.880] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:06:27.881] [INFO] Crawler - Finish https://www.rei.com/search?q=marmot&ir=q%3Amarmot 
+
+[2021-01-14T01:06:27.884] [INFO] Crawler - Process https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals by REI crawler, deadline: 01:16
+[2021-01-14T01:06:27.885] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title (normalized)
+[2021-01-14T01:06:27.886] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:27.886] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:06:28.171] [TRACE] Crawler - parsing
+[2021-01-14T01:06:29.792] [TRACE] Crawler - parsed: 30 total: 133
+[2021-01-14T01:06:29.794] [TRACE] Crawler - duration: 1.909 seconds, 598.09 seconds remaining.
+[2021-01-14T01:06:29.795] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2 (normalized)
+[2021-01-14T01:06:29.796] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:29.796] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title' } }
+[2021-01-14T01:06:30.133] [TRACE] Crawler - parsing
+[2021-01-14T01:06:31.833] [TRACE] Crawler - parsed: 60 total: 133
+[2021-01-14T01:06:31.835] [TRACE] Crawler - duration: 2.039 seconds, 596.049 seconds remaining.
+[2021-01-14T01:06:31.836] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3 (normalized)
+[2021-01-14T01:06:31.837] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:31.838] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2' } }
+[2021-01-14T01:06:32.192] [TRACE] Crawler - parsing
+[2021-01-14T01:06:33.784] [TRACE] Crawler - parsed: 90 total: 133
+[2021-01-14T01:06:33.786] [TRACE] Crawler - duration: 1.95 seconds, 594.098 seconds remaining.
+[2021-01-14T01:06:33.787] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4 (normalized)
+[2021-01-14T01:06:33.788] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:33.788] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3' } }
+[2021-01-14T01:06:34.074] [TRACE] Crawler - parsing
+[2021-01-14T01:06:35.724] [TRACE] Crawler - parsed: 120 total: 133
+[2021-01-14T01:06:35.726] [TRACE] Crawler - duration: 1.938 seconds, 592.158 seconds remaining.
+[2021-01-14T01:06:35.727] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=5 (normalized)
+[2021-01-14T01:06:35.728] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:35.729] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4' } }
+[2021-01-14T01:06:35.987] [TRACE] Crawler - parsing
+[2021-01-14T01:06:37.256] [TRACE] Crawler - parsed: 133 total: 133
+[2021-01-14T01:06:37.257] [TRACE] Crawler - duration: 1.53 seconds, 590.626 seconds remaining.
+[2021-01-14T01:06:37.266] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:06:37.267] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:06:42.281] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title (normalized)
+[2021-01-14T01:06:42.282] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:42.282] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:06:42.702] [TRACE] Crawler - parsing
+[2021-01-14T01:06:45.100] [TRACE] Crawler - parsed: 30 total: 133
+[2021-01-14T01:06:45.102] [TRACE] Crawler - duration: 2.821 seconds, 582.782 seconds remaining.
+[2021-01-14T01:06:45.105] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2 (normalized)
+[2021-01-14T01:06:45.105] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:45.106] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title' } }
+[2021-01-14T01:06:45.387] [TRACE] Crawler - parsing
+[2021-01-14T01:06:47.632] [TRACE] Crawler - parsed: 60 total: 133
+[2021-01-14T01:06:47.633] [TRACE] Crawler - duration: 2.529 seconds, 580.25 seconds remaining.
+[2021-01-14T01:06:47.635] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3 (normalized)
+[2021-01-14T01:06:47.635] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:47.636] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2' } }
+[2021-01-14T01:06:47.940] [TRACE] Crawler - parsing
+[2021-01-14T01:06:50.485] [TRACE] Crawler - parsed: 90 total: 133
+[2021-01-14T01:06:50.488] [TRACE] Crawler - duration: 2.852 seconds, 577.397 seconds remaining.
+[2021-01-14T01:06:50.489] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4 (normalized)
+[2021-01-14T01:06:50.490] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:50.490] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3' } }
+[2021-01-14T01:06:50.895] [TRACE] Crawler - parsing
+[2021-01-14T01:06:53.429] [TRACE] Crawler - parsed: 120 total: 133
+[2021-01-14T01:06:53.430] [TRACE] Crawler - duration: 2.942 seconds, 574.453 seconds remaining.
+[2021-01-14T01:06:53.432] [DEBUG] Crawler - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=5 (normalized)
+[2021-01-14T01:06:53.433] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:06:53.433] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4' } }
+[2021-01-14T01:06:53.698] [TRACE] Crawler - parsing
+[2021-01-14T01:06:55.559] [TRACE] Crawler - parsed: 133 total: 133
+[2021-01-14T01:06:55.561] [TRACE] Crawler - duration: 2.129 seconds, 572.323 seconds remaining.
+[2021-01-14T01:06:55.570] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:06:55.571] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:06:55.571] [INFO] Crawler - 133 items in the previous list, and 133 items in the latest list.
+[2021-01-14T01:06:55.583] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:06:55.583] [INFO] Crawler - Finish https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals 
+
+[2021-01-14T01:06:55.585] [INFO] Crawler - Process https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 by Moosejaw crawler, deadline: 01:16
+[2021-01-14T01:06:55.586] [DEBUG] Crawler - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2 (normalized)
+[2021-01-14T01:06:55.588] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:06:55.930] [DEBUG] Crawler - {}
+[2021-01-14T01:07:13.822] [TRACE] Crawler - parsing
+[2021-01-14T01:07:16.156] [TRACE] Crawler - parsed: 48 total: 89
+[2021-01-14T01:07:16.158] [TRACE] Crawler - duration: 20.571 seconds, 579.428 seconds remaining.
+[2021-01-14T01:07:16.159] [DEBUG] Crawler - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2&beginIndex=48 (normalized)
+[2021-01-14T01:07:16.160] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:07:16.533] [DEBUG] Crawler - { referer: 'https://www.moosejaw.com/search/arcteryx/sale?orderBy=2' }
+[2021-01-14T01:07:27.213] [TRACE] Crawler - parsing
+[2021-01-14T01:07:29.445] [TRACE] Crawler - parsed: 89 total: 89
+[2021-01-14T01:07:29.447] [TRACE] Crawler - duration: 13.288 seconds, 566.139 seconds remaining.
+[2021-01-14T01:07:29.453] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:07:29.454] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:07:34.472] [DEBUG] Crawler - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2 (normalized)
+[2021-01-14T01:07:34.473] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:07:34.825] [DEBUG] Crawler - {}
+[2021-01-14T01:07:46.226] [TRACE] Crawler - parsing
+[2021-01-14T01:07:48.632] [TRACE] Crawler - parsed: 48 total: 89
+[2021-01-14T01:07:48.634] [TRACE] Crawler - duration: 14.161 seconds, 546.953 seconds remaining.
+[2021-01-14T01:07:48.635] [DEBUG] Crawler - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2&beginIndex=48 (normalized)
+[2021-01-14T01:07:48.636] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:07:49.012] [DEBUG] Crawler - { referer: 'https://www.moosejaw.com/search/arcteryx/sale?orderBy=2' }
+[2021-01-14T01:07:58.487] [TRACE] Crawler - parsing
+[2021-01-14T01:08:00.483] [TRACE] Crawler - parsed: 89 total: 89
+[2021-01-14T01:08:00.485] [TRACE] Crawler - duration: 11.849 seconds, 535.101 seconds remaining.
+[2021-01-14T01:08:00.491] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:08:00.492] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:08:00.492] [INFO] Crawler - 89 items in the previous list, and 89 items in the latest list.
+[2021-01-14T01:08:00.500] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:08:00.501] [INFO] Crawler - Finish https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 
+
+[2021-01-14T01:08:00.503] [INFO] Crawler - Process https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 by Moosejaw crawler, deadline: 01:18
+[2021-01-14T01:08:00.504] [DEBUG] Crawler - https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=2 (normalized)
+[2021-01-14T01:08:00.505] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:08:00.855] [DEBUG] Crawler - {}
+[2021-01-14T01:08:09.384] [TRACE] Crawler - parsing
+[2021-01-14T01:08:11.342] [TRACE] Crawler - parsed: 33 total: 33
+[2021-01-14T01:08:11.345] [TRACE] Crawler - duration: 10.84 seconds, 589.158 seconds remaining.
+[2021-01-14T01:08:11.347] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:08:11.348] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:08:16.364] [DEBUG] Crawler - https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=2 (normalized)
+[2021-01-14T01:08:16.365] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:08:16.728] [DEBUG] Crawler - {}
+[2021-01-14T01:08:24.632] [TRACE] Crawler - parsing
+[2021-01-14T01:08:26.421] [TRACE] Crawler - parsed: 33 total: 33
+[2021-01-14T01:08:26.423] [TRACE] Crawler - duration: 10.058 seconds, 574.08 seconds remaining.
+[2021-01-14T01:08:26.425] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:08:26.425] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:08:26.426] [INFO] Crawler - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-14T01:08:26.428] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:08:26.429] [INFO] Crawler - Finish https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 
+
+[2021-01-14T01:08:26.430] [INFO] Crawler - Process https://www.moosejaw.com/search/snow-peak/sale by Moosejaw crawler, deadline: 01:18
+[2021-01-14T01:08:26.431] [DEBUG] Crawler - https://www.moosejaw.com/search/snow-peak/sale?orderBy=2 (normalized)
+[2021-01-14T01:08:26.432] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:08:26.781] [DEBUG] Crawler - {}
+[2021-01-14T01:08:31.933] [TRACE] Crawler - parsing
+[2021-01-14T01:08:32.988] [TRACE] Crawler - parsed: 1 total: 1
+[2021-01-14T01:08:32.991] [TRACE] Crawler - duration: 6.558 seconds, 593.44 seconds remaining.
+[2021-01-14T01:08:32.992] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:08:32.992] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:08:38.007] [DEBUG] Crawler - https://www.moosejaw.com/search/snow-peak/sale?orderBy=2 (normalized)
+[2021-01-14T01:08:38.008] [TRACE] Crawler - fetching(puppeteer)
+[2021-01-14T01:08:38.360] [DEBUG] Crawler - {}
+[2021-01-14T01:08:43.334] [TRACE] Crawler - parsing
+[2021-01-14T01:08:44.362] [TRACE] Crawler - parsed: 1 total: 1
+[2021-01-14T01:08:44.363] [TRACE] Crawler - duration: 6.356 seconds, 582.067 seconds remaining.
+[2021-01-14T01:08:44.364] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:08:44.365] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:08:44.366] [INFO] Crawler - 1 items in the previous list, and 1 items in the latest list.
+[2021-01-14T01:08:44.367] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:08:44.368] [INFO] Crawler - Finish https://www.moosejaw.com/search/snow-peak/sale 
+
+[2021-01-14T01:08:44.370] [INFO] Crawler - Process https://www.mountainsteals.com/search/fjallraven by Mountain Steals crawler, deadline: 01:18
+[2021-01-14T01:08:44.372] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:08:44.373] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:08:44.374] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:08:48.955] [TRACE] Crawler - parsing
+[2021-01-14T01:08:50.477] [TRACE] Crawler - parsed: 48 total: 129
+[2021-01-14T01:08:50.479] [TRACE] Crawler - duration: 6.107 seconds, 593.892 seconds remaining.
+[2021-01-14T01:08:50.480] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:08:50.481] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:08:50.482] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:08:53.886] [TRACE] Crawler - parsing
+[2021-01-14T01:08:55.494] [TRACE] Crawler - parsed: 96 total: 129
+[2021-01-14T01:08:55.496] [TRACE] Crawler - duration: 5.016 seconds, 588.875 seconds remaining.
+[2021-01-14T01:08:55.497] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:08:55.498] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:08:55.499] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:08:58.801] [TRACE] Crawler - parsing
+[2021-01-14T01:09:00.076] [TRACE] Crawler - parsed: 129 total: 129
+[2021-01-14T01:09:00.078] [TRACE] Crawler - duration: 4.58 seconds, 584.293 seconds remaining.
+[2021-01-14T01:09:00.088] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:09:00.088] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:09:05.108] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:09:05.110] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:05.111] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:09.590] [TRACE] Crawler - parsing
+[2021-01-14T01:09:11.224] [TRACE] Crawler - parsed: 48 total: 129
+[2021-01-14T01:09:11.226] [TRACE] Crawler - duration: 6.117 seconds, 573.145 seconds remaining.
+[2021-01-14T01:09:11.227] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:09:11.228] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:11.229] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:09:14.916] [TRACE] Crawler - parsing
+[2021-01-14T01:09:16.429] [TRACE] Crawler - parsed: 96 total: 129
+[2021-01-14T01:09:16.430] [TRACE] Crawler - duration: 5.203 seconds, 567.94 seconds remaining.
+[2021-01-14T01:09:16.432] [DEBUG] Crawler - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:09:16.433] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:16.433] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:09:19.435] [TRACE] Crawler - parsing
+[2021-01-14T01:09:20.746] [TRACE] Crawler - parsed: 129 total: 129
+[2021-01-14T01:09:20.748] [TRACE] Crawler - duration: 4.317 seconds, 563.622 seconds remaining.
+[2021-01-14T01:09:20.762] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:09:20.763] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:09:20.763] [INFO] Crawler - 129 items in the previous list, and 129 items in the latest list.
+[2021-01-14T01:09:20.777] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:20.777] [INFO] Crawler - Finish https://www.mountainsteals.com/search/fjallraven 
+
+[2021-01-14T01:09:20.782] [INFO] Crawler - Process https://www.sierra.com/mystery-ranch~b~37083/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:20.782] [DEBUG] Crawler - https://www.sierra.com/mystery-ranch~b~37083/ (normalized)
+[2021-01-14T01:09:20.783] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:20.783] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:23.947] [TRACE] Crawler - parsing
+[2021-01-14T01:09:27.696] [TRACE] Crawler - duration: 6.914 seconds, 593.085 seconds remaining.
+[2021-01-14T01:09:27.697] [DEBUG] Crawler - https://www.sierra.com/mystery-ranch~b~37083/2/ (normalized)
+[2021-01-14T01:09:27.697] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:27.698] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers: { Referer: 'https://www.sierra.com/mystery-ranch~b~37083/' } }
+[2021-01-14T01:09:29.531] [TRACE] Crawler - parsing
+[2021-01-14T01:09:33.099] [TRACE] Crawler - duration: 5.401 seconds, 587.683 seconds remaining.
+[2021-01-14T01:09:33.101] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:09:33.102] [INFO] Crawler - 27 items in the previous list, and 27 items in the latest list.
+[2021-01-14T01:09:33.104] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:33.105] [INFO] Crawler - Finish https://www.sierra.com/mystery-ranch~b~37083/ 
+
+[2021-01-14T01:09:33.107] [INFO] Crawler - Process https://www.sierra.com/mammut~b~3201/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:33.108] [DEBUG] Crawler - https://www.sierra.com/mammut~b~3201/ (normalized)
+[2021-01-14T01:09:33.109] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:33.109] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:35.635] [TRACE] Crawler - parsing
+[2021-01-14T01:09:39.121] [TRACE] Crawler - duration: 6.013 seconds, 593.985 seconds remaining.
+[2021-01-14T01:09:39.122] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:09:39.123] [INFO] Crawler - 8 items in the previous list, and 9 items in the latest list.
+[2021-01-14T01:09:39.123] [INFO] Crawler - 0 item(s) removed, 1 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:39.125] [INFO] Crawler - Finish https://www.sierra.com/mammut~b~3201/ 
+
+[2021-01-14T01:09:39.126] [INFO] Crawler - Process https://www.sierra.com/therm-a-rest~b~3177/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:39.127] [DEBUG] Crawler - https://www.sierra.com/therm-a-rest~b~3177/ (normalized)
+[2021-01-14T01:09:39.127] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:39.128] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:43.102] [TRACE] Crawler - parsing
+[2021-01-14T01:09:46.457] [TRACE] Crawler - duration: 7.33 seconds, 592.668 seconds remaining.
+[2021-01-14T01:09:46.458] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:09:46.458] [INFO] Crawler - 5 items in the previous list, and 5 items in the latest list.
+[2021-01-14T01:09:46.459] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:46.460] [INFO] Crawler - Finish https://www.sierra.com/therm-a-rest~b~3177/ 
+
+[2021-01-14T01:09:46.461] [INFO] Crawler - Process https://www.sierra.com/msr~b~13535/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:46.462] [DEBUG] Crawler - https://www.sierra.com/msr~b~13535/ (normalized)
+[2021-01-14T01:09:46.463] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:46.464] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:48.885] [TRACE] Crawler - parsing
+[2021-01-14T01:09:52.391] [TRACE] Crawler - duration: 5.928 seconds, 594.071 seconds remaining.
+[2021-01-14T01:09:52.392] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:09:52.392] [INFO] Crawler - 1 items in the previous list, and 1 items in the latest list.
+[2021-01-14T01:09:52.393] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:52.394] [INFO] Crawler - Finish https://www.sierra.com/msr~b~13535/ 
+
+[2021-01-14T01:09:52.395] [INFO] Crawler - Process https://www.sierra.com/fjallraven~b~3622/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:52.396] [DEBUG] Crawler - https://www.sierra.com/fjallraven~b~3622/ (normalized)
+[2021-01-14T01:09:52.397] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:52.397] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:55.620] [TRACE] Crawler - parsing
+[2021-01-14T01:09:58.938] [TRACE] Crawler - duration: 6.541 seconds, 593.457 seconds remaining.
+[2021-01-14T01:09:58.938] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:09:58.939] [INFO] Crawler - 0 items in the previous list, and 0 items in the latest list.
+[2021-01-14T01:09:58.939] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:09:58.940] [INFO] Crawler - Finish https://www.sierra.com/fjallraven~b~3622/ 
+
+[2021-01-14T01:09:58.941] [INFO] Crawler - Process https://www.sierra.com/s~arcteryx/ by Sierra crawler, deadline: 01:19
+[2021-01-14T01:09:58.941] [DEBUG] Crawler - https://www.sierra.com/s~arcteryx/ (normalized)
+[2021-01-14T01:09:58.942] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:09:58.943] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:09:59.720] [TRACE] Crawler - parsing
+[2021-01-14T01:10:00.311] [TRACE] Crawler - duration: 1.369 seconds, 598.63 seconds remaining.
+[2021-01-14T01:10:00.311] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:10:00.312] [INFO] Crawler - 2 items in the previous list, and 2 items in the latest list.
+[2021-01-14T01:10:00.313] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:00.313] [INFO] Crawler - Finish https://www.sierra.com/s~arcteryx/ 
+
+[2021-01-14T01:10:00.316] [INFO] Crawler - Process https://www.sierra.com/s~outdoor-research/clearance~1/ by Sierra crawler, deadline: 01:20
+[2021-01-14T01:10:00.316] [DEBUG] Crawler - https://www.sierra.com/s~outdoor-research/clearance~1/ (normalized)
+[2021-01-14T01:10:00.317] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:00.318] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:01.360] [TRACE] Crawler - parsing
+[2021-01-14T01:10:01.854] [TRACE] Crawler - duration: 1.537 seconds, 598.462 seconds remaining.
+[2021-01-14T01:10:01.854] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:10:01.855] [INFO] Crawler - 0 items in the previous list, and 0 items in the latest list.
+[2021-01-14T01:10:01.855] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:01.856] [INFO] Crawler - Finish https://www.sierra.com/s~outdoor-research/clearance~1/ 
+
+[2021-01-14T01:10:01.858] [INFO] Crawler - Process https://www.sierra.com/s~marmot-/clearance~1/ by Sierra crawler, deadline: 01:20
+[2021-01-14T01:10:01.859] [DEBUG] Crawler - https://www.sierra.com/s~marmot-/clearance~1/ (normalized)
+[2021-01-14T01:10:01.859] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:01.859] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:03.035] [TRACE] Crawler - parsing
+[2021-01-14T01:10:04.000] [TRACE] Crawler - duration: 2.141 seconds, 597.858 seconds remaining.
+[2021-01-14T01:10:04.001] [DEBUG] Crawler - https://www.sierra.com/s~marmot-/clearance~1/2/ (normalized)
+[2021-01-14T01:10:04.001] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:04.002] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers: { Referer: 'https://www.sierra.com/s~marmot-/clearance~1/' } }
+[2021-01-14T01:10:05.477] [TRACE] Crawler - parsing
+[2021-01-14T01:10:06.457] [TRACE] Crawler - duration: 2.455 seconds, 595.402 seconds remaining.
+[2021-01-14T01:10:06.457] [DEBUG] Crawler - https://www.sierra.com/s~marmot-/clearance~1/3/ (normalized)
+[2021-01-14T01:10:06.458] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:06.459] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.sierra.com/s~marmot-/clearance~1/2/' } }
+[2021-01-14T01:10:07.405] [TRACE] Crawler - parsing
+[2021-01-14T01:10:08.042] [TRACE] Crawler - duration: 1.585 seconds, 593.816 seconds remaining.
+[2021-01-14T01:10:08.045] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:10:08.045] [INFO] Crawler - 52 items in the previous list, and 52 items in the latest list.
+[2021-01-14T01:10:08.050] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:08.051] [INFO] Crawler - Finish https://www.sierra.com/s~marmot-/clearance~1/ 
+
+[2021-01-14T01:10:08.052] [INFO] Crawler - Process https://www.sierra.com/gregory~b~7155/ by Sierra crawler, deadline: 01:20
+[2021-01-14T01:10:08.053] [DEBUG] Crawler - https://www.sierra.com/gregory~b~7155/ (normalized)
+[2021-01-14T01:10:08.053] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:08.054] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:11.292] [TRACE] Crawler - parsing
+[2021-01-14T01:10:14.792] [TRACE] Crawler - duration: 6.74 seconds, 593.259 seconds remaining.
+[2021-01-14T01:10:14.793] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:10:14.794] [INFO] Crawler - 12 items in the previous list, and 12 items in the latest list.
+[2021-01-14T01:10:14.795] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:14.796] [INFO] Crawler - Finish https://www.sierra.com/gregory~b~7155/ 
+
+[2021-01-14T01:10:14.798] [INFO] Crawler - Process https://www.sierra.com/s~black-diamond/clearance~1/ by Sierra crawler, deadline: 01:20
+[2021-01-14T01:10:14.799] [DEBUG] Crawler - https://www.sierra.com/s~black-diamond/clearance~1/ (normalized)
+[2021-01-14T01:10:14.800] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:14.801] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:16.048] [TRACE] Crawler - parsing
+[2021-01-14T01:10:16.828] [TRACE] Crawler - duration: 2.027 seconds, 597.972 seconds remaining.
+[2021-01-14T01:10:16.828] [DEBUG] Crawler - consistency check: skip
+[2021-01-14T01:10:16.829] [INFO] Crawler - 10 items in the previous list, and 10 items in the latest list.
+[2021-01-14T01:10:16.830] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:16.831] [INFO] Crawler - Finish https://www.sierra.com/s~black-diamond/clearance~1/ 
+
+[2021-01-14T01:10:16.833] [INFO] Crawler - Process https://www.steepandcheap.com/arcteryx by Steepandcheap crawler, deadline: 01:20
+[2021-01-14T01:10:16.835] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice (normalized)
+[2021-01-14T01:10:16.835] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:16.836] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:17.763] [TRACE] Crawler - parsing
+[2021-01-14T01:10:18.816] [TRACE] Crawler - duration: 1.982 seconds, 598.017 seconds remaining.
+[2021-01-14T01:10:18.817] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1 (normalized)
+[2021-01-14T01:10:18.818] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:18.819] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/arcteryx?sort=%2Bprice' } }
+[2021-01-14T01:10:19.331] [TRACE] Crawler - parsing
+[2021-01-14T01:10:19.989] [TRACE] Crawler - duration: 1.171 seconds, 596.845 seconds remaining.
+[2021-01-14T01:10:19.991] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:10:19.992] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:10:25.008] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice (normalized)
+[2021-01-14T01:10:25.009] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:25.009] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:25.624] [TRACE] Crawler - parsing
+[2021-01-14T01:10:26.553] [TRACE] Crawler - duration: 1.545 seconds, 590.281 seconds remaining.
+[2021-01-14T01:10:26.554] [DEBUG] Crawler - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1 (normalized)
+[2021-01-14T01:10:26.555] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:26.555] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/arcteryx?sort=%2Bprice' } }
+[2021-01-14T01:10:27.165] [TRACE] Crawler - parsing
+[2021-01-14T01:10:27.792] [TRACE] Crawler - duration: 1.237 seconds, 589.042 seconds remaining.
+[2021-01-14T01:10:27.795] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:10:27.795] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:10:27.795] [INFO] Crawler - 53 items in the previous list, and 53 items in the latest list.
+[2021-01-14T01:10:27.799] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:27.799] [INFO] Crawler - Finish https://www.steepandcheap.com/arcteryx 
+
+[2021-01-14T01:10:27.801] [INFO] Crawler - Process https://www.steepandcheap.com/mammut by Steepandcheap crawler, deadline: 01:20
+[2021-01-14T01:10:27.802] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice (normalized)
+[2021-01-14T01:10:27.803] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:27.804] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:28.513] [TRACE] Crawler - parsing
+[2021-01-14T01:10:29.590] [TRACE] Crawler - duration: 1.788 seconds, 598.21 seconds remaining.
+[2021-01-14T01:10:29.591] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1 (normalized)
+[2021-01-14T01:10:29.592] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:29.593] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/mammut?sort=%2Bprice' } }
+[2021-01-14T01:10:30.145] [TRACE] Crawler - parsing
+[2021-01-14T01:10:31.114] [TRACE] Crawler - duration: 1.522 seconds, 596.687 seconds remaining.
+[2021-01-14T01:10:31.115] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2 (normalized)
+[2021-01-14T01:10:31.115] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:31.116] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1' } }
+[2021-01-14T01:10:31.681] [TRACE] Crawler - parsing
+[2021-01-14T01:10:32.663] [TRACE] Crawler - duration: 1.549 seconds, 595.137 seconds remaining.
+[2021-01-14T01:10:32.670] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:10:32.671] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:10:37.685] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice (normalized)
+[2021-01-14T01:10:37.687] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:37.688] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:38.280] [TRACE] Crawler - parsing
+[2021-01-14T01:10:39.508] [TRACE] Crawler - duration: 1.823 seconds, 588.293 seconds remaining.
+[2021-01-14T01:10:39.510] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1 (normalized)
+[2021-01-14T01:10:39.510] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:39.511] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/mammut?sort=%2Bprice' } }
+[2021-01-14T01:10:40.111] [TRACE] Crawler - parsing
+[2021-01-14T01:10:41.186] [TRACE] Crawler - duration: 1.677 seconds, 586.614 seconds remaining.
+[2021-01-14T01:10:41.187] [DEBUG] Crawler - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2 (normalized)
+[2021-01-14T01:10:41.188] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:41.188] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer: 'https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1' } }
+[2021-01-14T01:10:41.710] [TRACE] Crawler - parsing
+[2021-01-14T01:10:42.702] [TRACE] Crawler - duration: 1.515 seconds, 585.098 seconds remaining.
+[2021-01-14T01:10:42.710] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:10:42.711] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:10:42.711] [INFO] Crawler - 112 items in the previous list, and 112 items in the latest list.
+[2021-01-14T01:10:42.721] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:42.722] [INFO] Crawler - Finish https://www.steepandcheap.com/mammut 
+
+[2021-01-14T01:10:42.724] [INFO] Crawler - Process https://www.steepandcheap.com/fjallraven by Steepandcheap crawler, deadline: 01:20
+[2021-01-14T01:10:42.725] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven?sort=%2Bprice (normalized)
+[2021-01-14T01:10:42.725] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:42.726] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:43.337] [TRACE] Crawler - parsing
+[2021-01-14T01:10:44.015] [TRACE] Crawler - duration: 1.29 seconds, 598.709 seconds remaining.
+[2021-01-14T01:10:44.016] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:10:44.016] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:10:49.033] [DEBUG] Crawler - https://www.steepandcheap.com/fjallraven?sort=%2Bprice (normalized)
+[2021-01-14T01:10:49.034] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:49.034] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:49.491] [TRACE] Crawler - parsing
+[2021-01-14T01:10:50.172] [TRACE] Crawler - duration: 1.138 seconds, 592.552 seconds remaining.
+[2021-01-14T01:10:50.173] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:10:50.174] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:10:50.174] [INFO] Crawler - 28 items in the previous list, and 28 items in the latest list.
+[2021-01-14T01:10:50.175] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:50.176] [INFO] Crawler - Finish https://www.steepandcheap.com/fjallraven 
+
+[2021-01-14T01:10:50.178] [INFO] Crawler - Process https://www.steepandcheap.com/mystery-ranch by Steepandcheap crawler, deadline: 01:20
+[2021-01-14T01:10:50.179] [DEBUG] Crawler - https://www.steepandcheap.com/mystery-ranch?sort=%2Bprice (normalized)
+[2021-01-14T01:10:50.180] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:50.180] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:50.588] [TRACE] Crawler - parsing
+[2021-01-14T01:10:51.033] [TRACE] Crawler - duration: 0.854 seconds, 599.145 seconds remaining.
+[2021-01-14T01:10:51.034] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:10:51.034] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:10:56.036] [DEBUG] Crawler - https://www.steepandcheap.com/mystery-ranch?sort=%2Bprice (normalized)
+[2021-01-14T01:10:56.037] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:56.037] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:56.445] [TRACE] Crawler - parsing
+[2021-01-14T01:10:56.872] [TRACE] Crawler - duration: 0.836 seconds, 593.306 seconds remaining.
+[2021-01-14T01:10:56.872] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:10:56.873] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:10:56.874] [INFO] Crawler - 8 items in the previous list, and 8 items in the latest list.
+[2021-01-14T01:10:56.875] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:10:56.875] [INFO] Crawler - Finish https://www.steepandcheap.com/mystery-ranch 
+
+[2021-01-14T01:10:56.877] [INFO] Crawler - Process https://www.steepandcheap.com/msr by Steepandcheap crawler, deadline: 01:20
+[2021-01-14T01:10:56.878] [DEBUG] Crawler - https://www.steepandcheap.com/msr?sort=%2Bprice (normalized)
+[2021-01-14T01:10:56.879] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:10:56.879] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:10:57.322] [TRACE] Crawler - parsing
+[2021-01-14T01:10:57.730] [TRACE] Crawler - duration: 0.852 seconds, 599.147 seconds remaining.
+[2021-01-14T01:10:57.730] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:10:57.731] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:11:02.733] [DEBUG] Crawler - https://www.steepandcheap.com/msr?sort=%2Bprice (normalized)
+[2021-01-14T01:11:02.734] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:02.735] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:11:03.183] [TRACE] Crawler - parsing
+[2021-01-14T01:11:03.602] [TRACE] Crawler - duration: 0.869 seconds, 593.275 seconds remaining.
+[2021-01-14T01:11:03.603] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:11:03.603] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:11:03.604] [INFO] Crawler - 7 items in the previous list, and 7 items in the latest list.
+[2021-01-14T01:11:03.604] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:11:03.605] [INFO] Crawler - Finish https://www.steepandcheap.com/msr 
+
+[2021-01-14T01:11:03.607] [INFO] Crawler - Process https://www.campsaver.com/arc-teryx-brand.html by Campsaver crawler, deadline: 01:21
+[2021-01-14T01:11:03.609] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:11:03.610] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:03.610] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:11:05.692] [TRACE] Crawler - parsing
+[2021-01-14T01:11:07.608] [TRACE] Crawler - parsed: 60 total: 364
+[2021-01-14T01:11:07.611] [TRACE] Crawler - duration: 4.001 seconds, 595.998 seconds remaining.
+[2021-01-14T01:11:07.612] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:11:07.612] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:07.613] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:11:09.374] [TRACE] Crawler - parsing
+[2021-01-14T01:11:11.252] [TRACE] Crawler - parsed: 120 total: 364
+[2021-01-14T01:11:11.255] [TRACE] Crawler - duration: 3.642 seconds, 592.354 seconds remaining.
+[2021-01-14T01:11:11.256] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:11:11.257] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:11.257] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:11:12.175] [TRACE] Crawler - parsing
+[2021-01-14T01:11:13.989] [TRACE] Crawler - parsed: 180 total: 364
+[2021-01-14T01:11:13.990] [TRACE] Crawler - duration: 2.733 seconds, 589.618 seconds remaining.
+[2021-01-14T01:11:13.992] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:11:13.992] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:13.993] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:11:14.863] [TRACE] Crawler - parsing
+[2021-01-14T01:11:16.873] [TRACE] Crawler - parsed: 240 total: 364
+[2021-01-14T01:11:16.876] [TRACE] Crawler - duration: 2.883 seconds, 586.733 seconds remaining.
+[2021-01-14T01:11:16.877] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:11:16.877] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:16.878] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:11:17.656] [TRACE] Crawler - parsing
+[2021-01-14T01:11:19.517] [TRACE] Crawler - parsed: 300 total: 364
+[2021-01-14T01:11:19.518] [TRACE] Crawler - duration: 2.642 seconds, 584.089 seconds remaining.
+[2021-01-14T01:11:19.519] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:11:19.520] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:19.520] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:11:20.243] [TRACE] Crawler - parsing
+[2021-01-14T01:11:22.039] [TRACE] Crawler - parsed: 360 total: 364
+[2021-01-14T01:11:22.040] [TRACE] Crawler - duration: 2.521 seconds, 581.567 seconds remaining.
+[2021-01-14T01:11:22.042] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:11:22.042] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:22.043] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:11:22.689] [TRACE] Crawler - parsing
+[2021-01-14T01:11:23.788] [TRACE] Crawler - parsed: 364 total: 364
+[2021-01-14T01:11:23.789] [TRACE] Crawler - duration: 1.748 seconds, 579.818 seconds remaining.
+[2021-01-14T01:11:23.848] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:11:23.848] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:11:28.862] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:11:28.864] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:28.864] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:11:30.672] [TRACE] Crawler - parsing
+[2021-01-14T01:11:32.367] [TRACE] Crawler - parsed: 60 total: 364
+[2021-01-14T01:11:32.368] [TRACE] Crawler - duration: 3.505 seconds, 571.24 seconds remaining.
+[2021-01-14T01:11:32.370] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:11:32.475] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:32.476] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:11:33.364] [TRACE] Crawler - parsing
+[2021-01-14T01:11:35.133] [TRACE] Crawler - parsed: 120 total: 364
+[2021-01-14T01:11:35.135] [TRACE] Crawler - duration: 2.765 seconds, 568.473 seconds remaining.
+[2021-01-14T01:11:35.136] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:11:35.136] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:35.137] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:11:36.000] [TRACE] Crawler - parsing
+[2021-01-14T01:11:37.770] [TRACE] Crawler - parsed: 180 total: 364
+[2021-01-14T01:11:37.771] [TRACE] Crawler - duration: 2.635 seconds, 565.837 seconds remaining.
+[2021-01-14T01:11:37.776] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:11:37.776] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:37.776] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:11:38.667] [TRACE] Crawler - parsing
+[2021-01-14T01:11:40.488] [TRACE] Crawler - parsed: 240 total: 364
+[2021-01-14T01:11:40.490] [TRACE] Crawler - duration: 2.717 seconds, 563.118 seconds remaining.
+[2021-01-14T01:11:40.491] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:11:40.492] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:40.493] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:11:41.416] [TRACE] Crawler - parsing
+[2021-01-14T01:11:43.335] [TRACE] Crawler - parsed: 300 total: 364
+[2021-01-14T01:11:43.336] [TRACE] Crawler - duration: 2.845 seconds, 560.271 seconds remaining.
+[2021-01-14T01:11:43.338] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:11:43.338] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:43.339] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:11:44.220] [TRACE] Crawler - parsing
+[2021-01-14T01:11:46.092] [TRACE] Crawler - parsed: 360 total: 364
+[2021-01-14T01:11:46.093] [TRACE] Crawler - duration: 2.756 seconds, 557.514 seconds remaining.
+[2021-01-14T01:11:46.095] [DEBUG] Crawler - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:11:46.096] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:46.096] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:11:46.910] [TRACE] Crawler - parsing
+[2021-01-14T01:11:48.024] [TRACE] Crawler - parsed: 364 total: 364
+[2021-01-14T01:11:48.027] [TRACE] Crawler - duration: 1.931 seconds, 555.582 seconds remaining.
+[2021-01-14T01:11:48.063] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:11:48.064] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:11:48.064] [INFO] Crawler - 364 items in the previous list, and 364 items in the latest list.
+[2021-01-14T01:11:48.129] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:11:48.130] [INFO] Crawler - Finish https://www.campsaver.com/arc-teryx-brand.html 
+
+[2021-01-14T01:11:48.138] [INFO] Crawler - Process https://www.campsaver.com/mammut-brand.html by Campsaver crawler, deadline: 01:21
+[2021-01-14T01:11:48.139] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:11:48.140] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:48.140] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:11:50.174] [TRACE] Crawler - parsing
+[2021-01-14T01:11:51.830] [TRACE] Crawler - parsed: 60 total: 607
+[2021-01-14T01:11:51.831] [TRACE] Crawler - duration: 3.692 seconds, 596.306 seconds remaining.
+[2021-01-14T01:11:51.832] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:11:51.833] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:51.833] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:11:52.774] [TRACE] Crawler - parsing
+[2021-01-14T01:11:54.346] [TRACE] Crawler - parsed: 120 total: 607
+[2021-01-14T01:11:54.348] [TRACE] Crawler - duration: 2.515 seconds, 593.79 seconds remaining.
+[2021-01-14T01:11:54.349] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:11:54.350] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:54.351] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:11:55.353] [TRACE] Crawler - parsing
+[2021-01-14T01:11:57.085] [TRACE] Crawler - parsed: 180 total: 607
+[2021-01-14T01:11:57.088] [TRACE] Crawler - duration: 2.737 seconds, 591.051 seconds remaining.
+[2021-01-14T01:11:57.089] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:11:57.090] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:57.091] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:11:58.065] [TRACE] Crawler - parsing
+[2021-01-14T01:11:59.747] [TRACE] Crawler - parsed: 240 total: 607
+[2021-01-14T01:11:59.749] [TRACE] Crawler - duration: 2.66 seconds, 588.389 seconds remaining.
+[2021-01-14T01:11:59.750] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:11:59.751] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:11:59.752] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:12:00.691] [TRACE] Crawler - parsing
+[2021-01-14T01:12:02.387] [TRACE] Crawler - parsed: 300 total: 607
+[2021-01-14T01:12:02.388] [TRACE] Crawler - duration: 2.637 seconds, 585.75 seconds remaining.
+[2021-01-14T01:12:02.389] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:12:02.390] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:02.391] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:12:03.335] [TRACE] Crawler - parsing
+[2021-01-14T01:12:05.030] [TRACE] Crawler - parsed: 360 total: 607
+[2021-01-14T01:12:05.032] [TRACE] Crawler - duration: 2.642 seconds, 583.106 seconds remaining.
+[2021-01-14T01:12:05.033] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:12:05.034] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:05.034] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:12:06.211] [TRACE] Crawler - parsing
+[2021-01-14T01:12:07.929] [TRACE] Crawler - parsed: 420 total: 607
+[2021-01-14T01:12:07.932] [TRACE] Crawler - duration: 2.898 seconds, 580.207 seconds remaining.
+[2021-01-14T01:12:07.933] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:12:07.933] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:07.934] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:12:08.947] [TRACE] Crawler - parsing
+[2021-01-14T01:12:10.543] [TRACE] Crawler - parsed: 480 total: 607
+[2021-01-14T01:12:10.545] [TRACE] Crawler - duration: 2.612 seconds, 577.593 seconds remaining.
+[2021-01-14T01:12:10.546] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-14T01:12:10.547] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:10.548] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8' } }
+[2021-01-14T01:12:11.664] [TRACE] Crawler - parsing
+[2021-01-14T01:12:13.209] [TRACE] Crawler - parsed: 540 total: 607
+[2021-01-14T01:12:13.211] [TRACE] Crawler - duration: 2.665 seconds, 574.927 seconds remaining.
+[2021-01-14T01:12:13.212] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-14T01:12:13.212] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:13.213] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9' } }
+[2021-01-14T01:12:14.142] [TRACE] Crawler - parsing
+[2021-01-14T01:12:15.838] [TRACE] Crawler - parsed: 600 total: 607
+[2021-01-14T01:12:15.840] [TRACE] Crawler - duration: 2.628 seconds, 572.298 seconds remaining.
+[2021-01-14T01:12:15.841] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=11 (normalized)
+[2021-01-14T01:12:15.842] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:15.843] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10' } }
+[2021-01-14T01:12:16.521] [TRACE] Crawler - parsing
+[2021-01-14T01:12:17.459] [TRACE] Crawler - parsed: 607 total: 607
+[2021-01-14T01:12:17.460] [TRACE] Crawler - duration: 1.619 seconds, 570.677 seconds remaining.
+[2021-01-14T01:12:17.522] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:12:17.522] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:12:22.538] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:12:22.539] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:22.540] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:12:24.352] [TRACE] Crawler - parsing
+[2021-01-14T01:12:26.054] [TRACE] Crawler - parsed: 60 total: 607
+[2021-01-14T01:12:26.056] [TRACE] Crawler - duration: 3.518 seconds, 562.082 seconds remaining.
+[2021-01-14T01:12:26.058] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:12:26.058] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:26.059] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:12:27.023] [TRACE] Crawler - parsing
+[2021-01-14T01:12:28.827] [TRACE] Crawler - parsed: 120 total: 607
+[2021-01-14T01:12:28.829] [TRACE] Crawler - duration: 2.771 seconds, 559.309 seconds remaining.
+[2021-01-14T01:12:28.830] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:12:28.831] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:28.832] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:12:29.807] [TRACE] Crawler - parsing
+[2021-01-14T01:12:31.442] [TRACE] Crawler - parsed: 180 total: 607
+[2021-01-14T01:12:31.443] [TRACE] Crawler - duration: 2.613 seconds, 556.694 seconds remaining.
+[2021-01-14T01:12:31.444] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:12:31.445] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:31.541] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:12:32.515] [TRACE] Crawler - parsing
+[2021-01-14T01:12:34.104] [TRACE] Crawler - parsed: 240 total: 607
+[2021-01-14T01:12:34.106] [TRACE] Crawler - duration: 2.661 seconds, 554.032 seconds remaining.
+[2021-01-14T01:12:34.107] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:12:34.107] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:34.108] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:12:35.094] [TRACE] Crawler - parsing
+[2021-01-14T01:12:36.794] [TRACE] Crawler - parsed: 300 total: 607
+[2021-01-14T01:12:36.796] [TRACE] Crawler - duration: 2.689 seconds, 551.342 seconds remaining.
+[2021-01-14T01:12:36.798] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:12:36.798] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:36.799] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:12:37.798] [TRACE] Crawler - parsing
+[2021-01-14T01:12:39.548] [TRACE] Crawler - parsed: 360 total: 607
+[2021-01-14T01:12:39.550] [TRACE] Crawler - duration: 2.752 seconds, 548.588 seconds remaining.
+[2021-01-14T01:12:39.551] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:12:39.552] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:39.553] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:12:40.487] [TRACE] Crawler - parsing
+[2021-01-14T01:12:42.099] [TRACE] Crawler - parsed: 420 total: 607
+[2021-01-14T01:12:42.101] [TRACE] Crawler - duration: 2.549 seconds, 546.037 seconds remaining.
+[2021-01-14T01:12:42.102] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:12:42.103] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:42.104] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:12:42.984] [TRACE] Crawler - parsing
+[2021-01-14T01:12:44.651] [TRACE] Crawler - parsed: 480 total: 607
+[2021-01-14T01:12:44.652] [TRACE] Crawler - duration: 2.55 seconds, 543.485 seconds remaining.
+[2021-01-14T01:12:44.654] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-14T01:12:44.655] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:44.656] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8' } }
+[2021-01-14T01:12:45.538] [TRACE] Crawler - parsing
+[2021-01-14T01:12:47.238] [TRACE] Crawler - parsed: 540 total: 607
+[2021-01-14T01:12:47.240] [TRACE] Crawler - duration: 2.586 seconds, 540.898 seconds remaining.
+[2021-01-14T01:12:47.241] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-14T01:12:47.242] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:47.243] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9' } }
+[2021-01-14T01:12:48.128] [TRACE] Crawler - parsing
+[2021-01-14T01:12:49.802] [TRACE] Crawler - parsed: 600 total: 607
+[2021-01-14T01:12:49.803] [TRACE] Crawler - duration: 2.562 seconds, 538.334 seconds remaining.
+[2021-01-14T01:12:49.805] [DEBUG] Crawler - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=11 (normalized)
+[2021-01-14T01:12:49.806] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:49.807] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10' } }
+[2021-01-14T01:12:50.489] [TRACE] Crawler - parsing
+[2021-01-14T01:12:51.456] [TRACE] Crawler - parsed: 607 total: 607
+[2021-01-14T01:12:51.458] [TRACE] Crawler - duration: 1.653 seconds, 536.68 seconds remaining.
+[2021-01-14T01:12:51.530] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:12:51.532] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:12:51.533] [INFO] Crawler - 607 items in the previous list, and 607 items in the latest list.
+[2021-01-14T01:12:51.671] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:12:51.672] [INFO] Crawler - Finish https://www.campsaver.com/mammut-brand.html 
+
+[2021-01-14T01:12:51.674] [INFO] Crawler - Process https://www.campsaver.com/mystery-ranch-brand.html by Campsaver crawler, deadline: 01:22
+[2021-01-14T01:12:51.675] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:12:51.676] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:51.676] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:12:53.930] [TRACE] Crawler - parsing
+[2021-01-14T01:12:55.291] [TRACE] Crawler - parsed: 60 total: 113
+[2021-01-14T01:12:55.293] [TRACE] Crawler - duration: 3.618 seconds, 596.381 seconds remaining.
+[2021-01-14T01:12:55.294] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:12:55.295] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:12:55.295] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:12:56.711] [TRACE] Crawler - parsing
+[2021-01-14T01:12:58.070] [TRACE] Crawler - parsed: 113 total: 113
+[2021-01-14T01:12:58.073] [TRACE] Crawler - duration: 2.779 seconds, 593.601 seconds remaining.
+[2021-01-14T01:12:58.081] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:12:58.082] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:13:03.097] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:13:03.098] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:03.098] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:13:05.142] [TRACE] Crawler - parsing
+[2021-01-14T01:13:06.495] [TRACE] Crawler - parsed: 60 total: 113
+[2021-01-14T01:13:06.496] [TRACE] Crawler - duration: 3.398 seconds, 585.178 seconds remaining.
+[2021-01-14T01:13:06.497] [DEBUG] Crawler - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:13:06.498] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:06.499] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:13:08.025] [TRACE] Crawler - parsing
+[2021-01-14T01:13:09.443] [TRACE] Crawler - parsed: 113 total: 113
+[2021-01-14T01:13:09.445] [TRACE] Crawler - duration: 2.947 seconds, 582.229 seconds remaining.
+[2021-01-14T01:13:09.452] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:13:09.453] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:13:09.453] [INFO] Crawler - 113 items in the previous list, and 113 items in the latest list.
+[2021-01-14T01:13:09.464] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:13:09.464] [INFO] Crawler - Finish https://www.campsaver.com/mystery-ranch-brand.html 
+
+[2021-01-14T01:13:09.480] [INFO] Crawler - Process https://www.campsaver.com/marmot-brand.html by Campsaver crawler, deadline: 01:23
+[2021-01-14T01:13:09.480] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:13:09.481] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:09.481] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:13:11.137] [TRACE] Crawler - parsing
+[2021-01-14T01:13:12.771] [TRACE] Crawler - parsed: 60 total: 876
+[2021-01-14T01:13:12.772] [TRACE] Crawler - duration: 3.291 seconds, 596.708 seconds remaining.
+[2021-01-14T01:13:12.773] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:13:12.774] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:12.775] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:13:13.619] [TRACE] Crawler - parsing
+[2021-01-14T01:13:15.388] [TRACE] Crawler - parsed: 120 total: 876
+[2021-01-14T01:13:15.390] [TRACE] Crawler - duration: 2.616 seconds, 594.09 seconds remaining.
+[2021-01-14T01:13:15.391] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:13:15.392] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:15.393] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:13:16.204] [TRACE] Crawler - parsing
+[2021-01-14T01:13:18.073] [TRACE] Crawler - parsed: 180 total: 876
+[2021-01-14T01:13:18.075] [TRACE] Crawler - duration: 2.683 seconds, 591.405 seconds remaining.
+[2021-01-14T01:13:18.079] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:13:18.080] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:18.083] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:13:18.783] [TRACE] Crawler - parsing
+[2021-01-14T01:13:20.541] [TRACE] Crawler - parsed: 240 total: 876
+[2021-01-14T01:13:20.542] [TRACE] Crawler - duration: 2.463 seconds, 588.937 seconds remaining.
+[2021-01-14T01:13:20.543] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:13:20.544] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:20.545] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:13:21.304] [TRACE] Crawler - parsing
+[2021-01-14T01:13:23.095] [TRACE] Crawler - parsed: 300 total: 876
+[2021-01-14T01:13:23.097] [TRACE] Crawler - duration: 2.553 seconds, 586.383 seconds remaining.
+[2021-01-14T01:13:23.099] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:13:23.099] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:23.100] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:13:23.869] [TRACE] Crawler - parsing
+[2021-01-14T01:13:25.754] [TRACE] Crawler - parsed: 360 total: 876
+[2021-01-14T01:13:25.757] [TRACE] Crawler - duration: 2.657 seconds, 583.724 seconds remaining.
+[2021-01-14T01:13:25.758] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:13:25.759] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:25.759] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:13:26.479] [TRACE] Crawler - parsing
+[2021-01-14T01:13:28.224] [TRACE] Crawler - parsed: 420 total: 876
+[2021-01-14T01:13:28.226] [TRACE] Crawler - duration: 2.468 seconds, 581.254 seconds remaining.
+[2021-01-14T01:13:28.227] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:13:28.228] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:28.236] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:13:28.935] [TRACE] Crawler - parsing
+[2021-01-14T01:13:30.763] [TRACE] Crawler - parsed: 480 total: 876
+[2021-01-14T01:13:30.766] [TRACE] Crawler - duration: 2.538 seconds, 578.715 seconds remaining.
+[2021-01-14T01:13:30.767] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-14T01:13:30.767] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:30.768] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8' } }
+[2021-01-14T01:13:31.505] [TRACE] Crawler - parsing
+[2021-01-14T01:13:33.349] [TRACE] Crawler - parsed: 540 total: 876
+[2021-01-14T01:13:33.350] [TRACE] Crawler - duration: 2.583 seconds, 576.13 seconds remaining.
+[2021-01-14T01:13:33.352] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-14T01:13:33.352] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:33.353] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9' } }
+[2021-01-14T01:13:34.089] [TRACE] Crawler - parsing
+[2021-01-14T01:13:35.889] [TRACE] Crawler - parsed: 600 total: 876
+[2021-01-14T01:13:35.891] [TRACE] Crawler - duration: 2.539 seconds, 573.589 seconds remaining.
+[2021-01-14T01:13:35.892] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11 (normalized)
+[2021-01-14T01:13:35.893] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:35.893] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10' } }
+[2021-01-14T01:13:36.592] [TRACE] Crawler - parsing
+[2021-01-14T01:13:38.441] [TRACE] Crawler - parsed: 660 total: 876
+[2021-01-14T01:13:38.444] [TRACE] Crawler - duration: 2.552 seconds, 571.036 seconds remaining.
+[2021-01-14T01:13:38.445] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12 (normalized)
+[2021-01-14T01:13:38.446] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:38.447] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11' } }
+[2021-01-14T01:13:39.278] [TRACE] Crawler - parsing
+[2021-01-14T01:13:40.972] [TRACE] Crawler - parsed: 720 total: 876
+[2021-01-14T01:13:40.974] [TRACE] Crawler - duration: 2.528 seconds, 568.506 seconds remaining.
+[2021-01-14T01:13:40.975] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13 (normalized)
+[2021-01-14T01:13:40.976] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:40.976] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12' } }
+[2021-01-14T01:13:41.734] [TRACE] Crawler - parsing
+[2021-01-14T01:13:43.458] [TRACE] Crawler - parsed: 780 total: 876
+[2021-01-14T01:13:43.459] [TRACE] Crawler - duration: 2.484 seconds, 566.02 seconds remaining.
+[2021-01-14T01:13:43.461] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14 (normalized)
+[2021-01-14T01:13:43.461] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:43.462] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13' } }
+[2021-01-14T01:13:44.121] [TRACE] Crawler - parsing
+[2021-01-14T01:13:45.884] [TRACE] Crawler - parsed: 840 total: 876
+[2021-01-14T01:13:45.886] [TRACE] Crawler - duration: 2.425 seconds, 563.594 seconds remaining.
+[2021-01-14T01:13:45.887] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=15 (normalized)
+[2021-01-14T01:13:45.888] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:45.889] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14' } }
+[2021-01-14T01:13:46.574] [TRACE] Crawler - parsing
+[2021-01-14T01:13:47.995] [TRACE] Crawler - parsed: 876 total: 876
+[2021-01-14T01:13:47.997] [TRACE] Crawler - duration: 2.11 seconds, 561.483 seconds remaining.
+[2021-01-14T01:13:48.128] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:13:48.128] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:13:53.145] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:13:53.147] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:53.148] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:13:55.099] [TRACE] Crawler - parsing
+[2021-01-14T01:13:56.879] [TRACE] Crawler - parsed: 60 total: 876
+[2021-01-14T01:13:56.881] [TRACE] Crawler - duration: 3.736 seconds, 552.599 seconds remaining.
+[2021-01-14T01:13:56.882] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:13:56.883] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:56.884] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:13:57.679] [TRACE] Crawler - parsing
+[2021-01-14T01:13:59.536] [TRACE] Crawler - parsed: 120 total: 876
+[2021-01-14T01:13:59.537] [TRACE] Crawler - duration: 2.655 seconds, 549.942 seconds remaining.
+[2021-01-14T01:13:59.539] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:13:59.539] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:13:59.540] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:14:00.310] [TRACE] Crawler - parsing
+[2021-01-14T01:14:02.084] [TRACE] Crawler - parsed: 180 total: 876
+[2021-01-14T01:14:02.086] [TRACE] Crawler - duration: 2.547 seconds, 547.394 seconds remaining.
+[2021-01-14T01:14:02.087] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:14:02.088] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:02.089] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:14:02.830] [TRACE] Crawler - parsing
+[2021-01-14T01:14:04.741] [TRACE] Crawler - parsed: 240 total: 876
+[2021-01-14T01:14:04.744] [TRACE] Crawler - duration: 2.655 seconds, 544.737 seconds remaining.
+[2021-01-14T01:14:04.745] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:14:04.745] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:04.746] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:14:05.522] [TRACE] Crawler - parsing
+[2021-01-14T01:14:07.177] [TRACE] Crawler - parsed: 300 total: 876
+[2021-01-14T01:14:07.178] [TRACE] Crawler - duration: 2.434 seconds, 542.301 seconds remaining.
+[2021-01-14T01:14:07.180] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:14:07.181] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:07.182] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:14:08.037] [TRACE] Crawler - parsing
+[2021-01-14T01:14:09.767] [TRACE] Crawler - parsed: 360 total: 876
+[2021-01-14T01:14:09.768] [TRACE] Crawler - duration: 2.589 seconds, 539.711 seconds remaining.
+[2021-01-14T01:14:09.770] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:14:09.771] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:09.771] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:14:10.506] [TRACE] Crawler - parsing
+[2021-01-14T01:14:12.248] [TRACE] Crawler - parsed: 420 total: 876
+[2021-01-14T01:14:12.250] [TRACE] Crawler - duration: 2.48 seconds, 537.23 seconds remaining.
+[2021-01-14T01:14:12.251] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:14:12.252] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:12.252] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:14:12.994] [TRACE] Crawler - parsing
+[2021-01-14T01:14:14.762] [TRACE] Crawler - parsed: 480 total: 876
+[2021-01-14T01:14:14.763] [TRACE] Crawler - duration: 2.512 seconds, 534.717 seconds remaining.
+[2021-01-14T01:14:14.765] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-14T01:14:14.765] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:14.766] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=8' } }
+[2021-01-14T01:14:15.538] [TRACE] Crawler - parsing
+[2021-01-14T01:14:17.196] [TRACE] Crawler - parsed: 540 total: 876
+[2021-01-14T01:14:17.198] [TRACE] Crawler - duration: 2.433 seconds, 532.282 seconds remaining.
+[2021-01-14T01:14:17.199] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-14T01:14:17.200] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:17.201] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=9' } }
+[2021-01-14T01:14:17.975] [TRACE] Crawler - parsing
+[2021-01-14T01:14:19.744] [TRACE] Crawler - parsed: 600 total: 876
+[2021-01-14T01:14:19.745] [TRACE] Crawler - duration: 2.545 seconds, 529.735 seconds remaining.
+[2021-01-14T01:14:19.747] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11 (normalized)
+[2021-01-14T01:14:19.747] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:19.748] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=10' } }
+[2021-01-14T01:14:20.560] [TRACE] Crawler - parsing
+[2021-01-14T01:14:22.337] [TRACE] Crawler - parsed: 660 total: 876
+[2021-01-14T01:14:22.339] [TRACE] Crawler - duration: 2.592 seconds, 527.141 seconds remaining.
+[2021-01-14T01:14:22.340] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12 (normalized)
+[2021-01-14T01:14:22.341] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:22.341] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=11' } }
+[2021-01-14T01:14:23.118] [TRACE] Crawler - parsing
+[2021-01-14T01:14:24.893] [TRACE] Crawler - parsed: 720 total: 876
+[2021-01-14T01:14:24.895] [TRACE] Crawler - duration: 2.555 seconds, 524.585 seconds remaining.
+[2021-01-14T01:14:24.896] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13 (normalized)
+[2021-01-14T01:14:24.897] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:24.897] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=12' } }
+[2021-01-14T01:14:25.644] [TRACE] Crawler - parsing
+[2021-01-14T01:14:27.424] [TRACE] Crawler - parsed: 780 total: 876
+[2021-01-14T01:14:27.426] [TRACE] Crawler - duration: 2.53 seconds, 522.054 seconds remaining.
+[2021-01-14T01:14:27.427] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14 (normalized)
+[2021-01-14T01:14:27.428] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:27.428] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=13' } }
+[2021-01-14T01:14:28.342] [TRACE] Crawler - parsing
+[2021-01-14T01:14:30.144] [TRACE] Crawler - parsed: 840 total: 876
+[2021-01-14T01:14:30.146] [TRACE] Crawler - duration: 2.718 seconds, 519.334 seconds remaining.
+[2021-01-14T01:14:30.147] [DEBUG] Crawler - https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=15 (normalized)
+[2021-01-14T01:14:30.148] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:30.148] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/marmot-brand.html?_iv_sort=alphabetically&_iv_page=14' } }
+[2021-01-14T01:14:30.809] [TRACE] Crawler - parsing
+[2021-01-14T01:14:32.226] [TRACE] Crawler - parsed: 876 total: 876
+[2021-01-14T01:14:32.228] [TRACE] Crawler - duration: 2.08 seconds, 517.252 seconds remaining.
+[2021-01-14T01:14:32.363] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:14:32.365] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:14:32.366] [INFO] Crawler - 876 items in the previous list, and 876 items in the latest list.
+[2021-01-14T01:14:32.570] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:14:32.571] [INFO] Crawler - Finish https://www.campsaver.com/marmot-brand.html 
+
+[2021-01-14T01:14:32.578] [INFO] Crawler - Process https://www.campsaver.com/fjallraven-brand.html by Campsaver crawler, deadline: 01:24
+[2021-01-14T01:14:32.592] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:14:32.593] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:32.594] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:14:37.553] [TRACE] Crawler - parsing
+[2021-01-14T01:14:39.235] [TRACE] Crawler - parsed: 60 total: 443
+[2021-01-14T01:14:39.237] [TRACE] Crawler - duration: 6.658 seconds, 593.341 seconds remaining.
+[2021-01-14T01:14:39.238] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:14:39.239] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:39.240] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:14:41.580] [TRACE] Crawler - parsing
+[2021-01-14T01:14:43.292] [TRACE] Crawler - parsed: 120 total: 443
+[2021-01-14T01:14:43.294] [TRACE] Crawler - duration: 4.056 seconds, 589.284 seconds remaining.
+[2021-01-14T01:14:43.295] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:14:43.296] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:43.297] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:14:45.142] [TRACE] Crawler - parsing
+[2021-01-14T01:14:46.929] [TRACE] Crawler - parsed: 180 total: 443
+[2021-01-14T01:14:46.933] [TRACE] Crawler - duration: 3.635 seconds, 585.647 seconds remaining.
+[2021-01-14T01:14:46.934] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:14:46.935] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:46.936] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:14:48.527] [TRACE] Crawler - parsing
+[2021-01-14T01:14:50.112] [TRACE] Crawler - parsed: 240 total: 443
+[2021-01-14T01:14:50.114] [TRACE] Crawler - duration: 3.179 seconds, 582.464 seconds remaining.
+[2021-01-14T01:14:50.115] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:14:50.116] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:50.117] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:14:51.431] [TRACE] Crawler - parsing
+[2021-01-14T01:14:53.156] [TRACE] Crawler - parsed: 300 total: 443
+[2021-01-14T01:14:53.158] [TRACE] Crawler - duration: 3.042 seconds, 579.42 seconds remaining.
+[2021-01-14T01:14:53.159] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:14:53.159] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:53.160] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:14:54.527] [TRACE] Crawler - parsing
+[2021-01-14T01:14:56.245] [TRACE] Crawler - parsed: 360 total: 443
+[2021-01-14T01:14:56.248] [TRACE] Crawler - duration: 3.088 seconds, 576.331 seconds remaining.
+[2021-01-14T01:14:56.249] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:14:56.249] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:56.250] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:14:57.704] [TRACE] Crawler - parsing
+[2021-01-14T01:14:59.380] [TRACE] Crawler - parsed: 420 total: 443
+[2021-01-14T01:14:59.382] [TRACE] Crawler - duration: 3.133 seconds, 573.196 seconds remaining.
+[2021-01-14T01:14:59.383] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:14:59.384] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:14:59.384] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:15:00.486] [TRACE] Crawler - parsing
+[2021-01-14T01:15:01.699] [TRACE] Crawler - parsed: 443 total: 443
+[2021-01-14T01:15:01.701] [TRACE] Crawler - duration: 2.318 seconds, 570.877 seconds remaining.
+[2021-01-14T01:15:01.748] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:15:01.749] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:15:06.766] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-14T01:15:06.767] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:06.768] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:15:08.982] [TRACE] Crawler - parsing
+[2021-01-14T01:15:10.689] [TRACE] Crawler - parsed: 60 total: 443
+[2021-01-14T01:15:10.691] [TRACE] Crawler - duration: 3.925 seconds, 561.887 seconds remaining.
+[2021-01-14T01:15:10.692] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-14T01:15:10.693] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:10.694] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically' } }
+[2021-01-14T01:15:15.151] [TRACE] Crawler - parsing
+[2021-01-14T01:15:17.218] [TRACE] Crawler - parsed: 120 total: 443
+[2021-01-14T01:15:17.221] [TRACE] Crawler - duration: 6.527 seconds, 555.358 seconds remaining.
+[2021-01-14T01:15:17.222] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-14T01:15:17.222] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:17.223] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=2' } }
+[2021-01-14T01:15:18.557] [TRACE] Crawler - parsing
+[2021-01-14T01:15:20.444] [TRACE] Crawler - parsed: 180 total: 443
+[2021-01-14T01:15:20.453] [TRACE] Crawler - duration: 3.231 seconds, 552.125 seconds remaining.
+[2021-01-14T01:15:20.454] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-14T01:15:20.454] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:20.455] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=3' } }
+[2021-01-14T01:15:21.883] [TRACE] Crawler - parsing
+[2021-01-14T01:15:23.551] [TRACE] Crawler - parsed: 240 total: 443
+[2021-01-14T01:15:23.553] [TRACE] Crawler - duration: 3.099 seconds, 549.025 seconds remaining.
+[2021-01-14T01:15:23.555] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-14T01:15:23.555] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:23.556] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=4' } }
+[2021-01-14T01:15:24.969] [TRACE] Crawler - parsing
+[2021-01-14T01:15:26.724] [TRACE] Crawler - parsed: 300 total: 443
+[2021-01-14T01:15:26.725] [TRACE] Crawler - duration: 3.17 seconds, 545.853 seconds remaining.
+[2021-01-14T01:15:26.726] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-14T01:15:26.727] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:26.727] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=5' } }
+[2021-01-14T01:15:28.176] [TRACE] Crawler - parsing
+[2021-01-14T01:15:29.933] [TRACE] Crawler - parsed: 360 total: 443
+[2021-01-14T01:15:29.936] [TRACE] Crawler - duration: 3.208 seconds, 542.643 seconds remaining.
+[2021-01-14T01:15:29.937] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-14T01:15:29.937] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:29.938] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=6' } }
+[2021-01-14T01:15:31.349] [TRACE] Crawler - parsing
+[2021-01-14T01:15:33.137] [TRACE] Crawler - parsed: 420 total: 443
+[2021-01-14T01:15:33.139] [TRACE] Crawler - duration: 3.202 seconds, 539.439 seconds remaining.
+[2021-01-14T01:15:33.140] [DEBUG] Crawler - https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-14T01:15:33.141] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:33.141] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.campsaver.com/fjallraven-brand.html?_iv_sort=alphabetically&_iv_page=7' } }
+[2021-01-14T01:15:34.559] [TRACE] Crawler - parsing
+[2021-01-14T01:15:35.715] [TRACE] Crawler - parsed: 443 total: 443
+[2021-01-14T01:15:35.717] [TRACE] Crawler - duration: 2.576 seconds, 536.861 seconds remaining.
+[2021-01-14T01:15:35.764] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:15:35.765] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:15:35.766] [INFO] Crawler - 443 items in the previous list, and 443 items in the latest list.
+[2021-01-14T01:15:35.870] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:15:35.870] [INFO] Crawler - Finish https://www.campsaver.com/fjallraven-brand.html 
+
+[2021-01-14T01:15:35.873] [INFO] Crawler - Process https://www.mountainsteals.com/search/arcteryx by Mountain Steals crawler, deadline: 01:25
+[2021-01-14T01:15:35.874] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:15:35.875] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:35.876] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:15:42.053] [TRACE] Crawler - parsing
+[2021-01-14T01:15:43.678] [TRACE] Crawler - parsed: 48 total: 96
+[2021-01-14T01:15:43.680] [TRACE] Crawler - duration: 7.805 seconds, 592.193 seconds remaining.
+[2021-01-14T01:15:43.681] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:15:43.682] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:43.683] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:15:47.830] [TRACE] Crawler - parsing
+[2021-01-14T01:15:49.634] [TRACE] Crawler - parsed: 96 total: 96
+[2021-01-14T01:15:49.637] [TRACE] Crawler - duration: 5.954 seconds, 586.237 seconds remaining.
+[2021-01-14T01:15:49.646] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:15:49.646] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:15:54.663] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:15:54.665] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:15:54.666] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:15:58.449] [TRACE] Crawler - parsing
+[2021-01-14T01:16:00.193] [TRACE] Crawler - parsed: 48 total: 96
+[2021-01-14T01:16:00.195] [TRACE] Crawler - duration: 5.531 seconds, 575.678 seconds remaining.
+[2021-01-14T01:16:00.197] [DEBUG] Crawler - https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:16:00.197] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:00.198] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/arcteryx?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:16:04.188] [TRACE] Crawler - parsing
+[2021-01-14T01:16:05.807] [TRACE] Crawler - parsed: 96 total: 96
+[2021-01-14T01:16:05.809] [TRACE] Crawler - duration: 5.612 seconds, 570.064 seconds remaining.
+[2021-01-14T01:16:05.818] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:16:05.819] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:16:05.819] [INFO] Crawler - 96 items in the previous list, and 96 items in the latest list.
+[2021-01-14T01:16:05.827] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:16:05.828] [INFO] Crawler - Finish https://www.mountainsteals.com/search/arcteryx 
+
+[2021-01-14T01:16:05.830] [INFO] Crawler - Process https://www.mountainsteals.com/search/mammut by Mountain Steals crawler, deadline: 01:26
+[2021-01-14T01:16:05.832] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:16:05.832] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:05.833] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:16:11.660] [TRACE] Crawler - parsing
+[2021-01-14T01:16:13.087] [TRACE] Crawler - parsed: 48 total: 122
+[2021-01-14T01:16:13.089] [TRACE] Crawler - duration: 7.257 seconds, 592.741 seconds remaining.
+[2021-01-14T01:16:13.090] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:16:13.091] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:13.092] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:16:16.746] [TRACE] Crawler - parsing
+[2021-01-14T01:16:18.151] [TRACE] Crawler - parsed: 96 total: 122
+[2021-01-14T01:16:18.152] [TRACE] Crawler - duration: 5.062 seconds, 587.677 seconds remaining.
+[2021-01-14T01:16:18.154] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:16:18.154] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:18.155] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:16:21.610] [TRACE] Crawler - parsing
+[2021-01-14T01:16:22.868] [TRACE] Crawler - parsed: 122 total: 122
+[2021-01-14T01:16:22.871] [TRACE] Crawler - duration: 4.716 seconds, 582.96 seconds remaining.
+[2021-01-14T01:16:22.880] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:16:22.881] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:16:27.895] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:16:27.896] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:27.896] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:16:31.325] [TRACE] Crawler - parsing
+[2021-01-14T01:16:32.822] [TRACE] Crawler - parsed: 48 total: 122
+[2021-01-14T01:16:32.824] [TRACE] Crawler - duration: 4.929 seconds, 573.006 seconds remaining.
+[2021-01-14T01:16:32.825] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:16:32.826] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:32.826] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:16:36.732] [TRACE] Crawler - parsing
+[2021-01-14T01:16:38.199] [TRACE] Crawler - parsed: 96 total: 122
+[2021-01-14T01:16:38.200] [TRACE] Crawler - duration: 5.375 seconds, 567.63 seconds remaining.
+[2021-01-14T01:16:38.201] [DEBUG] Crawler - https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:16:38.202] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:38.203] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mammut?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:16:42.152] [TRACE] Crawler - parsing
+[2021-01-14T01:16:43.319] [TRACE] Crawler - parsed: 122 total: 122
+[2021-01-14T01:16:43.321] [TRACE] Crawler - duration: 5.119 seconds, 562.509 seconds remaining.
+[2021-01-14T01:16:43.331] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:16:43.332] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:16:43.332] [INFO] Crawler - 122 items in the previous list, and 122 items in the latest list.
+[2021-01-14T01:16:43.344] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:16:43.345] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mammut 
+
+[2021-01-14T01:16:43.346] [INFO] Crawler - Process https://www.mountainsteals.com/search/msr by Mountain Steals crawler, deadline: 01:26
+[2021-01-14T01:16:43.347] [DEBUG] Crawler - https://www.mountainsteals.com/search/msr?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:16:43.348] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:43.349] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:16:46.736] [TRACE] Crawler - parsing
+[2021-01-14T01:16:47.815] [TRACE] Crawler - parsed: 33 total: 33
+[2021-01-14T01:16:47.817] [TRACE] Crawler - duration: 4.469 seconds, 595.53 seconds remaining.
+[2021-01-14T01:16:47.820] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:16:47.820] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:16:52.838] [DEBUG] Crawler - https://www.mountainsteals.com/search/msr?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:16:52.839] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:52.840] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:16:55.627] [TRACE] Crawler - parsing
+[2021-01-14T01:16:56.917] [TRACE] Crawler - parsed: 33 total: 33
+[2021-01-14T01:16:56.919] [TRACE] Crawler - duration: 4.081 seconds, 586.428 seconds remaining.
+[2021-01-14T01:16:56.921] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:16:56.922] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:16:56.922] [INFO] Crawler - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-14T01:16:56.924] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:16:56.925] [INFO] Crawler - Finish https://www.mountainsteals.com/search/msr 
+
+[2021-01-14T01:16:56.927] [INFO] Crawler - Process https://www.mountainsteals.com/search/marmot by Mountain Steals crawler, deadline: 01:26
+[2021-01-14T01:16:56.928] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:16:56.929] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:16:56.929] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:17:01.053] [TRACE] Crawler - parsing
+[2021-01-14T01:17:02.648] [TRACE] Crawler - parsed: 48 total: 271
+[2021-01-14T01:17:02.649] [TRACE] Crawler - duration: 5.72 seconds, 594.279 seconds remaining.
+[2021-01-14T01:17:02.651] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:17:02.652] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:02.653] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:17:08.163] [TRACE] Crawler - parsing
+[2021-01-14T01:17:09.662] [TRACE] Crawler - parsed: 96 total: 271
+[2021-01-14T01:17:09.664] [TRACE] Crawler - duration: 7.013 seconds, 587.264 seconds remaining.
+[2021-01-14T01:17:09.666] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:17:09.667] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:09.667] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:17:13.089] [TRACE] Crawler - parsing
+[2021-01-14T01:17:14.594] [TRACE] Crawler - parsed: 144 total: 271
+[2021-01-14T01:17:14.596] [TRACE] Crawler - duration: 4.93 seconds, 582.332 seconds remaining.
+[2021-01-14T01:17:14.597] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144 (normalized)
+[2021-01-14T01:17:14.598] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:14.599] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96' } }
+[2021-01-14T01:17:18.963] [TRACE] Crawler - parsing
+[2021-01-14T01:17:20.638] [TRACE] Crawler - parsed: 192 total: 271
+[2021-01-14T01:17:20.640] [TRACE] Crawler - duration: 6.042 seconds, 576.288 seconds remaining.
+[2021-01-14T01:17:20.642] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192 (normalized)
+[2021-01-14T01:17:20.643] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:20.644] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144' } }
+[2021-01-14T01:17:24.524] [TRACE] Crawler - parsing
+[2021-01-14T01:17:26.097] [TRACE] Crawler - parsed: 240 total: 271
+[2021-01-14T01:17:26.098] [TRACE] Crawler - duration: 5.456 seconds, 570.83 seconds remaining.
+[2021-01-14T01:17:26.100] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=240 (normalized)
+[2021-01-14T01:17:26.100] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:26.101] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192' } }
+[2021-01-14T01:17:30.025] [TRACE] Crawler - parsing
+[2021-01-14T01:17:31.338] [TRACE] Crawler - parsed: 271 total: 271
+[2021-01-14T01:17:31.339] [TRACE] Crawler - duration: 5.24 seconds, 565.588 seconds remaining.
+[2021-01-14T01:17:31.363] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:17:31.364] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:17:36.382] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:17:36.383] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:36.384] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:17:40.306] [TRACE] Crawler - parsing
+[2021-01-14T01:17:41.787] [TRACE] Crawler - parsed: 48 total: 271
+[2021-01-14T01:17:41.789] [TRACE] Crawler - duration: 5.407 seconds, 555.139 seconds remaining.
+[2021-01-14T01:17:41.790] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:17:41.791] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:41.792] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:17:45.752] [TRACE] Crawler - parsing
+[2021-01-14T01:17:47.388] [TRACE] Crawler - parsed: 96 total: 271
+[2021-01-14T01:17:47.390] [TRACE] Crawler - duration: 5.6 seconds, 549.538 seconds remaining.
+[2021-01-14T01:17:47.392] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:17:47.393] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:47.394] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:17:52.306] [TRACE] Crawler - parsing
+[2021-01-14T01:17:53.919] [TRACE] Crawler - parsed: 144 total: 271
+[2021-01-14T01:17:53.921] [TRACE] Crawler - duration: 6.529 seconds, 543.007 seconds remaining.
+[2021-01-14T01:17:53.922] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144 (normalized)
+[2021-01-14T01:17:53.923] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:17:53.923] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96' } }
+[2021-01-14T01:17:58.839] [TRACE] Crawler - parsing
+[2021-01-14T01:18:00.356] [TRACE] Crawler - parsed: 192 total: 271
+[2021-01-14T01:18:00.358] [TRACE] Crawler - duration: 6.435 seconds, 536.57 seconds remaining.
+[2021-01-14T01:18:00.359] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192 (normalized)
+[2021-01-14T01:18:00.360] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:00.360] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144' } }
+[2021-01-14T01:18:04.624] [TRACE] Crawler - parsing
+[2021-01-14T01:18:06.108] [TRACE] Crawler - parsed: 240 total: 271
+[2021-01-14T01:18:06.110] [TRACE] Crawler - duration: 5.751 seconds, 530.818 seconds remaining.
+[2021-01-14T01:18:06.111] [DEBUG] Crawler - https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=240 (normalized)
+[2021-01-14T01:18:06.112] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:06.112] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/marmot?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192' } }
+[2021-01-14T01:18:10.494] [TRACE] Crawler - parsing
+[2021-01-14T01:18:11.882] [TRACE] Crawler - parsed: 271 total: 271
+[2021-01-14T01:18:11.885] [TRACE] Crawler - duration: 5.773 seconds, 525.044 seconds remaining.
+[2021-01-14T01:18:11.911] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:18:11.912] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:18:11.912] [INFO] Crawler - 271 items in the previous list, and 271 items in the latest list.
+[2021-01-14T01:18:11.949] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:18:11.950] [INFO] Crawler - Finish https://www.mountainsteals.com/search/marmot 
+
+[2021-01-14T01:18:11.952] [INFO] Crawler - Process https://www.mountainsteals.com/search/mountain-hardwear by Mountain Steals crawler, deadline: 01:28
+[2021-01-14T01:18:11.953] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:18:11.954] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:11.955] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:18:15.825] [TRACE] Crawler - parsing
+[2021-01-14T01:18:17.371] [TRACE] Crawler - parsed: 48 total: 288
+[2021-01-14T01:18:17.372] [TRACE] Crawler - duration: 5.419 seconds, 594.58 seconds remaining.
+[2021-01-14T01:18:17.373] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:18:17.374] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:17.375] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:18:21.208] [TRACE] Crawler - parsing
+[2021-01-14T01:18:22.696] [TRACE] Crawler - parsed: 96 total: 288
+[2021-01-14T01:18:22.698] [TRACE] Crawler - duration: 5.324 seconds, 589.255 seconds remaining.
+[2021-01-14T01:18:22.699] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:18:22.700] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:22.700] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:18:26.480] [TRACE] Crawler - parsing
+[2021-01-14T01:18:27.962] [TRACE] Crawler - parsed: 144 total: 288
+[2021-01-14T01:18:27.964] [TRACE] Crawler - duration: 5.264 seconds, 583.989 seconds remaining.
+[2021-01-14T01:18:27.965] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144 (normalized)
+[2021-01-14T01:18:27.966] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:27.966] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96' } }
+[2021-01-14T01:18:31.880] [TRACE] Crawler - parsing
+[2021-01-14T01:18:33.551] [TRACE] Crawler - parsed: 192 total: 288
+[2021-01-14T01:18:33.553] [TRACE] Crawler - duration: 5.588 seconds, 578.4 seconds remaining.
+[2021-01-14T01:18:33.554] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192 (normalized)
+[2021-01-14T01:18:33.555] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:33.556] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144' } }
+[2021-01-14T01:18:37.264] [TRACE] Crawler - parsing
+[2021-01-14T01:18:38.839] [TRACE] Crawler - parsed: 240 total: 288
+[2021-01-14T01:18:38.841] [TRACE] Crawler - duration: 5.286 seconds, 573.112 seconds remaining.
+[2021-01-14T01:18:38.842] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=240 (normalized)
+[2021-01-14T01:18:38.843] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:38.843] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192' } }
+[2021-01-14T01:18:43.300] [TRACE] Crawler - parsing
+[2021-01-14T01:18:44.805] [TRACE] Crawler - parsed: 288 total: 288
+[2021-01-14T01:18:44.806] [TRACE] Crawler - duration: 5.965 seconds, 567.146 seconds remaining.
+[2021-01-14T01:18:44.833] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:18:44.833] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:18:49.848] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:18:49.849] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:49.849] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:18:54.676] [TRACE] Crawler - parsing
+[2021-01-14T01:18:56.175] [TRACE] Crawler - parsed: 48 total: 288
+[2021-01-14T01:18:56.176] [TRACE] Crawler - duration: 6.327 seconds, 555.777 seconds remaining.
+[2021-01-14T01:18:56.178] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:18:56.179] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:18:56.179] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:19:00.339] [TRACE] Crawler - parsing
+[2021-01-14T01:19:01.940] [TRACE] Crawler - parsed: 96 total: 288
+[2021-01-14T01:19:01.943] [TRACE] Crawler - duration: 5.764 seconds, 550.011 seconds remaining.
+[2021-01-14T01:19:01.944] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:19:01.945] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:01.946] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:19:06.935] [TRACE] Crawler - parsing
+[2021-01-14T01:19:08.515] [TRACE] Crawler - parsed: 144 total: 288
+[2021-01-14T01:19:08.516] [TRACE] Crawler - duration: 6.572 seconds, 543.437 seconds remaining.
+[2021-01-14T01:19:08.517] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144 (normalized)
+[2021-01-14T01:19:08.518] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:08.518] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96' } }
+[2021-01-14T01:19:13.073] [TRACE] Crawler - parsing
+[2021-01-14T01:19:14.592] [TRACE] Crawler - parsed: 192 total: 288
+[2021-01-14T01:19:14.593] [TRACE] Crawler - duration: 6.076 seconds, 537.359 seconds remaining.
+[2021-01-14T01:19:14.595] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192 (normalized)
+[2021-01-14T01:19:14.595] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:14.596] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=144' } }
+[2021-01-14T01:19:19.090] [TRACE] Crawler - parsing
+[2021-01-14T01:19:20.568] [TRACE] Crawler - parsed: 240 total: 288
+[2021-01-14T01:19:20.569] [TRACE] Crawler - duration: 5.974 seconds, 531.384 seconds remaining.
+[2021-01-14T01:19:20.570] [DEBUG] Crawler - https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=240 (normalized)
+[2021-01-14T01:19:20.571] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:20.572] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/mountain-hardwear?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=192' } }
+[2021-01-14T01:19:25.106] [TRACE] Crawler - parsing
+[2021-01-14T01:19:26.746] [TRACE] Crawler - parsed: 288 total: 288
+[2021-01-14T01:19:26.788] [TRACE] Crawler - duration: 6.177 seconds, 525.205 seconds remaining.
+[2021-01-14T01:19:26.817] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:19:26.818] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:19:26.819] [INFO] Crawler - 288 items in the previous list, and 288 items in the latest list.
+[2021-01-14T01:19:26.862] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:19:26.863] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mountain-hardwear 
+
+[2021-01-14T01:19:26.865] [INFO] Crawler - Process https://www.mountainsteals.com/search/black-diamond by Mountain Steals crawler, deadline: 01:29
+[2021-01-14T01:19:26.866] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:19:26.867] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:26.868] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:19:30.781] [TRACE] Crawler - parsing
+[2021-01-14T01:19:32.316] [TRACE] Crawler - parsed: 48 total: 99
+[2021-01-14T01:19:32.318] [TRACE] Crawler - duration: 5.451 seconds, 594.547 seconds remaining.
+[2021-01-14T01:19:32.319] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:19:32.320] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:32.321] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:19:36.489] [TRACE] Crawler - parsing
+[2021-01-14T01:19:37.930] [TRACE] Crawler - parsed: 96 total: 99
+[2021-01-14T01:19:37.932] [TRACE] Crawler - duration: 5.613 seconds, 588.933 seconds remaining.
+[2021-01-14T01:19:37.933] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:19:37.934] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:37.935] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:19:41.088] [TRACE] Crawler - parsing
+[2021-01-14T01:19:41.952] [TRACE] Crawler - parsed: 99 total: 99
+[2021-01-14T01:19:41.953] [TRACE] Crawler - duration: 4.02 seconds, 584.912 seconds remaining.
+[2021-01-14T01:19:41.957] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:19:41.958] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:19:46.968] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:19:46.969] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:46.970] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:19:51.105] [TRACE] Crawler - parsing
+[2021-01-14T01:19:52.597] [TRACE] Crawler - parsed: 48 total: 99
+[2021-01-14T01:19:52.599] [TRACE] Crawler - duration: 5.631 seconds, 574.266 seconds remaining.
+[2021-01-14T01:19:52.604] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-14T01:19:52.605] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:52.606] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false' } }
+[2021-01-14T01:19:57.110] [TRACE] Crawler - parsing
+[2021-01-14T01:19:58.488] [TRACE] Crawler - parsed: 96 total: 99
+[2021-01-14T01:19:58.490] [TRACE] Crawler - duration: 5.885 seconds, 568.375 seconds remaining.
+[2021-01-14T01:19:58.491] [DEBUG] Crawler - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-14T01:19:58.492] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:19:58.492] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } },
+  headers:
+   { Referer:
+      'https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48' } }
+[2021-01-14T01:20:01.783] [TRACE] Crawler - parsing
+[2021-01-14T01:20:02.577] [TRACE] Crawler - parsed: 99 total: 99
+[2021-01-14T01:20:02.579] [TRACE] Crawler - duration: 4.088 seconds, 564.286 seconds remaining.
+[2021-01-14T01:20:02.585] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:20:02.586] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:20:02.587] [INFO] Crawler - 99 items in the previous list, and 99 items in the latest list.
+[2021-01-14T01:20:02.595] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:20:02.595] [INFO] Crawler - Finish https://www.mountainsteals.com/search/black-diamond 
+
+[2021-01-14T01:20:02.596] [INFO] Crawler - Process https://www.mountainsteals.com/search/mystery-ranch by Mountain Steals crawler, deadline: 01:30
+[2021-01-14T01:20:02.598] [DEBUG] Crawler - https://www.mountainsteals.com/search/mystery-ranch?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:20:02.598] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:20:02.599] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:20:08.256] [TRACE] Crawler - parsing
+[2021-01-14T01:20:09.495] [TRACE] Crawler - parsed: 36 total: 36
+[2021-01-14T01:20:09.497] [TRACE] Crawler - duration: 6.899 seconds, 593.1 seconds remaining.
+[2021-01-14T01:20:09.500] [DEBUG] Crawler - consistency check: init
+[2021-01-14T01:20:09.500] [TRACE] Crawler - wait 5 seconds
+[2021-01-14T01:20:14.517] [DEBUG] Crawler - https://www.mountainsteals.com/search/mystery-ranch?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-14T01:20:14.518] [TRACE] Crawler - fetching(axios)
+[2021-01-14T01:20:14.518] [DEBUG] Crawler - { cancelToken: CancelToken { promise: Promise { <pending> } } }
+[2021-01-14T01:20:18.707] [TRACE] Crawler - parsing
+[2021-01-14T01:20:19.929] [TRACE] Crawler - parsed: 36 total: 36
+[2021-01-14T01:20:19.930] [TRACE] Crawler - duration: 5.413 seconds, 582.667 seconds remaining.
+[2021-01-14T01:20:19.976] [DEBUG] Crawler - consistency check: (1/1), pass
+[2021-01-14T01:20:19.977] [DEBUG] Crawler - consistency check: all pass
+[2021-01-14T01:20:19.977] [INFO] Crawler - 36 items in the previous list, and 36 items in the latest list.
+[2021-01-14T01:20:19.979] [INFO] Crawler - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-14T01:20:19.980] [INFO] Crawler - Finish https://www.mountainsteals.com/search/mystery-ranch 
+
