@@ -20151,3 +20151,877 @@
 [2021-01-30T12:51:19.066] [INFO] Crawler-15 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
 [2021-01-30T12:51:19.069] [INFO] Crawler-15 - Finish https://www.campsaver.com/mammut-brand.html in 172.645 seconds 
 
+[2021-01-30T12:51:19.173] [DEBUG] Git - write to /home/ubuntu/crawler/repo/products.json
+[2021-01-30T12:51:24.907] [INFO] Git - commit...
+[2021-01-30T12:51:25.542] [INFO] Git - commited
+[2021-01-30T12:51:25.544] [INFO] Git - pushing...
+[2021-01-30T12:51:31.084] [INFO] Git - pushed
+[2021-01-30T12:51:31.087] [INFO] Emailer - Dispatching to users...
+[2021-01-30T12:51:31.088] [INFO] Emailer - shieh.npin@gmail.com dispatching...
+[2021-01-30T12:51:31.090] [INFO] Emailer - Site: https://www.rei.com/used/shop/search?condition=Excellent%20condition&q=Fjallraven 
+[2021-01-30T12:51:31.091] [INFO] Emailer - unchanged
+[2021-01-30T12:51:31.092] [INFO] Emailer - Site: https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx 
+[2021-01-30T12:51:31.094] [INFO] Emailer - unchanged
+[2021-01-30T12:51:31.096] [INFO] Emailer - Site: https://www.rei.com/search?q=marmot&ir=q%3Amarmot 
+[2021-01-30T12:51:31.097] [INFO] Emailer - unchanged
+[2021-01-30T12:51:31.098] [INFO] Emailer - Site: https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals 
+[2021-01-30T12:51:31.100] [DEBUG] Emailer - Url: https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals
+[2021-01-30T12:51:31.101] [DEBUG] Emailer - Type: [ 'added', 'updated' ]
+[2021-01-30T12:51:31.107] [DEBUG] Emailer - Title: .*
+[2021-01-30T12:51:31.109] [INFO] Emailer - found 2 event(s).
+[2021-01-30T12:51:31.112] [DEBUG] Emailer - mailing to shieh.npin@gmail.com
+[2021-01-30T12:51:33.591] [DEBUG] Emailer - mail sent
+[2021-01-30T12:51:33.593] [INFO] Emailer - Site: https://www.rei.com/used/b/arcteryx?condition=Excellent%20condition 
+[2021-01-30T12:51:33.595] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.596] [INFO] Emailer - Site: https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 
+[2021-01-30T12:51:33.598] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.600] [INFO] Emailer - Site: https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 
+[2021-01-30T12:51:33.601] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.603] [INFO] Emailer - Site: Fjallraven@MountainSteals (https://www.mountainsteals.com/search/fjallraven)
+[2021-01-30T12:51:33.605] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.607] [INFO] Emailer - Site: Mystery Ranch@Sierra (https://www.sierra.com/mystery-ranch~b~37083/)
+[2021-01-30T12:51:33.609] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.610] [INFO] Emailer - Site: Mammut@Sierra (https://www.sierra.com/mammut~b~3201/)
+[2021-01-30T12:51:33.612] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.613] [INFO] Emailer - Site: Thermarest@Sierra (https://www.sierra.com/therm-a-rest~b~3177/)
+[2021-01-30T12:51:33.615] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.616] [INFO] Emailer - Site: Outdoor-Research-Clearance@Sierra (https://www.sierra.com/s~outdoor-research/clearance~1/)
+[2021-01-30T12:51:33.618] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.619] [INFO] Emailer - Site: Arcteryx@steepandcheap (https://www.steepandcheap.com/arcteryx)
+[2021-01-30T12:51:33.620] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.622] [INFO] Emailer - Site: Mammut@steepandcheap (https://www.steepandcheap.com/mammut)
+[2021-01-30T12:51:33.623] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.624] [INFO] Emailer - Site: Arcteryx@campsaver (https://www.campsaver.com/arc-teryx-brand.html)
+[2021-01-30T12:51:33.625] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.626] [INFO] Emailer - Site: Mammut@campsaver (https://www.campsaver.com/mammut-brand.html)
+[2021-01-30T12:51:33.627] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.629] [INFO] Emailer - Site: Mystery Ranch@campsaver (https://www.campsaver.com/mystery-ranch-brand.html)
+[2021-01-30T12:51:33.630] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.632] [INFO] Emailer - Site: Black-diamond@mountainsteals (https://www.mountainsteals.com/search/black-diamond)
+[2021-01-30T12:51:33.634] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.635] [INFO] Emailer - Site: Mystery-ranch@mountainsteals (https://www.mountainsteals.com/search/mystery-ranch)
+[2021-01-30T12:51:33.637] [INFO] Emailer - unchanged
+[2021-01-30T12:51:33.638] [INFO] Emailer - shieh.npin@gmail.com dispatched. 
+
+[2021-01-30T12:51:33.639] [INFO] Emailer - All dispatched
+[2021-01-30T12:51:33.642] [INFO] Scheduler - Finish Run in 3.36 seconds
+[2021-01-30T13:00:00.024] [DEBUG] Scheduler - [Lock]
+[2021-01-30T13:00:00.026] [INFO] Scheduler - Start
+[2021-01-30T13:00:00.086] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-01-30T13:00:00.191] [INFO] Git - cloning...
+[2021-01-30T13:00:09.020] [INFO] Git - cloned
+[2021-01-30T13:00:09.528] [DEBUG] Scheduler - Load crawler setting {
+    "users": [
+        {
+            "email": "shieh.npin@gmail.com",
+            "sites": [
+                {
+                    "url": "https://www.rei.com/used/shop/search?condition=Excellent%20condition&q=Fjallraven"
+                },
+                {
+                    "url": "https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx"
+                },
+                {
+                    "url": "https://www.rei.com/search?q=marmot&ir=q%3Amarmot"
+                },
+                {
+                    "url": "https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals"
+                },
+                {
+                    "url": "https://www.rei.com/used/b/arcteryx?condition=Excellent%20condition"
+                },
+                {
+                    "url": "https://www.moosejaw.com/search/arcteryx/sale?orderBy=10"
+                },
+                {
+                    "url": "https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/fjallraven",
+                    "name": "Fjallraven@MountainSteals",
+                    "match": "(?=.*(Trekking))(?=.*(Tight))(?=.*(Women))(?=.*(Abisko))"
+                },
+                {
+                    "url": "https://www.sierra.com/mystery-ranch~b~37083/",
+                    "name": "Mystery Ranch@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/mammut~b~3201/",
+                    "name": "Mammut@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/therm-a-rest~b~3177/",
+                    "name": "Thermarest@Sierra"
+                },
+                {
+                    "url": "https://www.sierra.com/s~outdoor-research/clearance~1/",
+                    "name": "Outdoor-Research-Clearance@Sierra"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/arcteryx",
+                    "name": "Arcteryx@steepandcheap"
+                },
+                {
+                    "url": "https://www.steepandcheap.com/mammut",
+                    "name": "Mammut@steepandcheap"
+                },
+                {
+                    "url": "https://www.campsaver.com/arc-teryx-brand.html",
+                    "name": "Arcteryx@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mammut-brand.html",
+                    "name": "Mammut@campsaver"
+                },
+                {
+                    "url": "https://www.campsaver.com/mystery-ranch-brand.html",
+                    "name": "Mystery Ranch@campsaver"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/black-diamond",
+                    "name": "Black-diamond@mountainsteals"
+                },
+                {
+                    "url": "https://www.mountainsteals.com/search/mystery-ranch",
+                    "name": "Mystery-ranch@mountainsteals"
+                }
+            ]
+        }
+    ]
+}
+[2021-01-30T13:00:14.429] [INFO] Crawler-0 - Process https://www.rei.com/used/shop/search?condition=Excellent%20condition&q=Fjallraven by REI Used crawler, deadline: 13:10
+[2021-01-30T13:00:14.432] [DEBUG] Crawler-0 - https://www.rei.com/used/shop/search?condition=Excellent+condition&q=Fjallraven&sort=brand_a_z (normalized)
+[2021-01-30T13:00:14.435] [TRACE] Crawler-0 - fetching(puppeteer)
+[2021-01-30T13:00:14.441] [INFO] Crawler-1 - Process https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx by Back Country crawler, deadline: 13:10
+[2021-01-30T13:00:14.444] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1 (normalized)
+[2021-01-30T13:00:14.446] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:00:14.452] [INFO] Crawler-2 - Process https://www.rei.com/search?q=marmot&ir=q%3Amarmot by REI crawler, deadline: 13:10
+[2021-01-30T13:00:14.457] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title (normalized)
+[2021-01-30T13:00:14.463] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:00:14.467] [INFO] Crawler-3 - Process https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals by REI crawler, deadline: 13:10
+[2021-01-30T13:00:14.470] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title (normalized)
+[2021-01-30T13:00:14.472] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:00:14.478] [INFO] Crawler-4 - Process https://www.rei.com/used/b/arcteryx?condition=Excellent%20condition by REI Used crawler, deadline: 13:10
+[2021-01-30T13:00:14.481] [DEBUG] Crawler-4 - https://www.rei.com/used/b/arcteryx?condition=Excellent+condition&sort=brand_a_z (normalized)
+[2021-01-30T13:00:14.483] [TRACE] Crawler-4 - fetching(puppeteer)
+[2021-01-30T13:00:14.487] [INFO] Crawler-5 - Process https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 by Moosejaw crawler, deadline: 13:10
+[2021-01-30T13:00:14.490] [DEBUG] Crawler-5 - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2 (normalized)
+[2021-01-30T13:00:14.492] [TRACE] Crawler-5 - fetching(puppeteer)
+[2021-01-30T13:00:14.498] [INFO] Crawler-6 - Process https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 by Moosejaw crawler, deadline: 13:10
+[2021-01-30T13:00:14.500] [DEBUG] Crawler-6 - https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=2 (normalized)
+[2021-01-30T13:00:14.502] [TRACE] Crawler-6 - fetching(puppeteer)
+[2021-01-30T13:00:14.507] [INFO] Crawler-7 - Process https://www.mountainsteals.com/search/fjallraven by Mountain Steals crawler, deadline: 13:10
+[2021-01-30T13:00:14.509] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:00:14.511] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:00:14.515] [INFO] Crawler-8 - Process https://www.sierra.com/mystery-ranch~b~37083/ by Sierra crawler, deadline: 13:10
+[2021-01-30T13:00:14.517] [DEBUG] Crawler-8 - https://www.sierra.com/mystery-ranch~b~37083/ (normalized)
+[2021-01-30T13:00:14.519] [TRACE] Crawler-8 - fetching(axios)
+[2021-01-30T13:00:14.523] [INFO] Crawler-9 - Process https://www.sierra.com/mammut~b~3201/ by Sierra crawler, deadline: 13:10
+[2021-01-30T13:00:14.525] [DEBUG] Crawler-9 - https://www.sierra.com/mammut~b~3201/ (normalized)
+[2021-01-30T13:00:14.527] [TRACE] Crawler-9 - fetching(axios)
+[2021-01-30T13:00:14.531] [INFO] Crawler-10 - Process https://www.sierra.com/therm-a-rest~b~3177/ by Sierra crawler, deadline: 13:10
+[2021-01-30T13:00:14.543] [DEBUG] Crawler-10 - https://www.sierra.com/therm-a-rest~b~3177/ (normalized)
+[2021-01-30T13:00:14.545] [TRACE] Crawler-10 - fetching(axios)
+[2021-01-30T13:00:14.549] [INFO] Crawler-11 - Process https://www.sierra.com/s~outdoor-research/clearance~1/ by Sierra crawler, deadline: 13:10
+[2021-01-30T13:00:14.551] [DEBUG] Crawler-11 - https://www.sierra.com/s~outdoor-research/clearance~1/ (normalized)
+[2021-01-30T13:00:14.552] [TRACE] Crawler-11 - fetching(axios)
+[2021-01-30T13:00:14.556] [INFO] Crawler-12 - Process https://www.steepandcheap.com/arcteryx by Steepandcheap crawler, deadline: 13:10
+[2021-01-30T13:00:14.559] [DEBUG] Crawler-12 - https://www.steepandcheap.com/arcteryx?sort=%2Bprice (normalized)
+[2021-01-30T13:00:14.561] [TRACE] Crawler-12 - fetching(axios)
+[2021-01-30T13:00:14.565] [INFO] Crawler-13 - Process https://www.steepandcheap.com/mammut by Steepandcheap crawler, deadline: 13:10
+[2021-01-30T13:00:14.567] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice (normalized)
+[2021-01-30T13:00:14.569] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:00:14.573] [INFO] Crawler-14 - Process https://www.campsaver.com/arc-teryx-brand.html by Campsaver crawler, deadline: 13:10
+[2021-01-30T13:00:14.576] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:00:14.578] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:00:14.585] [INFO] Crawler-15 - Process https://www.campsaver.com/mammut-brand.html by Campsaver crawler, deadline: 13:10
+[2021-01-30T13:00:14.588] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:00:14.590] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:00:14.605] [INFO] Crawler-16 - Process https://www.campsaver.com/mystery-ranch-brand.html by Campsaver crawler, deadline: 13:10
+[2021-01-30T13:00:14.608] [DEBUG] Crawler-16 - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:00:14.618] [TRACE] Crawler-16 - fetching(axios)
+[2021-01-30T13:00:14.622] [INFO] Crawler-17 - Process https://www.mountainsteals.com/search/black-diamond by Mountain Steals crawler, deadline: 13:10
+[2021-01-30T13:00:14.625] [DEBUG] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:00:14.627] [TRACE] Crawler-17 - fetching(axios)
+[2021-01-30T13:00:14.632] [INFO] Crawler-18 - Process https://www.mountainsteals.com/search/mystery-ranch by Mountain Steals crawler, deadline: 13:10
+[2021-01-30T13:00:14.634] [DEBUG] Crawler-18 - https://www.mountainsteals.com/search/mystery-ranch?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:00:14.636] [TRACE] Crawler-18 - fetching(axios)
+[2021-01-30T13:00:15.464] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:00:17.177] [TRACE] Crawler-2 - parsed: 30 total: 144
+[2021-01-30T13:00:17.180] [TRACE] Crawler-2 - duration: 2.72 seconds, 597.27 seconds remaining.
+[2021-01-30T13:00:17.182] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2 (normalized)
+[2021-01-30T13:00:17.183] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:00:17.229] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:00:18.660] [TRACE] Crawler-3 - parsed: 30 total: 147
+[2021-01-30T13:00:18.664] [TRACE] Crawler-3 - duration: 4.19 seconds, 595.80 seconds remaining.
+[2021-01-30T13:00:18.666] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2 (normalized)
+[2021-01-30T13:00:18.667] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:00:18.825] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:00:19.722] [TRACE] Crawler-1 - parsed: 42 total: 407
+[2021-01-30T13:00:19.724] [TRACE] Crawler-1 - duration: 5.28 seconds, 594.72 seconds remaining.
+[2021-01-30T13:00:19.726] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1 (normalized)
+[2021-01-30T13:00:19.728] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:00:20.946] [TRACE] Crawler-8 - parsing
+[2021-01-30T13:00:24.062] [TRACE] Crawler-8 - duration: 9.54 seconds, 590.45 seconds remaining.
+[2021-01-30T13:00:24.064] [DEBUG] Crawler-8 - https://www.sierra.com/mystery-ranch~b~37083/2/ (normalized)
+[2021-01-30T13:00:24.065] [TRACE] Crawler-8 - fetching(axios)
+[2021-01-30T13:00:24.193] [TRACE] Crawler-9 - parsing
+[2021-01-30T13:00:26.853] [TRACE] Crawler-9 - duration: 12.33 seconds, 587.67 seconds remaining.
+[2021-01-30T13:00:26.855] [DEBUG] Crawler-9 - https://www.sierra.com/mammut~b~3201/2/ (normalized)
+[2021-01-30T13:00:26.856] [TRACE] Crawler-9 - fetching(axios)
+[2021-01-30T13:00:26.913] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:00:27.973] [TRACE] Crawler-2 - parsed: 60 total: 144
+[2021-01-30T13:00:27.975] [TRACE] Crawler-2 - duration: 10.79 seconds, 586.48 seconds remaining.
+[2021-01-30T13:00:27.978] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3 (normalized)
+[2021-01-30T13:00:27.979] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:00:28.017] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:00:28.874] [TRACE] Crawler-1 - parsed: 84 total: 407
+[2021-01-30T13:00:28.876] [TRACE] Crawler-1 - duration: 9.15 seconds, 585.57 seconds remaining.
+[2021-01-30T13:00:28.878] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2 (normalized)
+[2021-01-30T13:00:28.880] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:00:28.916] [TRACE] Crawler-12 - parsing
+[2021-01-30T13:00:29.642] [TRACE] Crawler-12 - duration: 15.08 seconds, 584.91 seconds remaining.
+[2021-01-30T13:00:29.644] [DEBUG] Crawler-12 - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1 (normalized)
+[2021-01-30T13:00:29.645] [TRACE] Crawler-12 - fetching(axios)
+[2021-01-30T13:00:29.738] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:00:30.786] [TRACE] Crawler-3 - parsed: 60 total: 147
+[2021-01-30T13:00:30.788] [TRACE] Crawler-3 - duration: 12.12 seconds, 583.68 seconds remaining.
+[2021-01-30T13:00:30.790] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3 (normalized)
+[2021-01-30T13:00:30.792] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:00:30.911] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:00:31.842] [TRACE] Crawler-13 - duration: 17.27 seconds, 582.73 seconds remaining.
+[2021-01-30T13:00:31.845] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1 (normalized)
+[2021-01-30T13:00:31.846] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:00:32.096] [TRACE] Crawler-10 - parsing
+[2021-01-30T13:00:34.374] [TRACE] Crawler-10 - duration: 19.83 seconds, 580.16 seconds remaining.
+[2021-01-30T13:00:34.376] [DEBUG] Crawler-10 - consistency check: skip
+[2021-01-30T13:00:34.377] [INFO] Crawler-10 - 6 items in the previous list, and 6 items in the latest list.
+[2021-01-30T13:00:34.379] [INFO] Crawler-10 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:00:34.383] [INFO] Crawler-10 - Finish https://www.sierra.com/therm-a-rest~b~3177/ in 19.834 seconds 
+
+[2021-01-30T13:00:34.411] [TRACE] Crawler-17 - parsing
+[2021-01-30T13:00:35.434] [TRACE] Crawler-17 - parsed: 48 total: 90
+[2021-01-30T13:00:35.436] [TRACE] Crawler-17 - duration: 20.81 seconds, 579.19 seconds remaining.
+[2021-01-30T13:00:35.438] [DEBUG] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:00:35.440] [TRACE] Crawler-17 - fetching(axios)
+[2021-01-30T13:00:35.731] [TRACE] Crawler-11 - parsing
+[2021-01-30T13:00:36.262] [TRACE] Crawler-11 - duration: 21.71 seconds, 578.29 seconds remaining.
+[2021-01-30T13:00:36.264] [DEBUG] Crawler-11 - consistency check: skip
+[2021-01-30T13:00:36.266] [INFO] Crawler-11 - 3 items in the previous list, and 3 items in the latest list.
+[2021-01-30T13:00:36.268] [INFO] Crawler-11 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:00:36.271] [INFO] Crawler-11 - Finish https://www.sierra.com/s~outdoor-research/clearance~1/ in 21.716 seconds 
+
+[2021-01-30T13:00:36.398] [TRACE] Crawler-16 - parsing
+[2021-01-30T13:00:37.747] [TRACE] Crawler-16 - parsed: 60 total: 109
+[2021-01-30T13:00:37.751] [TRACE] Crawler-16 - duration: 23.14 seconds, 576.86 seconds remaining.
+[2021-01-30T13:00:37.754] [DEBUG] Crawler-16 - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:00:37.756] [TRACE] Crawler-16 - fetching(axios)
+[2021-01-30T13:00:37.884] [TRACE] Crawler-18 - parsing
+[2021-01-30T13:00:39.316] [TRACE] Crawler-18 - parsed: 33 total: 33
+[2021-01-30T13:00:39.319] [TRACE] Crawler-18 - duration: 24.68 seconds, 575.31 seconds remaining.
+[2021-01-30T13:00:39.323] [DEBUG] Crawler-18 - consistency check: init
+[2021-01-30T13:00:39.324] [TRACE] Crawler-18 - wait 5 seconds
+[2021-01-30T13:00:39.423] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:00:40.683] [TRACE] Crawler-7 - parsed: 48 total: 100
+[2021-01-30T13:00:40.686] [TRACE] Crawler-7 - duration: 26.18 seconds, 573.82 seconds remaining.
+[2021-01-30T13:00:40.689] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:00:40.690] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:00:41.227] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:00:42.993] [TRACE] Crawler-15 - parsed: 60 total: 589
+[2021-01-30T13:00:42.999] [TRACE] Crawler-15 - duration: 28.41 seconds, 571.59 seconds remaining.
+[2021-01-30T13:00:43.005] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:00:43.015] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:00:43.091] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:00:44.910] [TRACE] Crawler-14 - parsed: 60 total: 363
+[2021-01-30T13:00:44.913] [TRACE] Crawler-14 - duration: 30.34 seconds, 569.66 seconds remaining.
+[2021-01-30T13:00:44.915] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:00:44.916] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:00:44.955] [DEBUG] Crawler-18 - https://www.mountainsteals.com/search/mystery-ranch?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:00:44.956] [TRACE] Crawler-18 - fetching(axios)
+[2021-01-30T13:00:45.329] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:00:46.366] [TRACE] Crawler-1 - parsed: 126 total: 407
+[2021-01-30T13:00:46.368] [TRACE] Crawler-1 - duration: 17.49 seconds, 568.07 seconds remaining.
+[2021-01-30T13:00:46.369] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3 (normalized)
+[2021-01-30T13:00:46.369] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:00:46.400] [TRACE] Crawler-12 - parsing
+[2021-01-30T13:00:46.770] [TRACE] Crawler-12 - duration: 17.13 seconds, 567.79 seconds remaining.
+[2021-01-30T13:00:46.772] [DEBUG] Crawler-12 - consistency check: init
+[2021-01-30T13:00:46.773] [TRACE] Crawler-12 - wait 5 seconds
+[2021-01-30T13:00:46.836] [TRACE] Crawler-4 - start scroll
+[2021-01-30T13:00:46.846] [TRACE] Crawler-0 - start scroll
+[2021-01-30T13:00:47.013] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:00:48.178] [TRACE] Crawler-2 - parsed: 90 total: 144
+[2021-01-30T13:00:48.181] [TRACE] Crawler-2 - duration: 20.20 seconds, 566.27 seconds remaining.
+[2021-01-30T13:00:48.183] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4 (normalized)
+[2021-01-30T13:00:48.185] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:00:48.238] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:00:49.260] [TRACE] Crawler-3 - parsed: 90 total: 147
+[2021-01-30T13:00:49.262] [TRACE] Crawler-3 - duration: 18.47 seconds, 565.21 seconds remaining.
+[2021-01-30T13:00:49.264] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4 (normalized)
+[2021-01-30T13:00:49.265] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:00:49.294] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:00:50.129] [TRACE] Crawler-13 - duration: 18.29 seconds, 564.44 seconds remaining.
+[2021-01-30T13:00:50.131] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2 (normalized)
+[2021-01-30T13:00:50.132] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:00:50.273] [TRACE] Crawler-8 - parsing
+[2021-01-30T13:00:53.204] [TRACE] Crawler-8 - duration: 29.14 seconds, 561.31 seconds remaining.
+[2021-01-30T13:00:53.207] [DEBUG] Crawler-8 - consistency check: skip
+[2021-01-30T13:00:53.208] [INFO] Crawler-8 - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-30T13:00:53.210] [INFO] Crawler-8 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:00:53.214] [INFO] Crawler-8 - Finish https://www.sierra.com/mystery-ranch~b~37083/ in 38.691 seconds 
+
+[2021-01-30T13:00:53.313] [TRACE] Crawler-9 - parsing
+[2021-01-30T13:00:56.127] [TRACE] Crawler-9 - duration: 29.27 seconds, 558.40 seconds remaining.
+[2021-01-30T13:00:56.130] [DEBUG] Crawler-9 - consistency check: skip
+[2021-01-30T13:00:56.131] [INFO] Crawler-9 - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-30T13:00:56.133] [INFO] Crawler-9 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:00:56.137] [INFO] Crawler-9 - Finish https://www.sierra.com/mammut~b~3201/ in 41.606 seconds 
+
+[2021-01-30T13:00:56.143] [WARN] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 timeout
+[2021-01-30T13:00:56.146] [DEBUG] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:00:56.147] [TRACE] Crawler-17 - fetching(axios)
+[2021-01-30T13:00:56.188] [DEBUG] Crawler-12 - https://www.steepandcheap.com/arcteryx?sort=%2Bprice (normalized)
+[2021-01-30T13:00:56.190] [TRACE] Crawler-12 - fetching(axios)
+[2021-01-30T13:00:56.328] [WARN] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 timeout
+[2021-01-30T13:00:56.330] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:00:56.332] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:00:56.378] [WARN] Crawler-18 - https://www.mountainsteals.com/search/mystery-ranch timeout
+[2021-01-30T13:00:56.382] [DEBUG] Crawler-18 - https://www.mountainsteals.com/search/mystery-ranch?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:00:56.385] [TRACE] Crawler-18 - fetching(axios)
+[2021-01-30T13:00:56.961] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:00:58.499] [TRACE] Crawler-3 - parsed: 120 total: 147
+[2021-01-30T13:00:58.502] [TRACE] Crawler-3 - duration: 9.24 seconds, 555.97 seconds remaining.
+[2021-01-30T13:00:58.506] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=5 (normalized)
+[2021-01-30T13:00:58.507] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:00:58.588] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:01:00.143] [TRACE] Crawler-2 - parsed: 120 total: 144
+[2021-01-30T13:01:00.148] [TRACE] Crawler-2 - duration: 11.96 seconds, 554.30 seconds remaining.
+[2021-01-30T13:01:00.153] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=5 (normalized)
+[2021-01-30T13:01:00.156] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:01:00.213] [TRACE] Crawler-12 - parsing
+[2021-01-30T13:01:01.191] [TRACE] Crawler-12 - duration: 5.00 seconds, 553.37 seconds remaining.
+[2021-01-30T13:01:01.193] [DEBUG] Crawler-12 - https://www.steepandcheap.com/arcteryx?sort=%2Bprice&page=1 (normalized)
+[2021-01-30T13:01:01.195] [TRACE] Crawler-12 - fetching(axios)
+[2021-01-30T13:01:02.049] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:03.125] [TRACE] Crawler-1 - parsed: 168 total: 407
+[2021-01-30T13:01:03.129] [TRACE] Crawler-1 - duration: 16.76 seconds, 551.31 seconds remaining.
+[2021-01-30T13:01:03.131] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4 (normalized)
+[2021-01-30T13:01:03.132] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:03.252] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:01:03.857] [TRACE] Crawler-13 - duration: 13.73 seconds, 550.71 seconds remaining.
+[2021-01-30T13:01:03.865] [DEBUG] Crawler-13 - consistency check: init
+[2021-01-30T13:01:03.866] [TRACE] Crawler-13 - wait 5 seconds
+[2021-01-30T13:01:03.905] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:01:05.621] [TRACE] Crawler-7 - parsed: 96 total: 100
+[2021-01-30T13:01:05.626] [TRACE] Crawler-7 - duration: 9.29 seconds, 548.88 seconds remaining.
+[2021-01-30T13:01:05.628] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-30T13:01:05.631] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:01:05.726] [TRACE] Crawler-5 - parsing
+[2021-01-30T13:01:07.112] [TRACE] Crawler-5 - parsed: 48 total: 87
+[2021-01-30T13:01:07.114] [TRACE] Crawler-5 - duration: 52.62 seconds, 547.37 seconds remaining.
+[2021-01-30T13:01:07.116] [DEBUG] Crawler-5 - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2&beginIndex=48 (normalized)
+[2021-01-30T13:01:07.118] [TRACE] Crawler-5 - fetching(puppeteer)
+[2021-01-30T13:01:07.367] [TRACE] Crawler-6 - parsing
+[2021-01-30T13:01:08.911] [TRACE] Crawler-6 - parsed: 30 total: 30
+[2021-01-30T13:01:08.913] [TRACE] Crawler-6 - duration: 54.41 seconds, 545.59 seconds remaining.
+[2021-01-30T13:01:08.916] [DEBUG] Crawler-6 - consistency check: init
+[2021-01-30T13:01:08.918] [TRACE] Crawler-6 - wait 5 seconds
+[2021-01-30T13:01:08.985] [TRACE] Crawler-17 - parsing
+[2021-01-30T13:01:10.235] [TRACE] Crawler-17 - parsed: 90 total: 90
+[2021-01-30T13:01:10.238] [TRACE] Crawler-17 - duration: 14.09 seconds, 544.38 seconds remaining.
+[2021-01-30T13:01:10.245] [DEBUG] Crawler-17 - consistency check: init
+[2021-01-30T13:01:10.246] [TRACE] Crawler-17 - wait 5 seconds
+[2021-01-30T13:01:10.331] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice (normalized)
+[2021-01-30T13:01:10.333] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:01:10.890] [TRACE] Crawler-16 - parsing
+[2021-01-30T13:01:11.797] [TRACE] Crawler-16 - parsed: 109 total: 109
+[2021-01-30T13:01:11.800] [TRACE] Crawler-16 - duration: 34.05 seconds, 542.81 seconds remaining.
+[2021-01-30T13:01:11.808] [DEBUG] Crawler-16 - consistency check: init
+[2021-01-30T13:01:11.810] [TRACE] Crawler-16 - wait 5 seconds
+[2021-01-30T13:01:11.858] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:01:12.985] [TRACE] Crawler-15 - parsed: 120 total: 589
+[2021-01-30T13:01:12.988] [TRACE] Crawler-15 - duration: 29.98 seconds, 541.60 seconds remaining.
+[2021-01-30T13:01:12.989] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-30T13:01:12.991] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:01:13.138] [TRACE] Crawler-12 - parsing
+[2021-01-30T13:01:13.639] [TRACE] Crawler-12 - duration: 12.45 seconds, 540.92 seconds remaining.
+[2021-01-30T13:01:13.642] [DEBUG] Crawler-12 - consistency check: (1/1), pass
+[2021-01-30T13:01:13.643] [DEBUG] Crawler-12 - consistency check: all pass
+[2021-01-30T13:01:13.645] [INFO] Crawler-12 - 47 items in the previous list, and 47 items in the latest list.
+[2021-01-30T13:01:13.648] [INFO] Crawler-12 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:13.650] [INFO] Crawler-12 - Finish https://www.steepandcheap.com/arcteryx in 59.087 seconds 
+
+[2021-01-30T13:01:13.669] [TRACE] Crawler-18 - parsing
+[2021-01-30T13:01:14.601] [TRACE] Crawler-18 - parsed: 33 total: 33
+[2021-01-30T13:01:14.603] [TRACE] Crawler-18 - duration: 18.22 seconds, 540.03 seconds remaining.
+[2021-01-30T13:01:14.605] [DEBUG] Crawler-18 - consistency check: (1/1), pass
+[2021-01-30T13:01:14.606] [DEBUG] Crawler-18 - consistency check: all pass
+[2021-01-30T13:01:14.608] [INFO] Crawler-18 - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-30T13:01:14.610] [INFO] Crawler-18 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:14.613] [INFO] Crawler-18 - Finish https://www.mountainsteals.com/search/mystery-ranch in 59.975 seconds 
+
+[2021-01-30T13:01:14.662] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:01:15.988] [TRACE] Crawler-14 - parsed: 120 total: 363
+[2021-01-30T13:01:15.991] [TRACE] Crawler-14 - duration: 31.08 seconds, 538.58 seconds remaining.
+[2021-01-30T13:01:15.993] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-30T13:01:15.994] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:01:16.025] [DEBUG] Crawler-6 - https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=2 (normalized)
+[2021-01-30T13:01:16.026] [TRACE] Crawler-6 - fetching(puppeteer)
+[2021-01-30T13:01:16.030] [DEBUG] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:01:16.031] [TRACE] Crawler-17 - fetching(axios)
+[2021-01-30T13:01:16.205] [TRACE] Crawler-0 - parsing
+[2021-01-30T13:01:16.501] [TRACE] Crawler-0 - parsed: 33 total: 33
+[2021-01-30T13:01:16.505] [TRACE] Crawler-0 - duration: 62.07 seconds, 537.92 seconds remaining.
+[2021-01-30T13:01:16.509] [DEBUG] Crawler-0 - consistency check: init
+[2021-01-30T13:01:16.511] [TRACE] Crawler-0 - wait 5 seconds
+[2021-01-30T13:01:16.618] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:01:17.710] [TRACE] Crawler-3 - parsed: 147 total: 147
+[2021-01-30T13:01:17.712] [TRACE] Crawler-3 - duration: 19.21 seconds, 536.75 seconds remaining.
+[2021-01-30T13:01:17.807] [DEBUG] Crawler-3 - consistency check: init
+[2021-01-30T13:01:17.808] [TRACE] Crawler-3 - wait 5 seconds
+[2021-01-30T13:01:17.853] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:01:18.834] [TRACE] Crawler-2 - parsed: 144 total: 144
+[2021-01-30T13:01:18.836] [TRACE] Crawler-2 - duration: 18.68 seconds, 535.62 seconds remaining.
+[2021-01-30T13:01:18.843] [DEBUG] Crawler-2 - consistency check: init
+[2021-01-30T13:01:18.844] [TRACE] Crawler-2 - wait 5 seconds
+[2021-01-30T13:01:18.867] [DEBUG] Crawler-16 - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:01:18.868] [TRACE] Crawler-16 - fetching(axios)
+[2021-01-30T13:01:18.892] [TRACE] Crawler-4 - parsing
+[2021-01-30T13:01:19.416] [TRACE] Crawler-4 - parsed: 136 total: 136
+[2021-01-30T13:01:19.418] [TRACE] Crawler-4 - duration: 64.94 seconds, 535.06 seconds remaining.
+[2021-01-30T13:01:19.424] [DEBUG] Crawler-4 - consistency check: init
+[2021-01-30T13:01:19.425] [TRACE] Crawler-4 - wait 5 seconds
+[2021-01-30T13:01:19.476] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:20.179] [TRACE] Crawler-1 - parsed: 210 total: 407
+[2021-01-30T13:01:20.181] [TRACE] Crawler-1 - duration: 17.05 seconds, 534.26 seconds remaining.
+[2021-01-30T13:01:20.183] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5 (normalized)
+[2021-01-30T13:01:20.184] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:20.370] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:01:21.120] [TRACE] Crawler-13 - duration: 10.79 seconds, 533.45 seconds remaining.
+[2021-01-30T13:01:21.122] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=1 (normalized)
+[2021-01-30T13:01:21.123] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:01:21.330] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:22.168] [TRACE] Crawler-1 - parsed: 252 total: 407
+[2021-01-30T13:01:22.171] [TRACE] Crawler-1 - duration: 1.99 seconds, 532.27 seconds remaining.
+[2021-01-30T13:01:22.173] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6 (normalized)
+[2021-01-30T13:01:22.175] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:22.193] [DEBUG] Crawler-0 - https://www.rei.com/used/shop/search?condition=Excellent+condition&q=Fjallraven&sort=brand_a_z (normalized)
+[2021-01-30T13:01:22.195] [TRACE] Crawler-0 - fetching(puppeteer)
+[2021-01-30T13:01:22.246] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:01:22.863] [TRACE] Crawler-7 - parsed: 100 total: 100
+[2021-01-30T13:01:22.866] [TRACE] Crawler-7 - duration: 17.24 seconds, 531.64 seconds remaining.
+[2021-01-30T13:01:22.873] [DEBUG] Crawler-7 - consistency check: init
+[2021-01-30T13:01:22.874] [TRACE] Crawler-7 - wait 5 seconds
+[2021-01-30T13:01:22.918] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title (normalized)
+[2021-01-30T13:01:22.919] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:01:23.333] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:01:24.739] [TRACE] Crawler-14 - parsed: 180 total: 363
+[2021-01-30T13:01:24.744] [TRACE] Crawler-14 - duration: 8.75 seconds, 529.83 seconds remaining.
+[2021-01-30T13:01:24.748] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-30T13:01:24.756] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:01:25.035] [TRACE] Crawler-16 - parsing
+[2021-01-30T13:01:26.234] [TRACE] Crawler-16 - parsed: 60 total: 109
+[2021-01-30T13:01:26.237] [TRACE] Crawler-16 - duration: 7.37 seconds, 528.37 seconds remaining.
+[2021-01-30T13:01:26.238] [DEBUG] Crawler-16 - https://www.campsaver.com/mystery-ranch-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:01:26.240] [TRACE] Crawler-16 - fetching(axios)
+[2021-01-30T13:01:26.258] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title (normalized)
+[2021-01-30T13:01:26.259] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:01:26.262] [DEBUG] Crawler-4 - https://www.rei.com/used/b/arcteryx?condition=Excellent+condition&sort=brand_a_z (normalized)
+[2021-01-30T13:01:26.264] [TRACE] Crawler-4 - fetching(puppeteer)
+[2021-01-30T13:01:26.391] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:01:27.713] [TRACE] Crawler-13 - duration: 6.59 seconds, 526.85 seconds remaining.
+[2021-01-30T13:01:27.715] [DEBUG] Crawler-13 - https://www.steepandcheap.com/mammut?sort=%2Bprice&page=2 (normalized)
+[2021-01-30T13:01:27.717] [TRACE] Crawler-13 - fetching(axios)
+[2021-01-30T13:01:27.785] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:01:28.973] [TRACE] Crawler-15 - parsed: 180 total: 589
+[2021-01-30T13:01:28.976] [TRACE] Crawler-15 - duration: 15.99 seconds, 525.61 seconds remaining.
+[2021-01-30T13:01:28.979] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-30T13:01:28.980] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:01:29.035] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false (normalized)
+[2021-01-30T13:01:29.036] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:01:29.306] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:01:30.581] [TRACE] Crawler-3 - parsed: 30 total: 147
+[2021-01-30T13:01:30.583] [TRACE] Crawler-3 - duration: 7.67 seconds, 523.88 seconds remaining.
+[2021-01-30T13:01:30.585] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=2 (normalized)
+[2021-01-30T13:01:30.586] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:01:30.728] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:31.814] [TRACE] Crawler-1 - parsed: 294 total: 407
+[2021-01-30T13:01:31.817] [TRACE] Crawler-1 - duration: 9.64 seconds, 522.62 seconds remaining.
+[2021-01-30T13:01:31.820] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7 (normalized)
+[2021-01-30T13:01:31.821] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:31.870] [TRACE] Crawler-17 - parsing
+[2021-01-30T13:01:32.866] [TRACE] Crawler-17 - parsed: 48 total: 90
+[2021-01-30T13:01:32.868] [TRACE] Crawler-17 - duration: 16.84 seconds, 521.75 seconds remaining.
+[2021-01-30T13:01:32.870] [DEBUG] Crawler-17 - https://www.mountainsteals.com/search/black-diamond?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:01:32.871] [TRACE] Crawler-17 - fetching(axios)
+[2021-01-30T13:01:33.362] [TRACE] Crawler-13 - parsing
+[2021-01-30T13:01:34.147] [TRACE] Crawler-13 - duration: 6.43 seconds, 520.42 seconds remaining.
+[2021-01-30T13:01:34.159] [DEBUG] Crawler-13 - consistency check: (1/1), pass
+[2021-01-30T13:01:34.165] [DEBUG] Crawler-13 - consistency check: all pass
+[2021-01-30T13:01:34.170] [INFO] Crawler-13 - 98 items in the previous list, and 98 items in the latest list.
+[2021-01-30T13:01:34.182] [INFO] Crawler-13 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:34.190] [INFO] Crawler-13 - Finish https://www.steepandcheap.com/mammut in 79.604 seconds 
+
+[2021-01-30T13:01:34.244] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:01:35.895] [TRACE] Crawler-2 - parsed: 30 total: 144
+[2021-01-30T13:01:35.900] [TRACE] Crawler-2 - duration: 9.64 seconds, 518.55 seconds remaining.
+[2021-01-30T13:01:35.902] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=2 (normalized)
+[2021-01-30T13:01:35.903] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:01:35.980] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:01:37.149] [TRACE] Crawler-3 - parsed: 60 total: 147
+[2021-01-30T13:01:37.150] [TRACE] Crawler-3 - duration: 6.57 seconds, 517.32 seconds remaining.
+[2021-01-30T13:01:37.152] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=3 (normalized)
+[2021-01-30T13:01:37.154] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:01:37.894] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:38.937] [TRACE] Crawler-1 - parsed: 336 total: 407
+[2021-01-30T13:01:38.939] [TRACE] Crawler-1 - duration: 7.12 seconds, 515.50 seconds remaining.
+[2021-01-30T13:01:38.941] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8 (normalized)
+[2021-01-30T13:01:38.944] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:39.012] [TRACE] Crawler-5 - parsing
+[2021-01-30T13:01:40.556] [TRACE] Crawler-5 - parsed: 87 total: 87
+[2021-01-30T13:01:40.559] [TRACE] Crawler-5 - duration: 33.44 seconds, 513.93 seconds remaining.
+[2021-01-30T13:01:40.566] [DEBUG] Crawler-5 - consistency check: init
+[2021-01-30T13:01:40.567] [TRACE] Crawler-5 - wait 5 seconds
+[2021-01-30T13:01:40.790] [TRACE] Crawler-6 - parsing
+[2021-01-30T13:01:42.073] [TRACE] Crawler-6 - parsed: 30 total: 30
+[2021-01-30T13:01:42.076] [TRACE] Crawler-6 - duration: 26.05 seconds, 512.42 seconds remaining.
+[2021-01-30T13:01:42.078] [DEBUG] Crawler-6 - consistency check: (1/1), pass
+[2021-01-30T13:01:42.080] [DEBUG] Crawler-6 - consistency check: all pass
+[2021-01-30T13:01:42.081] [INFO] Crawler-6 - 30 items in the previous list, and 30 items in the latest list.
+[2021-01-30T13:01:42.084] [INFO] Crawler-6 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:42.088] [INFO] Crawler-6 - Finish https://www.moosejaw.com/search/mystery-ranch/sale?orderBy=10 in 87.582 seconds 
+
+[2021-01-30T13:01:42.301] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:01:43.565] [TRACE] Crawler-7 - parsed: 48 total: 100
+[2021-01-30T13:01:43.569] [TRACE] Crawler-7 - duration: 14.53 seconds, 510.94 seconds remaining.
+[2021-01-30T13:01:43.571] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=48 (normalized)
+[2021-01-30T13:01:43.572] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:01:43.783] [TRACE] Crawler-17 - parsing
+[2021-01-30T13:01:45.324] [TRACE] Crawler-17 - parsed: 90 total: 90
+[2021-01-30T13:01:45.328] [TRACE] Crawler-17 - duration: 12.46 seconds, 509.30 seconds remaining.
+[2021-01-30T13:01:45.335] [DEBUG] Crawler-17 - consistency check: (1/1), pass
+[2021-01-30T13:01:45.336] [DEBUG] Crawler-17 - consistency check: all pass
+[2021-01-30T13:01:45.338] [INFO] Crawler-17 - 90 items in the previous list, and 90 items in the latest list.
+[2021-01-30T13:01:45.346] [INFO] Crawler-17 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:45.351] [INFO] Crawler-17 - Finish https://www.mountainsteals.com/search/black-diamond in 90.714 seconds 
+
+[2021-01-30T13:01:45.379] [TRACE] Crawler-0 - start scroll
+[2021-01-30T13:01:45.533] [TRACE] Crawler-16 - parsing
+[2021-01-30T13:01:46.508] [TRACE] Crawler-16 - parsed: 109 total: 109
+[2021-01-30T13:01:46.511] [TRACE] Crawler-16 - duration: 20.27 seconds, 508.10 seconds remaining.
+[2021-01-30T13:01:46.520] [DEBUG] Crawler-16 - consistency check: (1/1), pass
+[2021-01-30T13:01:46.522] [DEBUG] Crawler-16 - consistency check: all pass
+[2021-01-30T13:01:46.524] [INFO] Crawler-16 - 109 items in the previous list, and 109 items in the latest list.
+[2021-01-30T13:01:46.532] [INFO] Crawler-16 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:01:46.535] [INFO] Crawler-16 - Finish https://www.campsaver.com/mystery-ranch-brand.html in 91.916 seconds 
+
+[2021-01-30T13:01:46.625] [DEBUG] Crawler-5 - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2 (normalized)
+[2021-01-30T13:01:46.627] [TRACE] Crawler-5 - fetching(puppeteer)
+[2021-01-30T13:01:46.768] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:01:48.347] [TRACE] Crawler-14 - parsed: 240 total: 363
+[2021-01-30T13:01:48.352] [TRACE] Crawler-14 - duration: 23.60 seconds, 506.22 seconds remaining.
+[2021-01-30T13:01:48.354] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-30T13:01:48.355] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:01:48.427] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:01:49.596] [TRACE] Crawler-15 - parsed: 240 total: 589
+[2021-01-30T13:01:49.598] [TRACE] Crawler-15 - duration: 20.62 seconds, 504.99 seconds remaining.
+[2021-01-30T13:01:49.600] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-30T13:01:49.601] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:01:49.655] [TRACE] Crawler-4 - start scroll
+[2021-01-30T13:01:49.828] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:01:51.108] [TRACE] Crawler-2 - parsed: 60 total: 144
+[2021-01-30T13:01:51.110] [TRACE] Crawler-2 - duration: 15.21 seconds, 503.34 seconds remaining.
+[2021-01-30T13:01:51.112] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=3 (normalized)
+[2021-01-30T13:01:51.113] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:01:51.230] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:01:52.818] [TRACE] Crawler-3 - parsed: 90 total: 147
+[2021-01-30T13:01:52.824] [TRACE] Crawler-3 - duration: 15.67 seconds, 501.64 seconds remaining.
+[2021-01-30T13:01:52.826] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=4 (normalized)
+[2021-01-30T13:01:52.827] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:01:52.884] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:53.944] [TRACE] Crawler-1 - parsed: 378 total: 407
+[2021-01-30T13:01:53.947] [TRACE] Crawler-1 - duration: 15.01 seconds, 500.49 seconds remaining.
+[2021-01-30T13:01:53.949] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=9 (normalized)
+[2021-01-30T13:01:53.951] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:01:54.781] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:01:56.037] [TRACE] Crawler-2 - parsed: 90 total: 144
+[2021-01-30T13:01:56.040] [TRACE] Crawler-2 - duration: 4.93 seconds, 498.41 seconds remaining.
+[2021-01-30T13:01:56.042] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=4 (normalized)
+[2021-01-30T13:01:56.043] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:01:56.102] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:01:57.419] [TRACE] Crawler-3 - parsed: 120 total: 147
+[2021-01-30T13:01:57.421] [TRACE] Crawler-3 - duration: 4.59 seconds, 497.05 seconds remaining.
+[2021-01-30T13:01:57.423] [DEBUG] Crawler-3 - https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals&sort=title&page=5 (normalized)
+[2021-01-30T13:01:57.424] [TRACE] Crawler-3 - fetching(axios)
+[2021-01-30T13:01:57.839] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:01:59.226] [TRACE] Crawler-7 - parsed: 96 total: 100
+[2021-01-30T13:01:59.229] [TRACE] Crawler-7 - duration: 15.66 seconds, 495.28 seconds remaining.
+[2021-01-30T13:01:59.231] [DEBUG] Crawler-7 - https://www.mountainsteals.com/search/fjallraven?pageSize=48&orderBy=2&viewAllPages=false&beginIndex=96 (normalized)
+[2021-01-30T13:01:59.232] [TRACE] Crawler-7 - fetching(axios)
+[2021-01-30T13:01:59.275] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:01:59.852] [TRACE] Crawler-1 - parsed: 407 total: 407
+[2021-01-30T13:01:59.854] [TRACE] Crawler-1 - duration: 5.91 seconds, 494.59 seconds remaining.
+[2021-01-30T13:01:59.896] [DEBUG] Crawler-1 - consistency check: init
+[2021-01-30T13:01:59.896] [TRACE] Crawler-1 - wait 5 seconds
+[2021-01-30T13:01:59.945] [TRACE] Crawler-0 - parsing
+[2021-01-30T13:02:00.118] [TRACE] Crawler-0 - parsed: 33 total: 33
+[2021-01-30T13:02:00.120] [TRACE] Crawler-0 - duration: 37.93 seconds, 494.31 seconds remaining.
+[2021-01-30T13:02:00.122] [DEBUG] Crawler-0 - consistency check: (1/1), pass
+[2021-01-30T13:02:00.123] [DEBUG] Crawler-0 - consistency check: all pass
+[2021-01-30T13:02:00.125] [INFO] Crawler-0 - 33 items in the previous list, and 33 items in the latest list.
+[2021-01-30T13:02:00.127] [INFO] Crawler-0 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:00.130] [INFO] Crawler-0 - Finish https://www.rei.com/used/shop/search?condition=Excellent%20condition&q=Fjallraven in 105.693 seconds 
+
+[2021-01-30T13:02:00.455] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:01.584] [TRACE] Crawler-14 - parsed: 300 total: 363
+[2021-01-30T13:02:01.586] [TRACE] Crawler-14 - duration: 13.23 seconds, 492.99 seconds remaining.
+[2021-01-30T13:02:01.588] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-30T13:02:01.589] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:01.649] [TRACE] Crawler-3 - parsing
+[2021-01-30T13:02:02.796] [TRACE] Crawler-3 - parsed: 147 total: 147
+[2021-01-30T13:02:02.799] [TRACE] Crawler-3 - duration: 5.38 seconds, 491.67 seconds remaining.
+[2021-01-30T13:02:02.879] [DEBUG] Crawler-3 - consistency check: (1/1), pass
+[2021-01-30T13:02:02.880] [DEBUG] Crawler-3 - consistency check: all pass
+[2021-01-30T13:02:02.882] [INFO] Crawler-3 - 147 items in the previous list, and 147 items in the latest list.
+[2021-01-30T13:02:02.896] [INFO] Crawler-3 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:02.900] [INFO] Crawler-3 - Finish https://www.rei.com/search?q=arc%27teryx&ir=q%3Aarc%27teryx&r=deals%3ASee+All+Deals in 108.413 seconds 
+
+[2021-01-30T13:02:03.006] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:02:04.039] [TRACE] Crawler-2 - parsed: 120 total: 144
+[2021-01-30T13:02:04.041] [TRACE] Crawler-2 - duration: 8.00 seconds, 490.41 seconds remaining.
+[2021-01-30T13:02:04.043] [DEBUG] Crawler-2 - https://www.rei.com/search?q=marmot&ir=q%3Amarmot&sort=title&page=5 (normalized)
+[2021-01-30T13:02:04.044] [TRACE] Crawler-2 - fetching(axios)
+[2021-01-30T13:02:04.095] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:05.199] [TRACE] Crawler-15 - parsed: 300 total: 589
+[2021-01-30T13:02:05.201] [TRACE] Crawler-15 - duration: 15.60 seconds, 489.38 seconds remaining.
+[2021-01-30T13:02:05.203] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-30T13:02:05.204] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:05.264] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1 (normalized)
+[2021-01-30T13:02:05.267] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:05.487] [TRACE] Crawler-4 - parsing
+[2021-01-30T13:02:05.984] [TRACE] Crawler-4 - parsed: 136 total: 136
+[2021-01-30T13:02:05.986] [TRACE] Crawler-4 - duration: 39.72 seconds, 488.49 seconds remaining.
+[2021-01-30T13:02:05.996] [DEBUG] Crawler-4 - consistency check: (1/1), pass
+[2021-01-30T13:02:05.997] [DEBUG] Crawler-4 - consistency check: all pass
+[2021-01-30T13:02:05.999] [INFO] Crawler-4 - 136 items in the previous list, and 136 items in the latest list.
+[2021-01-30T13:02:06.007] [INFO] Crawler-4 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:06.010] [INFO] Crawler-4 - Finish https://www.rei.com/used/b/arcteryx?condition=Excellent%20condition in 111.519 seconds 
+
+[2021-01-30T13:02:06.073] [TRACE] Crawler-2 - parsing
+[2021-01-30T13:02:07.008] [TRACE] Crawler-2 - parsed: 144 total: 144
+[2021-01-30T13:02:07.009] [TRACE] Crawler-2 - duration: 2.97 seconds, 487.44 seconds remaining.
+[2021-01-30T13:02:07.016] [DEBUG] Crawler-2 - consistency check: (1/1), pass
+[2021-01-30T13:02:07.018] [DEBUG] Crawler-2 - consistency check: all pass
+[2021-01-30T13:02:07.019] [INFO] Crawler-2 - 144 items in the previous list, and 144 items in the latest list.
+[2021-01-30T13:02:07.027] [INFO] Crawler-2 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:07.029] [INFO] Crawler-2 - Finish https://www.rei.com/search?q=marmot&ir=q%3Amarmot in 112.564 seconds 
+
+[2021-01-30T13:02:07.053] [TRACE] Crawler-7 - parsing
+[2021-01-30T13:02:07.678] [TRACE] Crawler-7 - parsed: 100 total: 100
+[2021-01-30T13:02:07.680] [TRACE] Crawler-7 - duration: 8.45 seconds, 486.83 seconds remaining.
+[2021-01-30T13:02:07.686] [DEBUG] Crawler-7 - consistency check: (1/1), pass
+[2021-01-30T13:02:07.687] [DEBUG] Crawler-7 - consistency check: all pass
+[2021-01-30T13:02:07.689] [INFO] Crawler-7 - 100 items in the previous list, and 100 items in the latest list.
+[2021-01-30T13:02:07.694] [INFO] Crawler-7 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:07.697] [INFO] Crawler-7 - Finish https://www.mountainsteals.com/search/fjallraven in 113.179 seconds 
+
+[2021-01-30T13:02:07.928] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:08.931] [TRACE] Crawler-1 - parsed: 42 total: 407
+[2021-01-30T13:02:08.935] [TRACE] Crawler-1 - duration: 3.67 seconds, 485.51 seconds remaining.
+[2021-01-30T13:02:08.937] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=1 (normalized)
+[2021-01-30T13:02:08.939] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:09.362] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:10.718] [TRACE] Crawler-14 - parsed: 360 total: 363
+[2021-01-30T13:02:10.721] [TRACE] Crawler-14 - duration: 9.13 seconds, 483.85 seconds remaining.
+[2021-01-30T13:02:10.723] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-30T13:02:10.724] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:10.777] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:11.950] [TRACE] Crawler-15 - parsed: 360 total: 589
+[2021-01-30T13:02:11.953] [TRACE] Crawler-15 - duration: 6.75 seconds, 482.63 seconds remaining.
+[2021-01-30T13:02:11.955] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-30T13:02:11.956] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:12.150] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:12.987] [TRACE] Crawler-1 - parsed: 84 total: 407
+[2021-01-30T13:02:12.989] [TRACE] Crawler-1 - duration: 4.05 seconds, 481.45 seconds remaining.
+[2021-01-30T13:02:12.991] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=2 (normalized)
+[2021-01-30T13:02:12.992] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:13.501] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:14.410] [TRACE] Crawler-1 - parsed: 126 total: 407
+[2021-01-30T13:02:14.412] [TRACE] Crawler-1 - duration: 1.42 seconds, 480.03 seconds remaining.
+[2021-01-30T13:02:14.414] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=3 (normalized)
+[2021-01-30T13:02:14.416] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:15.179] [TRACE] Crawler-5 - parsing
+[2021-01-30T13:02:16.486] [TRACE] Crawler-5 - parsed: 48 total: 87
+[2021-01-30T13:02:16.488] [TRACE] Crawler-5 - duration: 29.86 seconds, 478.00 seconds remaining.
+[2021-01-30T13:02:16.490] [DEBUG] Crawler-5 - https://www.moosejaw.com/search/arcteryx/sale?orderBy=2&beginIndex=48 (normalized)
+[2021-01-30T13:02:16.491] [TRACE] Crawler-5 - fetching(puppeteer)
+[2021-01-30T13:02:16.529] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:17.176] [TRACE] Crawler-1 - parsed: 168 total: 407
+[2021-01-30T13:02:17.178] [TRACE] Crawler-1 - duration: 2.76 seconds, 477.26 seconds remaining.
+[2021-01-30T13:02:17.180] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=4 (normalized)
+[2021-01-30T13:02:17.181] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:17.218] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:17.988] [TRACE] Crawler-14 - parsed: 363 total: 363
+[2021-01-30T13:02:17.991] [TRACE] Crawler-14 - duration: 7.27 seconds, 476.58 seconds remaining.
+[2021-01-30T13:02:18.030] [DEBUG] Crawler-14 - consistency check: init
+[2021-01-30T13:02:18.031] [TRACE] Crawler-14 - wait 5 seconds
+[2021-01-30T13:02:18.071] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:19.153] [TRACE] Crawler-15 - parsed: 420 total: 589
+[2021-01-30T13:02:19.155] [TRACE] Crawler-15 - duration: 7.20 seconds, 475.43 seconds remaining.
+[2021-01-30T13:02:19.157] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-30T13:02:19.158] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:19.650] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:20.475] [TRACE] Crawler-1 - parsed: 210 total: 407
+[2021-01-30T13:02:20.477] [TRACE] Crawler-1 - duration: 3.30 seconds, 473.96 seconds remaining.
+[2021-01-30T13:02:20.479] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=5 (normalized)
+[2021-01-30T13:02:20.481] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:21.066] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:21.766] [TRACE] Crawler-1 - parsed: 252 total: 407
+[2021-01-30T13:02:21.769] [TRACE] Crawler-1 - duration: 1.29 seconds, 472.67 seconds remaining.
+[2021-01-30T13:02:21.771] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=6 (normalized)
+[2021-01-30T13:02:21.772] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:21.851] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:22.993] [TRACE] Crawler-15 - parsed: 480 total: 589
+[2021-01-30T13:02:22.995] [TRACE] Crawler-15 - duration: 3.84 seconds, 471.59 seconds remaining.
+[2021-01-30T13:02:22.997] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-30T13:02:22.998] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:23.033] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:02:23.034] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:23.608] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:24.489] [TRACE] Crawler-1 - parsed: 294 total: 407
+[2021-01-30T13:02:24.492] [TRACE] Crawler-1 - duration: 2.72 seconds, 469.95 seconds remaining.
+[2021-01-30T13:02:24.494] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=7 (normalized)
+[2021-01-30T13:02:24.495] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:24.953] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:26.230] [TRACE] Crawler-14 - parsed: 60 total: 363
+[2021-01-30T13:02:26.232] [TRACE] Crawler-14 - duration: 3.20 seconds, 468.34 seconds remaining.
+[2021-01-30T13:02:26.234] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:02:26.235] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:26.296] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:27.536] [TRACE] Crawler-15 - parsed: 540 total: 589
+[2021-01-30T13:02:27.540] [TRACE] Crawler-15 - duration: 4.54 seconds, 467.05 seconds remaining.
+[2021-01-30T13:02:27.541] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-30T13:02:27.542] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:27.584] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:28.363] [TRACE] Crawler-1 - parsed: 336 total: 407
+[2021-01-30T13:02:28.365] [TRACE] Crawler-1 - duration: 3.87 seconds, 466.08 seconds remaining.
+[2021-01-30T13:02:28.367] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=8 (normalized)
+[2021-01-30T13:02:28.368] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:28.882] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:29.826] [TRACE] Crawler-1 - parsed: 378 total: 407
+[2021-01-30T13:02:29.829] [TRACE] Crawler-1 - duration: 1.46 seconds, 464.61 seconds remaining.
+[2021-01-30T13:02:29.832] [DEBUG] Crawler-1 - https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx&pagesize=42&nf=1&page=9 (normalized)
+[2021-01-30T13:02:29.837] [TRACE] Crawler-1 - fetching(axios)
+[2021-01-30T13:02:30.454] [TRACE] Crawler-5 - parsing
+[2021-01-30T13:02:31.750] [TRACE] Crawler-5 - parsed: 87 total: 87
+[2021-01-30T13:02:31.753] [TRACE] Crawler-5 - duration: 15.26 seconds, 462.74 seconds remaining.
+[2021-01-30T13:02:31.759] [DEBUG] Crawler-5 - consistency check: (1/1), pass
+[2021-01-30T13:02:31.760] [DEBUG] Crawler-5 - consistency check: all pass
+[2021-01-30T13:02:31.762] [INFO] Crawler-5 - 87 items in the previous list, and 87 items in the latest list.
+[2021-01-30T13:02:31.768] [INFO] Crawler-5 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:31.772] [INFO] Crawler-5 - Finish https://www.moosejaw.com/search/arcteryx/sale?orderBy=10 in 137.272 seconds 
+
+[2021-01-30T13:02:31.832] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:32.799] [TRACE] Crawler-15 - parsed: 589 total: 589
+[2021-01-30T13:02:32.801] [TRACE] Crawler-15 - duration: 5.26 seconds, 461.78 seconds remaining.
+[2021-01-30T13:02:32.866] [DEBUG] Crawler-15 - consistency check: init
+[2021-01-30T13:02:32.867] [TRACE] Crawler-15 - wait 5 seconds
+[2021-01-30T13:02:32.920] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:34.086] [TRACE] Crawler-14 - parsed: 120 total: 363
+[2021-01-30T13:02:34.088] [TRACE] Crawler-14 - duration: 7.85 seconds, 460.49 seconds remaining.
+[2021-01-30T13:02:34.090] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-30T13:02:34.091] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:34.252] [TRACE] Crawler-1 - parsing
+[2021-01-30T13:02:34.887] [TRACE] Crawler-1 - parsed: 407 total: 407
+[2021-01-30T13:02:34.889] [TRACE] Crawler-1 - duration: 5.06 seconds, 459.55 seconds remaining.
+[2021-01-30T13:02:34.922] [DEBUG] Crawler-1 - consistency check: (1/1), pass
+[2021-01-30T13:02:34.924] [DEBUG] Crawler-1 - consistency check: all pass
+[2021-01-30T13:02:34.926] [INFO] Crawler-1 - 407 items in the previous list, and 407 items in the latest list.
+[2021-01-30T13:02:35.000] [INFO] Crawler-1 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:35.003] [INFO] Crawler-1 - Finish https://www.backcountry.com/Store/catalog/search.jsp?q=arcteryx in 140.483 seconds 
+
+[2021-01-30T13:02:36.380] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:37.622] [TRACE] Crawler-14 - parsed: 180 total: 363
+[2021-01-30T13:02:37.626] [TRACE] Crawler-14 - duration: 3.54 seconds, 456.95 seconds remaining.
+[2021-01-30T13:02:37.627] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-30T13:02:37.628] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:37.868] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically (normalized)
+[2021-01-30T13:02:37.870] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:38.400] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:39.738] [TRACE] Crawler-14 - parsed: 240 total: 363
+[2021-01-30T13:02:39.740] [TRACE] Crawler-14 - duration: 2.11 seconds, 454.83 seconds remaining.
+[2021-01-30T13:02:39.742] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-30T13:02:39.744] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:40.559] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:41.800] [TRACE] Crawler-14 - parsed: 300 total: 363
+[2021-01-30T13:02:41.802] [TRACE] Crawler-14 - duration: 2.06 seconds, 452.77 seconds remaining.
+[2021-01-30T13:02:41.804] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-30T13:02:41.805] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:41.858] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:43.000] [TRACE] Crawler-15 - parsed: 60 total: 589
+[2021-01-30T13:02:43.002] [TRACE] Crawler-15 - duration: 5.13 seconds, 451.58 seconds remaining.
+[2021-01-30T13:02:43.004] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=2 (normalized)
+[2021-01-30T13:02:43.005] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:44.333] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:45.506] [TRACE] Crawler-14 - parsed: 360 total: 363
+[2021-01-30T13:02:45.509] [TRACE] Crawler-14 - duration: 3.70 seconds, 449.06 seconds remaining.
+[2021-01-30T13:02:45.511] [DEBUG] Crawler-14 - https://www.campsaver.com/arc-teryx-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-30T13:02:45.512] [TRACE] Crawler-14 - fetching(axios)
+[2021-01-30T13:02:46.187] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:47.451] [TRACE] Crawler-15 - parsed: 120 total: 589
+[2021-01-30T13:02:47.455] [TRACE] Crawler-15 - duration: 4.45 seconds, 447.13 seconds remaining.
+[2021-01-30T13:02:47.456] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=3 (normalized)
+[2021-01-30T13:02:47.457] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:47.765] [TRACE] Crawler-14 - parsing
+[2021-01-30T13:02:48.448] [TRACE] Crawler-14 - parsed: 363 total: 363
+[2021-01-30T13:02:48.450] [TRACE] Crawler-14 - duration: 2.94 seconds, 446.12 seconds remaining.
+[2021-01-30T13:02:48.484] [DEBUG] Crawler-14 - consistency check: (1/1), pass
+[2021-01-30T13:02:48.486] [DEBUG] Crawler-14 - consistency check: all pass
+[2021-01-30T13:02:48.487] [INFO] Crawler-14 - 363 items in the previous list, and 363 items in the latest list.
+[2021-01-30T13:02:48.549] [INFO] Crawler-14 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:02:48.553] [INFO] Crawler-14 - Finish https://www.campsaver.com/arc-teryx-brand.html in 153.912 seconds 
+
+[2021-01-30T13:02:50.295] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:51.311] [TRACE] Crawler-15 - parsed: 180 total: 589
+[2021-01-30T13:02:51.313] [TRACE] Crawler-15 - duration: 3.86 seconds, 443.27 seconds remaining.
+[2021-01-30T13:02:51.315] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=4 (normalized)
+[2021-01-30T13:02:51.316] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:52.449] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:53.423] [TRACE] Crawler-15 - parsed: 240 total: 589
+[2021-01-30T13:02:53.425] [TRACE] Crawler-15 - duration: 2.11 seconds, 441.16 seconds remaining.
+[2021-01-30T13:02:53.427] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=5 (normalized)
+[2021-01-30T13:02:53.428] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:54.606] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:55.709] [TRACE] Crawler-15 - parsed: 300 total: 589
+[2021-01-30T13:02:55.711] [TRACE] Crawler-15 - duration: 2.28 seconds, 438.87 seconds remaining.
+[2021-01-30T13:02:55.713] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=6 (normalized)
+[2021-01-30T13:02:55.714] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:56.773] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:02:57.915] [TRACE] Crawler-15 - parsed: 360 total: 589
+[2021-01-30T13:02:57.917] [TRACE] Crawler-15 - duration: 2.21 seconds, 436.67 seconds remaining.
+[2021-01-30T13:02:57.919] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=7 (normalized)
+[2021-01-30T13:02:57.920] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:02:59.055] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:03:00.286] [TRACE] Crawler-15 - parsed: 420 total: 589
+[2021-01-30T13:03:00.290] [TRACE] Crawler-15 - duration: 2.37 seconds, 434.30 seconds remaining.
+[2021-01-30T13:03:00.291] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=8 (normalized)
+[2021-01-30T13:03:00.292] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:03:01.423] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:03:02.555] [TRACE] Crawler-15 - parsed: 480 total: 589
+[2021-01-30T13:03:02.557] [TRACE] Crawler-15 - duration: 2.27 seconds, 432.03 seconds remaining.
+[2021-01-30T13:03:02.559] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=9 (normalized)
+[2021-01-30T13:03:02.560] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:03:03.637] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:03:04.758] [TRACE] Crawler-15 - parsed: 540 total: 589
+[2021-01-30T13:03:04.761] [TRACE] Crawler-15 - duration: 2.20 seconds, 429.82 seconds remaining.
+[2021-01-30T13:03:04.762] [DEBUG] Crawler-15 - https://www.campsaver.com/mammut-brand.html?_iv_sort=alphabetically&_iv_page=10 (normalized)
+[2021-01-30T13:03:04.764] [TRACE] Crawler-15 - fetching(axios)
+[2021-01-30T13:03:05.737] [TRACE] Crawler-15 - parsing
+[2021-01-30T13:03:06.685] [TRACE] Crawler-15 - parsed: 589 total: 589
+[2021-01-30T13:03:06.687] [TRACE] Crawler-15 - duration: 1.92 seconds, 427.90 seconds remaining.
+[2021-01-30T13:03:06.755] [DEBUG] Crawler-15 - consistency check: (1/1), pass
+[2021-01-30T13:03:06.757] [DEBUG] Crawler-15 - consistency check: all pass
+[2021-01-30T13:03:06.758] [INFO] Crawler-15 - 589 items in the previous list, and 589 items in the latest list.
+[2021-01-30T13:03:06.833] [INFO] Crawler-15 - 0 item(s) removed, 0 item(s) added, and 0 item(s) price were changed.
+[2021-01-30T13:03:06.836] [INFO] Crawler-15 - Finish https://www.campsaver.com/mammut-brand.html in 172.171 seconds 
+
