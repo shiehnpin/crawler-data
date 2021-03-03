@@ -1,0 +1,61 @@
+[2021-03-01T19:29:05.525] [TRACE] Crawler - Load module: {"name":"Back Country crawler","concurrent":null,"headless":false,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":8,"minMatchTimes":1}
+[2021-03-01T19:29:05.590] [TRACE] Crawler - Load module: {"name":"Campsaver crawler","concurrent":null,"headless":false,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":5,"minMatchTimes":0}
+[2021-03-01T19:29:05.596] [TRACE] Crawler - Load module: {"name":"Moosejaw crawler","concurrent":1,"headless":true,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":5,"minMatchTimes":0}
+[2021-03-01T19:29:05.609] [TRACE] Crawler - Load module: {"name":"Mountain Steals crawler","concurrent":1,"headless":true,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":12,"minMatchTimes":1}
+[2021-03-01T19:29:05.614] [TRACE] Crawler - Load module: {"name":"REI crawler","concurrent":null,"headless":false,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":4,"minMatchTimes":0}
+[2021-03-01T19:29:05.621] [TRACE] Crawler - Load module: {"name":"REI Used crawler","concurrent":3,"headless":true,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":4,"minMatchTimes":1}
+[2021-03-01T19:29:05.626] [TRACE] Crawler - Load module: {"name":"Sierra crawler","concurrent":null,"headless":false,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":5,"minMatchTimes":0}
+[2021-03-01T19:29:05.632] [TRACE] Crawler - Load module: {"name":"Steepandcheap crawler","concurrent":null,"headless":false,"maxTaskPeriod":600000,"maxPerPagePeriod":60000,"maxRetryTimes":5,"minMatchTimes":1}
+[2021-03-01T19:29:06.357] [INFO] Scheduler - Start
+[2021-03-01T19:29:06.479] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-03-01T19:29:06.680] [INFO] Git - cloning...
+[2021-03-01T19:29:07.078] [FATAL] Scheduler - Abort GitError: Git Error: unable to exec clone from/to https://github.com/shiehnpin/crawler-data.git
+    at load (/home/ubuntu/crawler/lib/repo.js:41:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+From previous Error: Cloning into '/home/ubuntu/crawler/repo'...
+fatal: unable to access 'https://github.com/shiehnpin/crawler-data.git/': Could not resolve host: github.com
+
+[2021-03-01T19:30:00.017] [DEBUG] Scheduler - [Lock]
+[2021-03-01T19:30:00.020] [INFO] Scheduler - Start
+[2021-03-01T19:30:00.055] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-03-01T19:30:00.058] [INFO] Git - cloning...
+[2021-03-01T19:30:00.156] [FATAL] Scheduler - Abort GitError: Git Error: unable to exec clone from/to https://github.com/shiehnpin/crawler-data.git
+    at load (/home/ubuntu/crawler/lib/repo.js:41:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+From previous Error: Cloning into '/home/ubuntu/crawler/repo'...
+fatal: unable to access 'https://github.com/shiehnpin/crawler-data.git/': Could not resolve host: github.com
+
+[2021-03-01T19:30:00.160] [DEBUG] Scheduler - [Release]
+[2021-03-01T19:45:00.013] [DEBUG] Scheduler - [Lock]
+[2021-03-01T19:45:00.015] [INFO] Scheduler - Start
+[2021-03-01T19:45:00.045] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-03-01T19:45:00.047] [INFO] Git - cloning...
+[2021-03-01T19:45:00.159] [FATAL] Scheduler - Abort GitError: Git Error: unable to exec clone from/to https://github.com/shiehnpin/crawler-data.git
+    at load (/home/ubuntu/crawler/lib/repo.js:41:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+From previous Error: Cloning into '/home/ubuntu/crawler/repo'...
+fatal: unable to access 'https://github.com/shiehnpin/crawler-data.git/': Could not resolve host: github.com
+
+[2021-03-01T19:45:00.163] [DEBUG] Scheduler - [Release]
+[2021-03-01T20:00:00.014] [DEBUG] Scheduler - [Lock]
+[2021-03-01T20:00:00.015] [INFO] Scheduler - Start
+[2021-03-01T20:00:00.049] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-03-01T20:00:00.052] [INFO] Git - cloning...
+[2021-03-01T20:00:00.145] [FATAL] Scheduler - Abort GitError: Git Error: unable to exec clone from/to https://github.com/shiehnpin/crawler-data.git
+    at load (/home/ubuntu/crawler/lib/repo.js:41:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+From previous Error: Cloning into '/home/ubuntu/crawler/repo'...
+fatal: unable to access 'https://github.com/shiehnpin/crawler-data.git/': Could not resolve host: github.com
+
+[2021-03-01T20:00:00.149] [DEBUG] Scheduler - [Release]
+[2021-03-01T20:15:00.015] [DEBUG] Scheduler - [Lock]
+[2021-03-01T20:15:00.017] [INFO] Scheduler - Start
+[2021-03-01T20:15:00.054] [INFO] Git - clone remote git github.com/shiehnpin/crawler-data.git to /home/ubuntu/crawler/repo
+[2021-03-01T20:15:00.057] [INFO] Git - cloning...
+[2021-03-01T20:15:00.145] [FATAL] Scheduler - Abort GitError: Git Error: unable to exec clone from/to https://github.com/shiehnpin/crawler-data.git
+    at load (/home/ubuntu/crawler/lib/repo.js:41:10)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+From previous Error: Cloning into '/home/ubuntu/crawler/repo'...
+fatal: unable to access 'https://github.com/shiehnpin/crawler-data.git/': Could not resolve host: github.com
+
+[2021-03-01T20:15:00.149] [DEBUG] Scheduler - [Release]
